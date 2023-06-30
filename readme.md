@@ -28,7 +28,7 @@ sayfasına ulaşabilir.
 
 ## Giriş Yap Ekranı
 
-<img src="/img/resim%2011.png" alt="alt text" width="240" height="450">
+<img src="/img/resim%2011.png" alt="alt text" width="240">
 
 - Giriş yap ekranında kullanıcının kullanıcı adı veya e-mail adresini ve şifresini girmesi
 gerekmektedir. Kullanıcı adı adı veya e-mail yanlış girildiği takdirde “Böyle bir kullanıcı
