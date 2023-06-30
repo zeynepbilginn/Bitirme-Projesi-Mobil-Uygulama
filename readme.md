@@ -1,6 +1,6 @@
 # FitStorm Mobil Uygulaması
 ## Tanıtım 
-<img src="/img/FitStorm%20Tan%C4%B1t%C4%B1m%20Ekran.png" alt="alt text" width="450" height="200">
+<img src="/img/FitStorm%20Tan%C4%B1t%C4%B1m%20Ekran.png" alt="alt text" width="960" height="540">
 
 FitStorm, kilo vermek, kilo almak veya kiloyu korumak isteyen kullanıcılara yönelik bir mobil uygulamadır. Kullanıcılar, beslenme hedeflerini belirlemek ve tercih ettikleri makro besin oranlarını ve diyet kısıtlamalarını ayarlamak suretiyle FitStorm'u kullanmaya başlarlar. Uygulama, kullanıcıların bireysel hedeflerine ve tercihlerine dayalı olarak kişiye özel bir beslenme planı sunar ve sağlıklı yemek tarifleriyle destekler.
 FitStorm, yemek planlama ve takibi konusunda kullanıcılara yardımcı olmanın yanı sıra, su içme hatırlatıcıları, ilerleme takibi ve popüler fitness uygulamalarıyla entegrasyon gibi çeşitli özellikler sunar. Kullanıcılar, uygulama üzerinden su içme düzenlerini takip edebilir, hedeflerine ne kadar yaklaştıklarını görebilir ve ilerlemelerini izleyebilirler. Ayrıca, FitStorm'un popüler fitness uygulamalarıyla entegrasyon özelliği sayesinde, egzersiz verilerini takip etmek ve beslenme hedefleriyle birlikte bütünsel bir sağlık yönetimi sağlamak da mümkündür.
