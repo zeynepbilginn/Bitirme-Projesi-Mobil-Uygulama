@@ -62,7 +62,7 @@ gereken besin miktarını bulmuş olunmaktadır. Böylece her kişiye özel olar
 
 ## Diyet Tipi Seçme Ekranı
 
-<img src="/img/resim%2014.png" alt="alt text" width="220" height="450">
+<img src="/img/resim%2014.jpg" alt="alt text" width="220" height="450">
 
 - Her insanın yemek tercihi farklıdır. Ve daha çok sevdiği ve tercih ettiği türler olabilir. O yüzden de sayfada kullanıcıdan diyet tipi hakkında bilgi alması amaçlanmıştır ve o yüzden tasarlanmıştır. Eğer özel bir tercihi yok ise “Her Şey” butonunu seçerek özel bir tercih yapmamış olacaktır. Eğer başka bir tip seçerse örneğin diyet tipi olarak Vejeteryan seçtiği takdirde bu tipe uygun diyet programını kullanıcıya sunmuş olacağız.
 
