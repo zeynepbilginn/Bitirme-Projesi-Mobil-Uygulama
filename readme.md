@@ -1,1 +1,1 @@
-<img src="/img/resim%20.png" alt="alt text" width="320" height="auto">
+<img src="/img/resim%20.png" alt="alt text" width="320" height="620">
