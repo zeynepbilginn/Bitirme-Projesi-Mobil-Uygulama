@@ -1,6 +1,6 @@
 # FitStorm Mobil Uygulaması
 ## Tanıtım 
-<img src="/img/FitStorm%20Tan%C4%B1t%C4%B1m%20Ekran.png" alt="alt text" width="960" height="540">
+<img src="/img/FitStorm%20Tan%C4%B1t%C4%B1m%20Ekran.png" alt="alt text" width="960" height="470">
 
 FitStorm, kilo vermek, kilo almak veya kiloyu korumak isteyen kullanıcılara yönelik bir mobil uygulamadır. Kullanıcılar, beslenme hedeflerini belirlemek ve tercih ettikleri makro besin oranlarını ve diyet kısıtlamalarını ayarlamak suretiyle FitStorm'u kullanmaya başlarlar. Uygulama, kullanıcıların bireysel hedeflerine ve tercihlerine dayalı olarak kişiye özel bir beslenme planı sunar ve sağlıklı yemek tarifleriyle destekler.
 FitStorm, yemek planlama ve takibi konusunda kullanıcılara yardımcı olmanın yanı sıra, su içme hatırlatıcıları, ilerleme takibi ve popüler fitness uygulamalarıyla entegrasyon gibi çeşitli özellikler sunar. Kullanıcılar, uygulama üzerinden su içme düzenlerini takip edebilir, hedeflerine ne kadar yaklaştıklarını görebilir ve ilerlemelerini izleyebilirler. Ayrıca, FitStorm'un popüler fitness uygulamalarıyla entegrasyon özelliği sayesinde, egzersiz verilerini takip etmek ve beslenme hedefleriyle birlikte bütünsel bir sağlık yönetimi sağlamak da mümkündür.
@@ -79,7 +79,7 @@ gereken besin miktarını bulmuş olunmaktadır. Böylece her kişiye özel olar
 
 
 ## Profil Sayfası 
-<img src="/img/resim%208.png" alt="alt text" width="220" height="450">
+<img src="/img/resim8.png" alt="alt text" width="220" height="450">
 
 - Kullanıcı “ToolBar” kısmında en sağdaki “Profil” butonuna tıkladığında bu sayfa açılacaktır. Bu sayfada kullanıcı Firebase’de realtime veritabanında tutulan verilerini görebilecektir.
 
@@ -110,8 +110,8 @@ aratılabildiği kısımdır. Herhangi bir yemeğe tıklanıldığında yemek bi
 - Bu kısımda ise o günkü öğün için gerekli olan tüm yemekler için gerekli olan yiyeceklerin listesi ve alışverişe çıkıldığında gerekli olan fiyatları da gözükmektedir.
 
 
-## Sonuçlar 
-\n
+## Sonuçlar
+
 - Sonuç olarak projemizde amaçladığımız random seçtiğimiz yemeklerden bir menü planlaması oluşturmak ve veritabanımızda yer alan yemeklere uygun bir algoritma sürecinin oluşturulması , kullanıcıdan alınan bilgilere göre bir menü planı oluşturması ve bütçe seçimine göre kullanıcı dostu bir uygulama tasarlanması amaçlanmış ve oluşturulmuştur.
 - Bu oluşturulan menünün içindekileri kapsayacak bir de besin listesinden oluşan alışveriş listesi çıkartılıp kullanıcının erişimine sunulmuştur. Burada kullanıcı besinlerin market fiyat bilgilerine de ulaşabilmektedir.
 - Kullanıcının veritabanındaki tüm yemeklere erişimini sağlayacak bir arama formu tasarlanmış. Bu sayede kullanıcı herhangi bir yemeğe tıkladığında yemeğin gram cinsinden karbonhidrat, protein ve yağ değerlerine ulaşması sağlanmış.
