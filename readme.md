@@ -109,6 +109,8 @@ aratılabildiği kısımdır. Herhangi bir yemeğe tıklanıldığında yemek bi
 
 - Bu kısımda ise o günkü öğün için gerekli olan tüm yemekler için gerekli olan yiyeceklerin listesi ve alışverişe çıkıldığında gerekli olan fiyatları da gözükmektedir.
 
+## Tanıtım Videosu
+<img src="/img/video%203.gif" alt="alt text" width="960" height="470">
 
 ## Sonuçlar
 
