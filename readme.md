@@ -10,7 +10,7 @@ FitStorm, kilo vermek, kilo almak veya kiloyu korumak isteyen kullanıcılara y�
 
 ## Giriş Ekranı
 
-<img src="/img/resim%201.png" alt="alt text" width="220" height="450" style="text-align: center;">
+<img src="/img/resim%201.png" alt="alt text" width="220" height="450" style=text-align: center;>
 
 - Projemiz için giriş ekranı olarak bu şekilde bir ekran olarak tasarlanmış olunmaktadır .Email ve Twitter olmak üzere 2 seçenek ile kayıt olabilme özelliği vardır. Zaten kullanıcının hesabı
 var ise “Giriş Yap” Butonu ile kendi varolan hesabına giriş yapabilir.
@@ -84,7 +84,7 @@ gereken besin miktarını bulmuş olunmaktadır. Böylece her kişiye özel olar
 - Kullanıcı “ToolBar” kısmında en sağdaki “Profil” butonuna tıkladığında bu sayfa açılacaktır. Bu sayfada kullanıcı Firebase’de realtime veritabanında tutulan verilerini görebilecektir.
 
 ## Menü Oluşturma Sayfası
-<img src="/img/resim%2020.png" alt="alt text" width="220" height="450">
+<img src="/img/resim%2020.png" alt="alt text" width="220" height="500">
 
 - Kullanıcının girdiği verilere uygun menü oluşturmak amaçlanmıştır. 
 
