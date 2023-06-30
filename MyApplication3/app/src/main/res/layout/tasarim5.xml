@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:id="@+id/button22"
+        android:layout_width="280dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="64dp"
+        android:backgroundTint="#3DB58B"
+        android:text="İleri"
+
+        app:layout_constraintBottom_toBottomOf="parent"
+        tools:layout_editor_absoluteX="65dp" />
+
+    <com.google.android.material.chip.Chip
+        android:id="@+id/chip2"
+        android:layout_width="67dp"
+        android:layout_height="54dp"
+        android:text="Çilek"
+        android:textColor="#4658be"
+        android:textSize="18dp"
+        android:textStyle="bold"
+        tools:layout_editor_absoluteX="100dp"
+        tools:layout_editor_absoluteY="217dp" />
+
+    <com.google.android.material.chip.Chip
+        android:id="@+id/chip7"
+        android:layout_width="77dp"
+        android:layout_height="54dp"
+        android:text="Fıstık"
+        android:textColor="#4658be"
+        android:textSize="18dp"
+        android:textStyle="bold"
+        tools:layout_editor_absoluteX="273dp"
+        tools:layout_editor_absoluteY="329dp" />
+
+    <com.google.android.material.chip.Chip
+        android:id="@+id/chip8"
+        android:layout_width="93dp"
+        android:layout_height="54dp"
+        android:text="Yumurta"
+        android:textColor="#4658be"
+        android:textSize="18dp"
+        android:textStyle="bold"
+        tools:layout_editor_absoluteX="75dp"
+        tools:layout_editor_absoluteY="329dp" />
+
+    <com.google.android.material.chip.Chip
+        android:id="@+id/chip16"
+        android:layout_width="210dp"
+        android:layout_height="54dp"
+        android:text="Kabuklu Deniz Ürünleri"
+        android:textColor="#4658be"
+        android:textSize="18dp"
+        android:textStyle="bold"
+        tools:layout_editor_absoluteX="105dp"
+        tools:layout_editor_absoluteY="275dp" />
+
+    <com.google.android.material.chip.Chip
+        android:id="@+id/chip12"
+        android:layout_width="69dp"
+        android:layout_height="54dp"
+        android:text="Balık"
+        android:textColor="#4658be"
+        android:textSize="18dp"
+        android:textStyle="bold"
+        tools:layout_editor_absoluteX="253dp"
+        tools:layout_editor_absoluteY="217dp" />
+
+    <com.google.android.material.chip.Chip
+        android:id="@+id/chip13"
+        android:layout_width="86dp"
+        android:layout_height="54dp"
+        android:text="Gluten"
+        android:textColor="#4658be"
+        android:textSize="18dp"
+        android:textStyle="bold"
+        tools:layout_editor_absoluteX="176dp"
+        tools:layout_editor_absoluteY="329dp" />
+
+    <com.google.android.material.chip.Chip
+        android:id="@+id/chip17"
+        android:layout_width="65dp"
+        android:layout_height="54dp"
+        android:text="Soya"
+        android:textColor="#4658be"
+        android:textSize="18dp"
+        android:textStyle="bold"
+        tools:layout_editor_absoluteX="178dp"
+        tools:layout_editor_absoluteY="217dp" />
+
+    <TextView
+        android:id="@+id/textView24"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Alerji olduğunuz bir besin var mı?"
+        android:textColor="#404040"
+        android:textSize="18dp"
+        tools:layout_editor_absoluteX="74dp"
+        tools:layout_editor_absoluteY="114dp" />
+
+    <TextView
+        android:id="@+id/textView25"
+        android:layout_width="266dp"
+        android:layout_height="51dp"
+        android:text="(Daha sonra &quot;İstisna Yiyecekler&quot; kısmından daha fazla yiyecek türünü seçebilirsiniz.)"
+        android:textColor="#5E5D5D"
+        android:textSize="13dp"
+        tools:layout_editor_absoluteX="74dp"
+        tools:layout_editor_absoluteY="138dp" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
