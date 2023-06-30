@@ -10,7 +10,7 @@ FitStorm, kilo vermek, kilo almak veya kiloyu korumak isteyen kullanıcılara y�
 
 ## Giriş Ekranı
 
-<img src="/img/resim%201.png" alt="alt text" width="220" height="450" style=text-align: center;>
+<img src="/img/resim%201.png" alt="alt text" width="220" height="450" style=text-align: center>
 
 - Projemiz için giriş ekranı olarak bu şekilde bir ekran olarak tasarlanmış olunmaktadır .Email ve Twitter olmak üzere 2 seçenek ile kayıt olabilme özelliği vardır. Zaten kullanıcının hesabı
 var ise “Giriş Yap” Butonu ile kendi varolan hesabına giriş yapabilir.
