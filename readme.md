@@ -6,6 +6,26 @@ FitStorm, kilo vermek, kilo almak veya kiloyu korumak isteyen kullanıcılara y�
     FitStorm, yemek planlama ve takibi konusunda kullanıcılara yardımcı olmanın yanı sıra, su içme hatırlatıcıları, ilerleme takibi ve popüler fitness uygulamalarıyla entegrasyon gibi çeşitli özellikler sunar. Kullanıcılar, uygulama üzerinden su içme düzenlerini takip edebilir, hedeflerine ne kadar yaklaştıklarını görebilir ve ilerlemelerini izleyebilirler. Ayrıca, FitStorm'un popüler fitness uygulamalarıyla entegrasyon özelliği sayesinde, egzersiz verilerini takip etmek ve beslenme hedefleriyle birlikte bütünsel bir sağlık yönetimi sağlamak da mümkündür.
     FitStorm'un temel amacı, kullanıcılara daha sağlıklı yiyecek seçimleri yapmalarına yardımcı olmak ve genel beslenmelerini iyileştirmek için bir rehberlik ve destek sağlamaktır. Uygulama, kullanıcı dostu bir arayüz ve kullanışlı özelliklerle donatılmıştır, böylece kullanıcılar hedeflerine ulaşmak ve sağlıklı yaşam tarzı alışkanlıkları geliştirmek için kolayca kullanabilirler. FitStorm, kullanıcıların beslenme ve sağlık hedeflerine ulaşmaları konusunda güvenilir bir yol arkadaşı olmayı hedeflemektedir.
 
+## Veri Tabanı Diyagramı (ERM Diyagramı)
+
+<img src="/img/resim%2024.jpg" alt="alt text" width="960" height="470">
+
+1.	Meals tablosu, bütün food tablosundaki malzemelerden oluşan farklı türdeki yemeklerin id’lerinin, isimlerinin (name), tariflerinin (recipe), yemeğinin tipinin id’sinin (meal_type_id) ve yemeklerin resim adreslerinini(img_url)  bulundurur.
+2.	Meal_type tablosunda bulunan yemeklerin bütün farklı olan tiplerinin id’lerini barındırır. Bu tablo meals tablosunda tekrar tekrar aynı isimleri yazmamak adına veri tasarrufu sağlanmak adına oluşturulmuştur.
+3.	Food_in_the_meal tablosunda yemeklerin içinde bulunan malzemelerin her bir malzemeden ne kadar olduğu (quantity) ve miktar cinsi (unit) tutulmuştur. Ayrıca her bir yemek id si(meal_id) için içinde bulunan malzemenin (food_id) karşılarında olacak şekilde tutulmuştur.
+4.	Minerals ve vitamins tablolarında vitaminlerin ve minerallerin isimleri ve bunlara karşılık gelen numaralar tutulmuştur. Böylece her bir vitamin ve mineralin artık birer numarası (id) vardır.
+5.	Food_minerals ve food_vitamins tabloları vitaminlerin ve minerallerin tekrarlanması için her bir mineral ve vitamine birer id değeri vererek tutulması sağlanmıştır.
+6.	Meal_times tablosunda öğünlerin adı (name) ve id leri tutulmuştur.
+7.	Meal_times_meals tablosunda yemeklerin idlerleri (meal_d) ve bu yemeğin hangi öğünde yeniliyor ise o öğünün id’si (meal_time_id) tutulmuştur.
+8.	Seasons tablosunda yiyeceklerin bulabileceği sezonların isimleri (name) ve bunlara karşılık gelecek id bilgileri tutulmuştur.
+9.	Food_seasons tablosunda yiyeceklerin numaları (food_id) ve bu yiyeceğe karşılık gelecek olan sezon tablosundaki yer alan sezon numaraları (season_id)  karşılarında tutulmuştur.
+10.	Diet_types tablosunda diyet adları (name) ve bublara karşılık gelecek numara (id) değerleri tutulmuştur.
+
+11.	Food_diet_types tablosunda her bir yiyeceğin numaraları (food_id) ve ve o yiyeceğin hangi diyet tipine göre olduğunu tutulması istenilmiştir. Bu yüzden de Diet_types tablosundaki diyet numaralarına (diet_type_id)  göre eklenmiştir.
+
+<img src="/img/resim%2025.jpg" alt="alt text" width="960" height="470">
+
+12.	Yukarıda yer alan food tablosu, bir gıda maddesini soyut bir şekilde temsil eder ve gıdanın tanımlayıcısı (id), adı (name), türü (type),proteini (protein), yağı (fat) ve karbonhidratları (carbohydrates) fiyatları (price), resimlerinin adresleri (img_url), ürünün miktarı(quantity)  ve miktarının cinsi (unit) gibi öz niteliklere sahiptir. 
 
 
 ## Giriş Ekranı
@@ -113,8 +133,8 @@ aratılabildiği kısımdır. Herhangi bir yemeğe tıklanıldığında yemek bi
 <img src="/img/video%203.gif" alt="alt text" width="960" height="470">
 
 ## Sonuçlar
-
-- Sonuç olarak projemizde amaçladığımız random seçtiğimiz yemeklerden bir menü planlaması oluşturmak ve veritabanımızda yer alan yemeklere uygun bir algoritma sürecinin oluşturulması , kullanıcıdan alınan bilgilere göre bir menü planı oluşturması ve bütçe seçimine göre kullanıcı dostu bir uygulama tasarlanması amaçlanmış ve oluşturulmuştur.
+- Sonuç olarakDatabase Python dilindeki psycopg2 kütüphanesi kullanılarak datasetlerdeki gerekli düzenlemeler yapılarak doldurulmuştur.
+- Projemizde amaçladığımız random seçtiğimiz yemeklerden bir menü planlaması oluşturmak ve veritabanımızda yer alan yemeklere uygun bir algoritma sürecinin oluşturulması , kullanıcıdan alınan bilgilere göre bir menü planı oluşturması ve bütçe seçimine göre kullanıcı dostu bir uygulama tasarlanması amaçlanmış ve oluşturulmuştur.
 - Bu oluşturulan menünün içindekileri kapsayacak bir de besin listesinden oluşan alışveriş listesi çıkartılıp kullanıcının erişimine sunulmuştur. Burada kullanıcı besinlerin market fiyat bilgilerine de ulaşabilmektedir.
 - Kullanıcının veritabanındaki tüm yemeklere erişimini sağlayacak bir arama formu tasarlanmış. Bu sayede kullanıcı herhangi bir yemeğe tıkladığında yemeğin gram cinsinden karbonhidrat, protein ve yağ değerlerine ulaşması sağlanmış.
 - Kalori olarak değerine de erişmesi sağlanmıştır.

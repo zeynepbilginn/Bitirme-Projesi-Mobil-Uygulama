@@ -1,0 +1,906 @@
+Food,Measure,Grams,Calories,Protein,Fat,SatFat,Fiber,Carbs,Category,Id,Price,Img_url
+inek sutu,1 qt.,976,660,32,40,36,0,48,Sut urunleri,1,11.00,https://sutmarketi.com/wp-content/uploads/2020/07/gunluk-cig-inek-sutu-1.jpg
+yagsiz sut,1 qt.,984,360,36,0,0,0,52,Sut urunleri,2,25.00,https://st.myideasoft.com/idea/if/83/myassets/products/127/sm-urun-gorselleri-sut-ve-krema-514500-sut-light-1l.jpg?revision=1638262888
+ayran,1 su bardagi,246,127,9,5,4,0,13,Sut urunleri,3,24.00,https://images.migrosone.com/sanalmarket/product/11550470/sutas-pratik-sise-ayran-1-l-6ffab1-1650x1650.jpg
+sut tozu,1 su bardagi,103,515,27,28,24,0,39,Sut urunleri,4,20.00,https://productimages.hepsiburada.net/s/39/375/10618462797874.jpg
+keci sutu,1 su bardagi,244,165,8,10,8,0,11,Sut urunleri,5,11.00,https://productimages.hepsiburada.net/s/19/375/9845867413554.jpg
+kakao,1 su bardagi,252,235,8,11,10,0,26,Sut urunleri,6,160.00,https://productimages.hepsiburada.net/s/44/375/10819129081906.jpg
+misir nisastasi,1 su bardagi,248,275,9,10,9,0,40,Sut urunleri,7,90.00,https://productimages.hepsiburada.net/s/20/375/9895870693426.jpg
+buzlu sut,1 su bardagi,190,275,9,10,9,0,32,Sut urunleri,8,25.00,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmbSDXBTusz6wicB2EyHNYh4t5j1bc_jyz8w&usqp=CAU
+krema,1/2 su bardagi,120,170,4,15,13,0,5,Sut urunleri,9,106.00,https://cdn.dsmcdn.com/ty182/product/media/images/20210922/17/135328587/72710635/1/1_org_zoom.jpg
+peynir,1 kase,225,240,30,11,10,0,6,Sut urunleri,10,170.00,https://st.myideasoft.com/idea/if/83/myassets/products/164/sm-urun-gorselleri-peynirler-320500-beyaz-peynir-1000g.jpg?revision=1638259326
+cheddar,1/2 kap,56,226,14,19,17,0,1,Sut urunleri,11,210.00,https://productimages.hepsiburada.net/s/93/375/110000035664500.jpg
+krem peynir,1 oz.,28,105,2,11,10,0,1,Sut urunlerii,12,149.00,https://iis-akakce.akamaized.net/p.z?%2F%2Fkapida%2Eakinoncdn%2Ecom%2Fproducts%2F2020%2F11%2F09%2F28007%2F1ab70c7f%2D2e36%2D4ca0%2Da314%2De27ac0d63a60%2Ejpg
+yumurta sarisi,2,34,120,6,10,8,0,0,Yaglar,13,374.00,https://st3.myideasoft.com/shop/cr/25/myassets/products/191/yumurta-sarisi-tozu.png?revision=1582035650
+tereyagi,1/2 su bardagi,112,113,114,115,116,117,118,Kati ve sivi yaglar,14,255.00,https://productimages.hepsiburada.net/s/49/375/11000953667634.jpg
+margarin,1/2 su bardagi,112,806,0,91,76,0,0,Yaglar,15,49.00,https://cdn.akakce.com/bizim/bizim-250-gr-paket-z.jpg
+mayonez,1 T.,15,110,0,12,5,0,0,Yaglar,16,55.00,https://www.marketradari.com/wp-content/uploads/2022/01/wp-16421506449644428286479603851016-scaled-e1642151137900.jpg
+misir yagi,1 T.,14,125,0,14,5,0,0,Yaglar,17,50.00,https://productimages.hepsiburada.net/s/10/375/9223040663602.jpg
+sigir eti,3 oz.,85,245,23,16,15,0,0,Et,18,630.00,https://st.myideasoft.com/idea/ad/25/myassets/products/596/dana-kemikli-et-kg.jpeg?revision=1593253286
+biftek,3 oz.,85,330,20,27,25,0,0,Et,19,360.00,https://images.migrosone.com/sanalmarket/product/25010045/25010045-ecddca-1650x1650.jpg
+jambon,2 oz.,57,170,13,13,11,0,0,Et,20,670.00,https://cdn.akakce.com/namet/namet-150-gr-dilimli-dana-z.jpg
+dana eti,3 oz.,85,185,23,9,8,0,0,Et,21,293.00,https://cdn.cimri.io/market/260x260/1-kg-dana-kusbasi-_286488.jpg
+istiridye,3 oz.,85,87,12,1,0,0,2,Balik,22,30.00,https://ae01.alicdn.com/kf/HTB1C5X5aiAnBKNjSZFvq6yTKXXai/Istiridye-inciler-nan-lmaz-fiyat-50-adet-ok-renkli-tatl-su-istiridye-inci-vakumlu-b-y.jpg
+yengec eti,3 oz.,85,90,14,2,0,0,1,Balik,23,334.00,https://www.kapidabalik.com/wp-content/uploads/2021/08/MAVI-YENGEC-ETI-1.jpeg
+istakoz,ortalama,100,92,18,1,0,0,0,Balik,24,1.719,https://www.balikye.com/resimler/products/61277-istakoz.jpg
+istiridye baligi,6-8 orta,230,231,232,233,234,235,236,Balik,25,100.00,https://st.myideasoft.com/idea/ev/46/myassets/products/559/istiridye-500.png?revision=1673273077
+somon,3 oz.,85,120,17,5,1,0,0,Balik,26,317.00,https://cdn.cimri.io/market/260x260/1-kg-dilim-turk-somonu-_98362.jpg
+karides,3 oz.,85,110,23,1,0,0,0,Balik,27,153.00,https://cdn.akakce.com/balik-dunyasi/balik-dunyasi-500-gr-et-karides-z.jpg
+kilicbaligi,1 biftek,100,180,27,6,0,0,0,Balik,28,349.00,https://static.ticimax.cloud/8019/uploads/urunresimleri/buyuk/sword-fish---kilic-baligi-biblo-balik-11d5.jpg
+ton baligi,3 oz.,85,170,25,7,3,0,0,Balik,29,161.00,https://productimages.hepsiburada.net/s/51/375/11072976158770.jpg
+pancar,1 su bardagi,165,1,12,0,0,0,0.8,Sebze A-E,30,45.00,https://reimg-carrefour.mncdn.com/mnresize/600/600/productimage/30007252/30007252_0_MC/8803762634802_1528879429017.jpg
+brokoli,1 kase,150,45,5,0,0,1.9,8,Sebze A-E,31,21.00,https://reimg-carrefour.mncdn.com/mnresize/600/600/productimage/30088094/30088094_0_MC/8796872048690_1528879600523.jpg
+bruksel lahanasi,1 su bardagi,130,60,6,0,0,1.7,12,Sebzeler A-E,32,50.00,https://images.migrosone.com/sanalmarket/product/28220000/lahana-bruksel-kg-0e8afe-1650x1650.jpg
+lahana tursusu,1 su bardagi,150,32,1,0,0,1.2,7,Sebze A-E,33,105.00,https://productimages.hepsiburada.net/s/40/1500/10672967614514.jpg
+haslanmis lahana,1 su bardagi,170,40,2,0,0,1.3,9,Sebze A-E,34,15.00,https://lahana.gen.tr/images/haslanmis-lahana-salatasi-5054.jpg
+karnabahar,1 su bardagi,120,30,3,0,0,1,6,Sebze A-E,35,29.00,https://images.migrosone.com/sanalmarket/product/28170000/karnabahar-kg-def0a7-1650x1650.jpg
+karalahana,1 su bardagi,150,51,5,0,0,2,8,Sebze A-E,36,17.00,https://cdn.cimri.io/market/260x260/kara-lahana-adet-_206155.jpg
+misir,1 basak,100,92,3,1,0,0.8,21,Sebzeler A-E,37,35.00,https://cdn.cimri.io/market/260x260/yoremce-500-gr-cin-misir-_250370.jpg
+hindiba,2 oz.,57,10,1,0,0,0.6,2,Sebze A-E,38,21.00,https://www.verita.com.tr/wp-content/uploads/2014/08/hinibag.jpg
+lahana,1 su bardagi,110,45,4,1,0,0.9,8,Sebzeler F-P,39,7.00,https://images.migrosone.com/sanalmarket/product/28210000/lahana-beyaz-kg-ort-1750-g-9f6e4c.jpg
+mantar konservesi,4,120,12,2,0,0,0,4,Sebzeler F-P,40,75.00,https://productimages.hepsiburada.net/s/41/375/10696057323570.jpg
+sogan,1,210,80,2,0,0,1.6,18,Sebzeler F-P,41,18.00,https://www.tarimziraat.com/foto/rich_snippets/kuru_sogan.jpg
+yesil sogan,6 kucuk,50,22,0,0,0,1,5,Sebzeler F-P,42,14.00,https://images.migrosone.com/sanalmarket/product/28395002/sogan-taze-demet-1c62ec-1650x1650.jpg
+maydanoz,2 T.,50,2,0,0,0,0,0,Sebzeler F-P,43,100.00,https://images.migrosone.com/sanalmarket/product/28260009/maydanoz-adet-659b84-1650x1650.jpg
+dondurulmus bezelye,1 su bardagi,100,,5,0,0,1.8,12,Sebzeler R-Z,44,47.00,https://cdn.cimri.io/market/260x260/superfresh-450-gr-bezelye-_281161.jpg
+pismis bezelye,4 su bardagi,100,115,8,0,0,0.4,21,Sebzeler R-Z,45,47.00,https://cdn.cimri.io/market/260x260/superfresh-450-gr-bezelye-_281161.jpg
+biber konservesi,1 bakla,38,10,0,0,0,0,2,Sebze R-Z,46,60.00,https://images.migrosone.com/sanalmarket/product/09033750/penguen-kozlenmis-kapya-biber-680-gr-f70162-1650x1650.jpg
+yesil biber,1 buyuk,100,25,1,0,0,1.4,6,Sebzeler R-Z,47,13.00,https://images.migrosone.com/sanalmarket/product/28054000/biber-sivri-kg-2ab518-1650x1650.jpg
+tatli patates,1 med.,110,155,2,1,0,1,36,Sebzeler R-Z,48,20.00,https://reimg-carrefour.mncdn.com/mnresize/600/600/productimage/30085258/30085258_0_MC/8806419234866_1517467622833.jpg
+domates suyu,1 su bardagi,240,50,2,0,0,0.6,10,Sebze R-Z,49,28.00,https://productimages.hepsiburada.net/s/23/375/10057713745970.jpg
+elma sirkesi,1/3 su bardagi,100,14,0,0,0,0,3,Meyveler A-F,50,22.00,https://cdn.dsmcdn.com/ty6/product/media/images/20200717/15/4828891/15730547/1/1_org_zoom.jpg
+kayisi,1 su bardagi,250,220,2,0,0,1,57,Meyveler A-F,51,80.00,https://images.migrosone.com/sanalmarket/product/27210000/kayisi-kg-d2e1e6.jpg
+kurutulmus kayisi,1/2 su bardagi,75,220,4,0,0,1,50,Meyveler A-F,52,200.00,https://productimages.hepsiburada.net/s/8/1500/9776121905202.jpg
+nektari,1 su bardagi,250,140,1,0,0,2,36,Meyveler A-F,53,25.00,https://cdn.cimri.io/market/260x260/nektarin-_224462.jpg
+avokado,1/2 buyuk,108,185,2,18,12,1.8,6,Meyveler A-F,54,175.00,https://images.migrosone.com/hemen/product/28010004/28010004-10a053-1650x1650.jpg
+bogurtlen,1 su bardagi,144,85,2,1,0,6.6,19,Meyveler A-F,55,40.00,https://cdn.cimri.io/market/260x260/bogurtlen-_224644.jpg
+yaban mersini,1 su bardagi,250,245,1,0,0,2,65,Meyveler A-F,56,125.00,https://cdn.cimri.io/market/260x260/yaban-mersini-_218672.jpg
+kavun,1/2 med.,380,40,1,0,0,2.2,9,Meyveler A-F,57,49.00,https://static.ticimax.cloud/30771/uploads/urunresimleri/buyuk/kavun-kg-6fdd.jpg
+kirazlar,1 su bardagi,257,100,2,1,0,2,26,Meyveler A-F,58,160.00,https://cdn.cimri.io/market/260x260/kiraz-_223853.jpg
+hurma,1 su bardagi,178,505,4,0,0,3.6,134,Meyveler A-F,59,160.00,https://productimages.hepsiburada.net/s/1/375/9537275691058.jpg
+incir pekmezli konserve,3,115,130,1,0,0,1,32,Meyveler A-F,60,100.00,https://cdn.cimri.io/market/260x260/senay-800-gr-incir-pekmezi-_273729.jpg
+greyfurt dilimleri,1 su bardagi,250,170,1,0,0,0.5,44,Meyveler G-P,61,55.00,https://productimages.hepsiburada.net/s/20/375/9883559067698.jpg
+uzum,1 su bardagi,153,70,1,0,0,0.8,16,Meyveler,62,50.00,https://cdn.cimri.io/market/260x260/cekirdeksiz-uzum-_223799.jpg
+limon suyu,1/2 su bardagi,125,30,0,0,0,0,10,Meyveler G-P,63,10.00,https://cdn.cimri.io/market/260x260/taris-1-lt-limon-suyu-_190342.jpg
+zeytin,10,65,72,1,10,9,0.8,3,Meyveler G-P,64,46.00,https://productimages.hepsiburada.net/s/36/1500/10506536943666.jpg
+portakal 3 cap,1 orta,180,60,2,0,0,1,16,Meyveler G-P,65,11.00,https://productimages.hepsiburada.net/s/20/375/9883560050738.jpg
+ananas,1 buyuk dilim,122,95,0,0,0,0.4,26,Meyveler G-P,66,100.00,https://productimages.hepsiburada.net/s/21/375/9938531450930.jpg
+ahududu,1/2 su bardagi,100,100,0,0,0,2,25,Meyveler R-Z,67,30.00,https://productimages.hepsiburada.net/s/24/375/10067279544370.jpg
+cilek,1 su bardagi,227,242,1,0,0,1.3,60,Meyveler R-Z,68,25.00,https://images.migrosone.com/sanalmarket/product/27081000/27081000-7e292e-1650x1650.jpg
+biskuviler,1,38,130,3,4,3,0,18,Ekmekler,69,15.00,https://cdn.akakce.com/ulker/ulker-61-gr-8-li-kremali-sandvic-z.jpg
+kepek gevregi,1 su bardagi,25,117,3,0,0,0.1,32,Ekmekler,70,30.00,https://productimages.hepsiburada.net/s/22/500/9943343923250.jpg
+ekmek,1 dilim,23,60,2,1,1,0.1,12,Ekmekler,71,5.00,https://images.migrosone.com/sanalmarket/product/05120000/05120000-a957e2-1650x1650.jpg
+cavdar ekmegi,1 dilim,23,55,2,1,1,0.1,12,Ekmekler,72,14.00,https://images.migrosone.com/sanalmarket/product/05052642/ihe-cavdar-ekmegi-400-gr-e9bfe7-1650x1650.jpg
+beyaz ekmek,20 dilim veya 1 lb. somun,454,1,225,39,15,12,9,229,73,12.00,https://www.karekod.org/blog/wp-content/uploads/2022/12/odun-ekmegi-1024x683.jpg
+tam bugday ekmegi,1 dilim,23,55,2,1,0,0.31,11,Ekmekler,74,32.00,https://reimg-carrefour.mncdn.com/mnresize/600/600/productimage/30053367/30053367_0_MC/8796628877362_1577775416163.jpg
+misir ekmegi,1 porsiyon,50,100,3,4,2,0.3,15,Ekmekler,75,24.00,https://productimages.hepsiburada.net/s/80/375/110000021730917.jpg
+misir gevregi,1 su bardagi,25,110,2,0,0,0.1,25,Ekmekler,76,51.00,https://productimages.hepsiburada.net/s/31/1500/10333268246578.jpg
+pismis misir ezmesi,1 su bardagi,242,120,8,0,0,0,2,27,77,20.00,https://productimages.hepsiburada.net/s/316/375/110000309678966.jpg
+misir unu,1 su bardagi,118,360,9,4,2,1.6,74,Ekmekler,78,25.00,https://productimages.hepsiburada.net/s/6/1500/9707868880946.jpg
+kraker,2 med.,14,55,1,1,0,0,10,Ekmekler,79,40.00,https://images.migrosone.com/sanalmarket/product/07010210/07010210-fc9e90-1650x1650.jpg
+soda,2 1/2 kare,2,11,45,1,1,0,0,8,80,4.00,https://productimages.hepsiburada.net/s/32/375/10364946645042.jpg
+un,1 su bardagi,110,460,39,22,0,2,9,33,81,10.00,https://productimages.hepsiburada.net/s/57/500/11280332750898.jpg
+bugday (tam),1 su bardagi,120,390,13,2,0,2,8,79,82,16.00,https://productimages.hepsiburada.net/s/52/500/11122716672050.jpg
+yulaf ezmesi,1 su bardagi,236,150,5,3,2,4.6,26,Ekmekler,83,37.00,https://productimages.hepsiburada.net/s/68/375/110000009569854.jpg
+pirinc gevregi,1 su bardagi,30,115,2,0,0,0.1,26,Ekmekler,84,45.00,https://productimages.hepsiburada.net/s/38/375/10590086922290.jpg
+rafine un,1,38,115,3,2,2,0,20,Ekmekler,85,20.00,https://imgs.alem.com.tr/Documents/Alem_Dergi/images/2015/11/12/f6b2e009-b3a9-41d5-bd3d-7a6f4101394f.jpg
+bugday,3/4 su bardagi,200,275,12,1,0,4.4,35,Ekmekler,86,26.00,https://i2.gazetevatan.com/i/gazetevatan/75/1200x675/61e7d01ced13441560df2f2d.jpg
+bulyon,1 su bardagi,240,24,5,0,0,0,0,Corbalar,87,34.00,https://productimages.hepsiburada.net/s/5/500/9674967842866.jpg
+pandispanya,1 dilim,40,115,3,2,2,0,22,Tatli,88,34.00,https://productimages.hepsiburada.net/s/31/375/10348737265714.jpg
+cikolata kremalari,2,30,130,0,4,4,0,24,Tatlilar,89,52.00,https://productimages.hepsiburada.net/s/49/375/10983952678962.jpg
+sutlu cikolata,2 oz. bar,56,290,2,6,6,0.2,44,Tatlilar,90,15.00,https://cdn.akakce.com/ulker/ulker-60-gr-sutlu-kare-z.jpg
+cikolata surubu,2 T.,40,80,0,0,0,0,22,Tatlilar,91,234.00,https://cdn.dsmcdn.com/ty98/product/media/images/20210404/02/9ce11e0c/22237326/1/1_org_zoom.jpg
+corek,1,33,135,2,7,4,0,17,Tatlilar,92,108.00,https://cdn.akakce.com/bagdat/bagdat-baharat-1000-gr_1-z.jpg
+buz,1 bardak,150,117,0,0,0,0,48,Tatlilar,93,5.00,https://d.neoldu.com/news/21381.jpg
+pekmez,1 T.,20,45,0,0,0,8,11,Recel,94,84.00,https://cdn.dsmcdn.com/ty1/product/media/images/20200416/12/1940796/68817627/1/1_org_zoom.jpg
+toz seker,1 T.,12,50,0,0,0,0,12,Tatlilar,95,30.00,https://cdn.akakce.com/z/turk-seker/turk-5-kg-toz.jpg
+kavrulmus badem,1/2 su bardagi,70,439,13,40,31,1.8,13,Tohumlar ve Kuruyemisler,96,179.00,https://cdn.cimri.io/market/260x260/1-kg-kavrulmus-badem-_1445340.jpg
+kaju fistigi,1/2 su bardagi,70,392,12,32,28,0.9,20,Tohumlar ve Kuruyemisler,97,191.00,https://productimages.hepsiburada.net/s/4/375/9664059080754.jpg
+hindistan cevizi,1/2 su bardagi,50,274,1,20,19,2,26,Tohumlar ve Kuruyemisler,98,64.00,https://productimages.hepsiburada.net/s/22/375/9945833537586.jpg
+fistik ezmesi,1/3 su bardagi,50,300,12,25,17,0.9,9,Tohumlar ve Kuruyemisler,99,68.00,https://cdn.dsmcdn.com/ty324/product/media/images/20220206/6/45524995/59474802/1/1_org_zoom.jpg
+yer fistigi,1/3 su bardagi,50,290,13,25,16,1.2,9,Tohumlar ve Kuruyemisler,100,27.00,https://st3.myideasoft.com/idea/au/35/myassets/products/928/dts2033-copy.jpg?revision=1586205861
+susam tohumlari,1/2 su bardagi,50,280,9,24,13,3.1,10,Tohumlar ve Kuruyemisler,101,111.00,https://st.myideasoft.com/idea/er/22/myassets/products/648/dogal-susam-tohumu-1-kg.jpg?revision=1599464757
+aycekirdegi,1/2 su bardagi,50,280,12,26,7,1.9,10,Tohumlar ve Kuruyemisler,102,20.00,https://d23ic3f0nw4szy.cloudfront.net/marketpaketi/products/552657/nevden-kavrulmus-yerli-siyah-cekirdek-1-kg-599d43aa7773c7e96bdc3ade3e5dcb11.jpg
+bakla,0,0,100,5.2,0.4,0,0,9.8,x,103,90.00,https://productimages.hepsiburada.net/s/67/375/110000009199793.jpg
+bezelye,0,0,"	100","	06.3","	0.4",0,0,14.4,x,104,84.00,https://www.tohumgelsin.com/depo/bezelye-tohumu3-600x600.jpg
+asma yapragi,0,0,"	100","	03.8","	01.1",0,0,15.6,x,105,50.00,https://i0.shbdn.com/photos/66/34/59/x5_1072663459b0f.jpg
+domates,0,0,"	100","	01.1","	0.2",0,0,4.8,x,106,27.00,https://productimages.hepsiburada.net/s/19/375/9840429072434.jpg
+salatalik,0,0,"	100","	0.6	",0.1,0,0,3.2,x,107,9.00,https://ayb.akinoncdn.com/products/2021/09/01/7095/7a472d55-53f1-40b0-8a80-d1b28985eeea_size780x780_quality60_cropCenter.jpg
+ebegumeci,0,0,"	100","	04.4","	0.6",0,0,4.3,x,108,182.00,https://cdn.cimri.io/market/260x260/aktarzane-1-kg-ebegumeci-_255121.jpg
+enginar,0,0,"	100","	3.0	","0.2	",0,0,7.8,x,109,270.00,https://www.unileverfoodsolutions.com.tr/konsept-uygulamalarimiz/puf-noktalari/enginar-nasil-temizlenir/jcr:content/parsys/content/image_713528347.img.jpg/1618942565795.jpg
+fasulye,0,0,"	100","	01.8	",0.2,0,0,7,x,110,49.00,https://i.nefisyemektarifleri.com/2022/02/26/kuru-fasulye-seker-fasulye.jpg
+havuc,0,0,"	100","	01.1","	0.2",0,0,10,x,111,10.00,https://www.eskitadinda.com/img/havuc_1966_7245_2.png
+kabak,0,0,"	100	",1,0.1,0,0,6.6,x,112,17.00,https://i.lezzet.com.tr/images-xxlarge-secondary/kabak-soyulmali-mi-f652938a-197d-429b-b852-eea069a24964.jpg
+karnibahar,0,0,"	100","02.7	",0.2,0,0,5.2,x,113,30.00,https://i2.milimaj.com/i/milliyet/75/1200x675/5ea1aff45542801ed428c8da.jpg
+kereviz,0,0,"	100","01.8	",0.3,0,0,8.5,x,114,33.00,https://cdn.memorial.com.tr/files/Uploads/1/15/kerevizinfaydalarinelerdirjpg_2fd4.jpg
+kivircik salata,0,0,"	100","	01.7","	0.1",0,0,4.1,x,115,630.00,https://images.migrosone.com/tazedirekt/product/28360003/28360003-102b17-680x454.jpg
+beyaz lahana,0,0,"	100","	01.3","	0.2",0,0,5.4,x,116,250.00,https://images.migrosone.com/tazedirekt/product/28210026/28210026-ef80ff-680x454.jpg
+ispanak,0,0,"	100","	03.2	",0.3,0,0,4.3,x,117,17.00,https://mutlusebzeler.com/wp-content/uploads/2018/08/ispanak.jpg
+marul,0,0,"	100","	01.2","	0.2",0,0,2.5,x,118,45.00,https://upload.wikimedia.org/wikipedia/commons/a/a5/Iceberg_lettuce_%28IJssla_krop%29.jpg
+mantar,0,0,"	100","	02.7","	0.3",0,0,4.4,x,119,420.00,https://www.unileverfoodsolutions.com.tr/konsept-uygulamalarimiz/karsi-konulamaz-malzemeler/mantar-cesitleri-yenilebilir-mantar-turleri/jcr:content/parsys/content/image_731919066_copy.img.jpg/1631990802279.jpg
+maydonoz,0,0,"	100","	03.6	",0.6,0,0,8.5,x,120,134.00,https://www.diyetkolik.com/site_media/media/customvideo_images/Adsz_tasarm.jpg
+nane,0,0,"	100","	5.0","	01.3",0,0,7.9,x,121,149.00,https://st3.myideasoft.com/shop/ir/87/myassets/products/879/nane-fidesi-citaro-1.jpg?revision=1637925096
+patlican,0,0,"	100","	01.2","	0.2",0,0,5.6,x,122,28.00,https://st2.myideasoft.com/idea/dh/08/myassets/blogs/patlican-nasil-yetisir.jpg?revision=1518603000
+patates,0,0,"	100","	02.1","	0.1",0,0,17,x,123,70.00,https://images.migrosone.com/sanalmarket/product/28290036/28290036-6a65f9-1650x1650.jpg
+kuru sogan,0,0,"	100","	1.5",0.1,0,0,8.7,x,124,4.00,https://www.onurmarket.com/Uploads/UrunResimleri/buyuk/1008964-f7e0a6.jpg
+pirasa,0,0,"	100","	02.2","	0.3",0,0,11.2,x,125,23.00,https://productimages.hepsiburada.net/s/19/375/9840427434034.jpg
+sarmisak,0,0,"	100","	06.2","	0.2",0,0,30,x,126,30.00,https://witcdn.marasmarket.com/sarimsak-1-kg-kurutulmus-gidalar-maras-market-5437-16-B.jpg
+semizotu,0,0,"	100","	2.0","	0.5",0,0,3.9,x,127,5.00,https://mutlusebzeler.com/wp-content/uploads/2017/02/semiz-otu.jpg
+yer elmasi,0,0,"	100","	02.3","	0.1",0,0,16.7,x,128,40.00,https://cdn.cimri.io/market/260x260/yer-elmasi-_129720.jpg
+turp,0,0,"	100","	0.9","	0.1",,,4.2,x,129,14.00,https://images.migrosone.com/tazedirekt/product/28470000/28470000-d38d20.jpg
+kuru fasulye,0,0,"	100","	22.3","	01.6",0,0,61.3,x,130,67.00,https://www.tazemasa.com/Uploads/UrunResimleri/buyuk/organik-kuru-fasulye-1-kg-s.s-tire-org-917-4a.jpg
+nohut,0,0,"	100	",20.5,"	04.8",0,0,61,x,131,54.00,https://productimages.hepsiburada.net/s/31/500/10334705090610.jpg
+mercimek,0,0,"	100	",24.7,"	01.1",0,0,60.1,x,132,23.00,https://images.migrosone.com/macrocenter/product/01061910/01061910-11f5b6.jpg
+soya fasulyesi,0,0,"	100","	34.0","	17.8",0,0,33.5,x,133,59.00,https://n11scdn.akamaized.net/a1/450/ev-yasam/fasulye/soya-fasulyesi-1-kg__0876074674570205.jpg
+bakla (ici),0,0,"	100","	25.1","	01.7",0,0,58.2,0,134,90.00,https://www.makbul.com/Content/global/images/products/1/109/ORG-bakla-ici-kg543.jpg
+barbunya,0,0,"	100	",23,"	01.2",0,0,63.7,x,135,90.00,https://productimages.hepsiburada.net/s/60/375/110000001783193.jpg
+alabalik,100 gr,100,168,18.3,10,,,0,X,136,60.00,https://cdn.cimri.io/market/260x260/1-kg-alabalik-_97266.jpg
+kalkan,100 gr,100,193,14.8,14.4,,,0,X,137,750.00,https://www.balikye.com/resimler/products/39720.jpg
+levrek,100 gr,100,93,19.2,1.2,,,0,X,138,270.00,https://www.kapidabalik.com/wp-content/uploads/2021/08/DENIZ-LEVREGI-IRI-1KG.-USTU-1-1.jpg
+palamut,100 gr,100,168,24,7.3,,,0,X,139,100.00,https://www.balikye.com/resimler/products/53921-palamut-taze-800-1000-gr-adet.jpg
+uskumru,100 gr,100,159,21.9,7.3,,,0,X,140,378.00,https://www.balikye.com/resimler/products/39770-uskumru-taze.jpg
+tuzlanmis balik,100 gr,100,305,18.5,25.1,,,0,X,141,60.00,https://static.ticimax.cloud/50012/uploads/urunresimleri/buyuk/van-tuzlu-balik-1-kg-883d-4.jpg
+beyin,100 gr,100,125,10.4,8.6,,,0.8,X,142,37.00,https://turanet.com.tr/wp-content/uploads/2021/02/dana-beyin.jpg
+kuzu bobrek,100 gr,100,105,16.8,3.3,,,0.9,X,143,290.00,https://cdn.cimri.io/market/260x260/kirmizi-et-1-kg-kuzu-bobrek-_975494.jpg
+dalak (dana),100 gr,100,104,18.1,3,,,0,X,144,23.00,https://www.enflasyon.co/productimage/5fa0b2ea1d0d2.jpg
+dil,100 gr,100,130,18.5,5.3,,,0.9,X,145,500.00,https://www.enflasyon.co/productimage/5fa0b2ea1d0d2.jpg
+karaciger,100 gr,100,140,19.2,4.7,,,4.1,X,146,239.00,https://reimg-carrefour.mncdn.com/mnresize/600/600/productimage/30054558/30054558_0_MC/8796639428658_1540303298802.jpg
+yurek,100 gr,100,124,15,5.7,,,1.8,X,147,96.00,https://cdn.cimri.io/market/260x260/1-kg-dana-yurek-_286470.jpg100
+tavuk,100 gr,100,215,18.6,15.1,,,0,X,148,139.00,https://cdn.cimri.io/market/260x260/bolca-1-kg-hindi-kusbasi-gogus-sote-_286936.jpg
+hindi,100 gr,100,160,22.4,8,,,0,X,149,400.00,https://www.agsu.net/wp-content/uploads/2016/12/bildircin_eti_8_adet-2.png
+bildircin,100 gr,100,192,19.8,12.1,,,0,X,150,118.00,https://platincdn.com/2919/pictures/PUJUTKSRZK10222021154653_683358427_0.jpg
+bamya,100 gr,100,36,2.4,0.3,,,7.6,X,151,34.00,https://cdn.dsmcdn.com/ty61/product/media/images/20210127/2/57518658/117777627/1/1_org_zoom.jpg
+borulce,100 gr,100,127,9,0.8,,,21.8,X,152,20.00,https://cdn.dsmcdn.com/ty61/product/media/images/20210127/2/57518658/117777627/1/1_org_zoom.jpg
+ayva,100 gr,100,57,0.7,0.4,,,15.3,X,153,30.00,https://static.ticimax.cloud/30597/uploads/urunresimleri/buyuk/greenada-meyvearmut-deveci-1-kg-64b5.jpg
+armut,100 gr,100,61,0.7,0.4,,,15.3,X,154,105.00,https://adiyamandanal.com/wp-content/uploads/2020/09/dut-kurusu.jpg
+dut,100 gr,100,93,0.9,1.1,,,19.8,X,155,18.00,https://productimages.hepsiburada.net/s/21/375/9938532597810.jpg
+elma,100 gr,100,58,0.2,0.6,,,15,X,156,50.00,https://img-trendyol.mncdn.com/mnresize/400/-/ty816/product/media/images/20230407/11/319878688/119402917/2/2_org_zoom.jpg
+erik,100 gr,100,75,0.8,0.2,,,19.7,X,157,54.00,https://static.ticimax.cloud/30597/uploads/urunresimleri/buyuk/greenada-meyvegreyfurt-1-kg-243a.jpg
+greyfurt,100 gr,100,41,0.5,0.1,,,10.6,X,158,157.00,https://st3.myideasoft.com/shop/cr/25/myassets/products/298/kuru-incir.jpg?revision=1564831298
+incir,100 gr,100,80,1.2,0.4,,,20.4,X,159,13.00,https://st2.myideasoft.com/idea/ad/25/myassets/products/569/karpuz-kg.jpg?revision=1649340078
+karpuz,100 gr,100,26,0.5,0.2,,,6.4,X,160,45.00,https://images.migrosone.com/sanalmarket/product/27240000/27240000-b97f90.jpg
+kiraz,100 gr,100,70,1.3,0.3,,,17.4,X,161,13.00,https://iis-akakce.akamaized.net/p.z?%2F%2Fimg%2Eistegelsin%2Ecom%2Flarge%2Flimon1kg%2Ejpg
+limon,100 gr,100,27,1.1,0.3,,,8.2,X,162,30.00,https://seferipazar.com/wp-content/uploads/2014/11/p-1072-man3.jpg
+mandalina,100 gr,100,46,0.8,0.2,,,11.6,X,163,14.00,https://static.ticimax.cloud/30597/uploads/urunresimleri/buyuk/greenada-meyveyerli-muz-1-kg-04ae.jpeg
+muz,100 gr,100,85,1.1,0.2,,,11.6,X,164,23.00,https://reimg-carrefour.mncdn.com/mnresize/600/600/productimage/30092100/30092100_0_MC/8804879761458_1528879608508.jpg
+portakal,100 gr,100,50,1,0.2,,,12.3,X,165,35.00,https://productimages.hepsiburada.net/s/19/375/9861284036658.jpg
+seftali,100 gr,100,38,0.6,0.1,,,9.7,X,166,130.00,https://platincdn.com/2071/pictures/thumb/480X-20151115151612_v%C4%B0ne.jpg
+visne,100 gr,100,60,1.2,0.3,,,14.4,X,167,161.00,https://cdn.cimri.io/market/260x260/kaanlar-1000-gr-1-kg-tam-yagli-beyaz-peynir-_53994.jpg
+yagli b. peynir,100 gr,100,289,22.5,21.6,,,0,X,168,368.00,https://img.istegelsin.com/medium/b4884d578c134d288078fd0e1226cf3d.jpg
+kasar peyniri,100 gr,100,404,27,31.8,,,1.4,X,169,20.00,https://st.myideasoft.com/idea/hi/79/myassets/products/035/helke-koyun-sutu-1lt.jpg?revision=1620297846
+koyun sutu,100 gr,100,108,6,7,,,5.4,X,170,32.00,https://cdn.cimri.io/market/260x260/pinar-1-kg-organik-yogurt-_237499.jpg
+yogurt,100 gr,100,63,5.3,1.6,,,7,X,171,410.00,https://images.migrosone.com/sanalmarket/product/24010018/24010018-9b73d3-1650x1650.jpg
+koyun eti,100 gr,100,247,16.8,19.4,,,0,X,172,585.00,https://cdn.cimri.io/market/260x260/1-kg-antrikot-pastirma-_346605.jpg
+pastirma,100 gr,100,250,29.5,13.9,,,0,X,173,385.00,https://images.migrosone.com/sanalmarket/product/14109223/polonez-macar-salam-kg-cb43dd-1650x1650.jpg
+salam,100 gr,100,450,23.8,38.1,,,1.2,X,174,395.00,https://cdn03.ciceksepeti.com/cicek/kcm74298685-1/L/kasapoglu-afyon-kangal-sucuk-1-kg-kcm74298685-1-35fffaaa2fe64faca4dded05aea50cc2.jpg
+sucuk,100 gr,100,452,21.4,40.8,,,0,X,175,107.00,https://cdn.akakce.com/arifoglu/arifoglu-1000-gr-defne-yapragi-z.jpg
+defne yapragi,100 gr,100,313,7.6,8.4,,,75.6,X,176,204.00,https://cdn.cimri.io/market/260x260/aktaral-1-kg-dere-otu-kurusu-_338644.jpg
+dereotu (kuru),100 gr,100,253,20,4.4,,,56,X,177,135.00,https://productimages.hepsiburada.net/s/26/375/10155782668338.jpg
+hardal,100 gr,100,470,25,29,,,35,X,178,45.00,https://ayb.akinoncdn.com/products/2021/06/18/7105/42b0ac76-3f1e-44fb-9b6f-f3e902b7d8b4_size780x780_quality60_cropCenter.jpg
+kirmiz biber,100 gr,100,318,12,17.3,,,57,X,179,138.00,https://static.ticimax.cloud/38753/uploads/urunresimleri/buyuk/kuru-kekik-1-kg-d8-3f4.jpg
+kekik,100 gr,100,275,9.1,7.4,,,64.3,X,180,180.00,https://st2.myideasoft.com/shop/cr/25/myassets/products/759/kubi-toz-tarcin.jpg?revision=1539853558
+tarcin,100 gr,100,260,4,3.2,,,80,X,181,96.00,https://cdn.dsmcdn.com/ty1/product/media/images/20200423/12/136252/69317591/1/1_org_zoom.jpg
+susam,100 gr,100,590,26.5,55,,,9.4,X,182,135.00,https://reimg-carrefour.mncdn.com/mnresize/600/600/productimage/30044172/30044172_0_MC/8796571631666_1530714395499.jpg
+zencefill,100 gr,100,350,9.1,6.1,,,71.1,X,183,52.00,https://cdn.cimri.io/market/260x260/eti-1-kg-petit-beurre-biskuvi-_1179033.jpg
+biskuvi,100 gr,100,462,5.4,16,,,74.5,X,184,13.00,https://cdn.akakce.com/eris-un/eris-1-kg-z.jpg
+bugday unu,100 gr,100,365,11.8,1.1,,,74.7,X,185,42.00,https://productimages.hepsiburada.net/s/37/375/10561564835890.jpg
+bulgur,100 gr,100,357,10.3,1.2,,,78.1,X,186,20.00,https://static.ticimax.cloud/14924/uploads/urunresimleri/buyuk/banetti-irmik-1-kg-7652.png
+irmik,100 gr,100,371,11.4,0.9,,,77,X,187,71.00,https://productimages.hepsiburada.net/s/19/375/9845888581682.jpg
+makarna,100 gr,100,370,12.5,1.2,,,75.2,X,188,50.00,https://cdn.akakce.com/z/yayla/yayla-1000-gr-yerli-osmancik.jpg
+pirinc,100 gr,100,363,6.7,0.4,,,80.4,X,189,250.00,https://cdn03.ciceksepeti.com/cicek/kc5835371-1/XL/1-kg-suzme-bal-kc5835371-1-a3eb048a6a5d4499b00edcf85a8959a9.jpg
+bal,100 gr,100,315,0.3,0,,,78.4,X,190,258.00,https://tatpastanesi.com/userfiles/media/tatpastanesi.com/untitled-_2.jpg
+dondurma,100 gr,100,193,4.5,10.6,,,20.8,X,191,155.00,https://cdn.cimri.io/market/260x260/ulker-cokokrem-1-kg-cikolata-_195553.jpg
+cikolata,100 gr,100,550,9.3,36,,,51.3,X,192,175.00,https://albikere.com/image/cache/wkseller/731/24-06-2021/cilek-receli_0-1624551314046-309x309h.jpg
+marmelat ve recel,100 gr,100,275,0.6,0.5,,,70,X,193,107.00,https://cdn.akakce.com/koska/koska-sade-1-kg-z.jpg
+helva (tahin),100 gr,100,516,10.5,30,,,53.5,X,194,160.00,https://productimages.hepsiburada.net/s/0/500/9457475846194.jpg
+irmik helvasi,100 gr,100,302,3.8,12.5,,,43.6,X,195,46.00,https://cdn.cimri.io/market/260x260/torku-1-kg-toz-seker-_1245840.jpg
+seker,100 gr,100,384,0,0,,,99.5,X,196,120.00,https://cdn.cimri.io/market/260x260/droetker-210-gr-muhallebi-_288532.jpg
+muhallebi,100 gr,100,173,5.1,3.8,,,29.8,X,197,56.00,https://cdn.akakce.com/dr-oetker/dr-oetker-156-gr-sutlac-z.jpg
+sutlac,100 gr,100,140,3.4,2.7,,,38,X,198,110.00,https://st3.myideasoft.com/idea/gj/37/myassets/products/091/fistikli-kadayif-siparis.jpg?revision=1597073738
+kadayif,100 gr,100,290,4.3,10,,,47,X,199,50.00,https://static.ticimax.cloud/44211/uploads/urunresimleri/buyuk/antep-fistikli-kaymakli-sobiyet--1-kg-6053e2.jpg
+sobiyet,100 gr,100,300,3.5,8.5,,,45,X,200,25.00,https://st2.myideasoft.com/idea/au/35/myassets/products/934/dts2112.jpg?revision=1586205867
+aycicek cekirdegi,100 gr,100,560,24,47.3,,,20,X,201,64.00,https://www.abaliogluyag.com/SF/122/ay%C3%A7i%C3%A7ek-%C3%A7ekirde%C4%9Fi-%C3%BCst.jpg
+badem,100 gr,100,600,18.6,54.2,,,19.8,X,202,200.00,https://cdn.unalkuruyemis.com.tr/images/original/products/badem-yerli-cig-150-gr-paket-1672224376.jpg
+ceviz,100 gr,100,650,15,64,,,15.8,X,203,223.00,https://st3.myideasoft.com/idea/fo/65/myassets/products/293/kabuklu-ceviz-aydinli-amca-kabuklu-ceviz-kilosu-ince-kabuklu-ceviz-1-kg-ceviz-yerli-kabuklu-ceviz-fiyatlari-kabuklu-ceviz-satisi-ince-kabuk-ceviz-taze-kabuklu-ceviz-ince-kabuklu-ceviz-fiyatlari-organik-kabuklu-ceviz_min.jpg?revision=1654592314
+findik,100 gr,100,634,12.6,62.4,,,16.8,X,204,170.00,https://st.myideasoft.com/idea/gj/33/myassets/products/134/kavrulmus-tuzsuz-findik.jpg?revision=1598522602
+kabak cekirdegi,100 gr,100,610,30.1,50,,,10,X,205,169.00,https://cdn.unalkuruyemis.com.tr/images/original/products/kabak-cekirdegi-tuzlu-150-gr-paket-1672221943.jpg
+kestane,100 gr,100,194,2.9,1.5,,,42,X,206,50.00,https://cdn.yemek.com/mnresize/940/940/uploads/2020/12/firinda-kestane-one-cikan.jpg
+kuru incir,100 gr,100,274,4.3,1.3,,,70,X,207,157.00,https://st.myideasoft.com/idea/fo/65/myassets/products/205/kuru-incir-aydinli-amca-organik-kuru-incir-dogal-kuru-incir-aydin-kuru-incir-aydin-dag-inciri-aydin-inciri-ureticiden-kuru-incir-dag-inciri-kuru-dag-inciri-organik-aydin-dag-inciri-aydin-organik-kuru-incir.jpg?revision=1685190901
+kuru kayisi,100 gr,100,260,5,0.5,,,66.5,X,208,57.00,https://productimages.hepsiburada.net/s/8/1500/9776121905202.jpg
+kuru uzum,100 gr,100,290,2.5,0.2,,,77.5,X,209,50.00,https://reimg-carrefour.mncdn.com/mnresize/600/600/productimage/30001574/30001574_0_MC/8796305915954_1528879420726.jpg
+sam fistigi,100 gr,100,600,19.5,54,,,19,X,210,227.00,https://www.imamcagdas.com/tuzlu-antep-fistigi-tuzlu-antep-fistigi-imam-cagdas-256-41-B.jpg
+et suyu tableti,100 gr,100,120,20,3,,,5,X,211,59,https://www.gelsineve.com/assets/Product_Images/8690701001301.jpeg
+ketcap,100 gr,100,106,2,0.5,,,25,X,212,27.00,https://cdn.dsmcdn.com/ty60/product/media/images/20210122/13/56099521/20115734/1/1_org_zoom.jpg
+salata soslari,100 gr,100,450,0,50.1,,,2.5,X,213,49,https://i.lezzet.com.tr/images-xxlarge-secondary/kolay-salata-soslari-09b35763-0ec6-4f6e-9660-1098aff19cae
+salca,100 gr,100,98,2.7,0.4,,,21.4,X,214,34.00,https://st2.myideasoft.com/shop/cd/68/myassets/products/920/salcaaaaaa.png?revision=1659611699
+sirke,100 gr,100,13,0,0,,,6,X,215,47.00,https://www.gurvita.com.tr/images/urunler/Organik-Elma-Sirkesi-500-ml-resim-251.png
+tursu,100 gr,100,10,0.6,0.2,,,2,X,216,17.00,https://cdn.yemek.com/mncrop/940/625/uploads/2015/09/tursu-tarifi.jpg
+yesil zeytin,100 gr,100,144,1.5,13.5,,,2.8,X,217,34.00,https://www.peynircibaba.com/image/catalog/urunler/1364.jpg
+siyah zeytin,100 gr,100,207,1.8,0.2,,,2,X,218,90.00,https://www.fistikcisahapbey.com/siyah-zeytin-baharat-cesitleri-161-13-B.jpg
+zeytinyagi,100 gr,100,884,0,100,,,0,X,219,42.00,https://st3.myideasoft.com/idea/gp/70/myassets/products/208/naturel-sizma-zeytinyagi-bakkalhasan-06.jpg?revision=1628747821
+dana kiyma,x,100,278.6,27.2,17.1,6.5,0,0,x,220,165.00,https://www.etgros.com/wp-content/uploads/2020/05/2-2.jpg
+buyuk boy sogan,x,100,44.7,1.4,0.2,0,1.4,10.1,x,221,14.00,https://productimages.hepsiburada.net/s/44/375/10818919890994.jpg
+sarimsak,x,100,144.8,6.4,0.7,0,2,32.5,x,222,17.00,https://www.onurmarket.com/Uploads/UrunResimleri/buyuk/1008779-5-bd64.jpg
+yumurta,x,100,147,12.5,9.7,3.1,0,0.7,x,223,38.00,https://cdn.webrazzi.com/uploads/2019/01/Yumurta_instagram_hd.png
+tuz,x,100,0,0,0,0,0,0,x,224,5.00,https://www.umitaktas.com/wp-content/uploads/2022/12/tuz-gercegi.jpg
+karabiber,x,100,245.3,10.5,3,1.3,24.8,64.1,x,225,30.00,https://st1.myideasoft.com/idea/gp/70/myassets/products/383/karabiber-siyah-tane-bakkalhasan.jpg?revision=1632045553
+kimyon,x,100,379.3,17.8,22.4,1.4,10.5,44.5,x,226,96.00,https://st1.myideasoft.com/idea/gp/70/myassets/products/387/kimyon-cekilmis.jpg?revision=1628664521
+pul biber,x,100,39.4,1.9,0.4,0,1.5,8.8,x,227,40.00,https://cdn.dsmcdn.com/ty505/product/media/images/20220812/11/158437304/107246449/1/1_org_zoom.jpg
+bayat ekmek kirintisi,x,100,391.7,13.2,5.4,1.2,4.5,73.1,x,228,5,https://www.klasiktatlar.com/wp-content/uploads/2017/05/ekmek-k%C4%B1r%C4%B1nt%C4%B1s%C4%B1-yap%C4%B1m%C4%B1.jpg
+sivi yag,x,100,883,0,100.8,6.6,0,0,x,229,37.00,https://cdn.dsmcdn.com/ty40/product/media/images/20210325/16/75262182/22353115/1/1_org_zoom.jpg
+domates salcasi,x,100,81.3,4.3,0.5,0.1,4.1,18.8,x,230,45.00,https://images.migrosone.com/hemen/product/09010009/09010009-e7a595-1650x1650.jpg
+domates puresi,x,100,36.9,1.7,0.2,0,1.9,8.9,x,231,29.00,https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.trendyol.com%2Ftat%2Fdomates-puresi-200-ml-p-40916713&psig=AOvVaw3wxax7jiZHC5CDDYnekzKs&ust=1685535935532000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNj8n-iEnf8CFQAAAAAdAAAAABAE
+sicak su,x,100,0,0,0,0,0,0,x,232,5,https://bebek.com/wp-content/uploads/2021/05/dogumda-sicak-su-ne-ise-yarar.jpg
+sut,x,100,51.3,3.5,1.9,1.2,0,4.9,x,233,24.00,https://images.migrosone.com/macrocenter/product/11013025/11013025-9ec8a4.png
+rendelenmis kasar peyniri,x,100,405.3,22.9,32.7,18.8,0,3.2,x,234,53.00,https://www.besyol.com.tr/image/cache/catalog/urunler/image/data/resimler/kirik-kasar-indirim-kg-13714-320x320w.jpg
+orta yagli kiyma,x,100,278.6,27.2,17.1,6.5,0,0,x,235,237.00,https://static.ticimax.cloud/43437/uploads/urunresimleri/thumb/dana-orta-yagli-kiyma-04-c5c.jpg
+haslanmis pirinc,x,100,127.4,2.7,0.3,0.1,0.4,28.4,x,236,94.00,https://assets.tmecosys.com/image/upload/t_web767x639/img/recipe/ras/Assets/20C6763B-8C78-4ECB-AD6A-B7FBC4122E95/Derivates/D1E5FFAA-014F-4AA4-AE54-04188554DDB2.jpg
+aycicek yagi,x,100,870.1,0,99.5,9.8,0,0,x,237,40.00 ,"https://m.media-amazon.com/images/I/41etJoGsEDL._AC_UF1000,1000_QL80_.jpg"
+galeta unu,x,100,399.9,13.3,5.4,1.2,4.5,71.4,x,238,35.00,https://productimages.hepsiburada.net/s/6/500/9707868323890.jpg
+orta yagli dana kiymasi,x,100,278.6,27.2,17.1,6.5,0,0,x,239,237.00,https://www.cizbizkofte.com/imagesbuyuk/dana-kiyma-orta-yagli.jpg
+rendelenmis sogan,x,100,44.7,1.4,0.2,0,1.4,10.1,x,240,15.00,https://media.istockphoto.com/id/1169524865/tr/foto%C4%9Fraf/rendelenmi%C5%9F-so%C4%9Fan-yemek-pi%C5%9Firme.jpg?s=612x612&w=0&k=20&c=Afe8GtAqoGVwKmIQpnNLHHwbaq4p3hrm8fVJ_GamF2Y=
+haslanmis nohut,x,100,166.1,8.9,2.6,0.3,7.5,27.8,x,241,24.00,https://cdn.yaylabakliyat.com/images/original/products/yayla-haslanmis-nohut-700-gr-1656070555.jpg
+su,x,100,0,0,0,0,0,0,x,242,5.00,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPbWW4_SazywleX3MBGxGyYEezZxMIXC4AagGPNSo8arNIJhNMBBCpTzUzQrid0dMkiJo&usqp=CAU
+yufka,x,100,294,7.1,6.1,1.5,1.9,53.6,x,243,38.00,https://yufka-manufaktur.com/79-large_default/yufka.jpg
+tereyag,x,100,721.5,0.8,79.6,51.1,0,0.1,x,244,95.00,https://www.gonenyoresel.com/UserFiles/Fotograflar/org/192-tereyag-250-gr-dogal-tereyag-tereyag2.jpg
+kiyma,x,100,265.1,27,17,6.5,0,0,x,245,237.00,https://static.ticimax.cloud/43437/uploads/urunresimleri/buyuk/kuzu-az-yagli-kiyma-1f-4f9.jpg
+bugday nisastasi,x,100,333.4,15.4,1.9,0.3,12.3,69.2,x,246,54.00,https://images.migrosone.com/sanalmarket/product/46022170/46022170-29fd86-1650x1650.jpg
+ekmek ici,x,100,391.7,13.2,5.4,1.2,4.5,73.1,x,247,0,https://artigida.net/wp-content/uploads/2021/03/1remake-3.jpg
+kabartma tozu,x,100,54.1,0,0,0,0.2,27.5,x,248,8.00,https://images.migrosone.com/sanalmarket/product/06061417/06061417-8ba714-1650x1650.png
+vanilin,x,100,0,0,0,0,0,0,x,249,13.00,https://www.droetker.com.tr/droetker.com.tr/packshot/image-thumb__117848__ImageSize/%C5%9Eekerli%20Vanilin.jpg
+rendelenmis hindistan cevizi,x,100,455.3,3.2,28.3,26.3,9.9,52.3,x,250,190.00,https://www.tazemasa.com/Uploads/UrunResimleri/buyuk/hindistan-cevizi-rendelenmis-50-gr-bag-ed5462.jpg
+vanilya,x,100,282.7,0,0,0,0,12.6,x,251,60.00,https://iasbh.tmgrup.com.tr/929390/1200/627/0/0/750/392?u=https://isbh.tmgrup.com.tr/sbh/2020/05/16/vanilyanin-faydalari-nelerdir-vanilya-tozu-neye-iyi-gelir-nerelerde-kullanilir-1589622161704.jpg
+toz antep fistigi,x,100,584,21.5,44.9,5.7,10,27.2,x,252,100.00,https://www.makbul.com/Content/global/images/products/4/436/ORG-toz-antep-fistigi-50-g502-1.jpg
+taze sogan,x,100,44.7,1.4,0.2,0,1.4,10.1,x,253,10.00,https://images.migrosone.com/sanalmarket/product/28395002/sogan-taze-demet-1c62ec-1650x1650.jpg
+dereotu,x,100,44.3,3,1,0,2,7.1,x,254,10.00,https://cdn.yemek.com/mncrop/940/625/uploads/2015/03/dereotu.jpg
+hazir kek,x,100,393.6,3,17.6,2.9,0.3,57.2,x,255,50.00,https://productimages.hepsiburada.net/s/31/375/10348737265714.jpg
+granul kahve,x,100,1,0.1,0,0,0,0,x,256,45.00,https://productimages.hepsiburada.net/s/5/375/9702160891954.jpg
+labne peyniri,x,100,203.6,6.3,18.8,11.4,0,3.5,x,257,15.00,https://images.migrosone.com/sanalmarket/product/10350036/10350036-6b03ce-1650x1650.jpg
+ilik su,x,100,0,0,0,0,0,0,x,258,5.00,https://i4.hurimg.com/i/hurriyet/75/750x422/5d78d27c45d2a023a0d3a6b2.jpg
+kuru maya,x,100,0,0,0,0,0,0,x,259,26.00,https://cdn.dsmcdn.com/ty28/product/media/images/20201201/16/34132243/68738665/1/1_org_zoom.jpg
+domates sos,x,100,24.6,1.2,0.3,0,1.5,5.4,x,260,30.00,https://cdn.yemek.com/mncrop/940/625/uploads/2015/08/domates-sosu-tarifi-son.jpg
+feslegen,x,100,24.4,4,0,0,2,2,x,261,22.00,https://images.migrosone.com/sanalmarket/product/28901124/kucuk-saksida-feslegen-c9bcb2-1650x1650.jpg
+rendelenmis mozarella peyniri,x,100,300.8,22.4,22.7,13.2,0,2.2,x,262,80.00,https://images.migrosone.com/sanalmarket/product/10108624/10108624-d04df2-1650x1650.jpg
+konserve misir,x,100,93.9,3.4,1.5,0.2,2.4,21,x,263,40.00,https://cdn.dsmcdn.com/ty2/product/media/images/20200427/15/293709/69553893/1/1_org_zoom.jpg
+biber,x,100,248.5,10.5,3,1.3,25.4,63.1,x,264,18.00,https://st2.myideasoft.com/idea/gr/96/myassets/products/010/regina.PNG?revision=1599125812
+kirmizi mercimek,x,100,112.8,9,0.4,0.1,7.8,19.4,x,265,24.00,https://surmeliciftligi.com/wp-content/uploads/2019/08/Kirmizi-Mercimek-Yozgat-Bakliyat-2.jpg
+ince bulgur,x,100,333.4,15.4,1.9,0.3,12.3,69.2,x,266,19.00,https://www.hataytadinda.com/wp-content/uploads/2019/12/kofteliksimit-800x800-1.jpg
+biber salcasi,x,100,248.5,10.5,3,1.3,25.4,63.1,x,267,46.00,https://st.myideasoft.com/idea/bg/23/myassets/products/007/biber-salcasi-aci-1.jpg?revision=1496907055
+pudra sekeri,x,100,391.1,0,0,0,0,98.1,x,268,25.00,https://st3.myideasoft.com/shop/cr/25/myassets/products/444/pudra-sekeri.png?revision=1539676643
+yumurta beyazi,x,100,52.9,10.9,0.2,0,0,0.7,x,269,36,x, 
+beyaz peynir,x,100,264.9,14.2,21.2,15,0,4.2,x,270,63.00,https://www.aygingurme.com/dimg/urun/79942beyaz-peynir-tam-yagli-aygi.jpg
+petibor biskuvi,x,100,358.9,7,16.5,4.3,1.5,44.6,x,271,34.00,https://biistek.com/Resim/Minik/1500x1500_thumb_st014482.jpg
+kuzu but,x,100,301.2,24.4,20.5,8.8,0,0,x,272,288.00,https://images.migrosone.com/sanalmarket/product/24010002/24010002-a05b23-1650x1650.jpg
+orta boy kuru sogan,x,100,44.7,1.4,0.2,0,1.4,10.1,x,273,10.00,https://productimages.hepsiburada.net/s/44/375/10818919890994.jpg
+orta boy domates,x,100,18.2,0.9,0.2,0,1.2,3.9,x,274,9.00,https://st.myideasoft.com/shop/ir/87/myassets/products/050/domates-tohumu-ailsa-craig-1.jpg?revision=1641549517
+orta boy patlican,x,100,34.7,0.8,0.2,0,2.5,8.7,x,275,18.00,https://www.diyetkolik.com/site_media/media/nutrition_images/patlican.png
+taze cekilmis tane karabiber,x,100,253.3,10.4,3,1.3,24.9,64.7,x,276,180.00,https://antepmahsulleri.com/wp-content/uploads/2020/11/baharat-cesitlericekilmis-karabiber-500-48ba.jpg
+tavuk budu,x,100,180.5,24,8.9,2.4,0,0,x,277,76.00,https://www.diyetkolik.com/site_media/media/foodrecipe_images/firinda-tavuk-budu.jpg
+tel sehriye,x,100,158.8,5.9,0.9,0.2,1.8,30.7,x,278,10.00,https://altinertarim.com/wp-content/uploads/2020/04/tel-sehriye.jpg
+kusbasi tavuk gogsu,x,100,166.2,31,3.5,1,0,0,x,279,55.00,https://st1.myideasoft.com/idea/ez/94/myassets/products/249/adsiz-tasarim-2.jpg?revision=1592416193
+tane karabiber,x,100,254.5,10.5,3,1.3,25.2,63,x,280,123.00,https://st1.myideasoft.com/shop/cr/25/myassets/products/302/tane-karabiber.jpg?revision=1573557495
+soguk sut,x,100,51.3,3.5,1.9,1.2,0,4.9,x,281,25.00,https://icdn.ensonhaber.com/crop/703x395-85/resimler/diger//kok/2021/11/13/IMG20211113090637.jpg
+muskat cevizi rendesi,x,100,527.5,5.9,36.4,26.2,20.7,49,x,282,82.00,https://cdn.yemek.com/uploads/2018/12/muskat-nedir-1.jpg
+tavuk gogsu,x,100,166.2,31,3.5,1,0,0,x,283,72.00,https://i.nefisyemektarifleri.com/2021/05/03/yalanci-tavuk-gogsu-tarifi-6.jpg
+kirmizi biber,x,100,27.8,0.9,0.2,0,1.2,6.8,x,284,33.00,https://images.migrosone.com/sanalmarket/product/28053000/biber-kirmizi-kg-4ad206.jpg
+dogranmis domates,x,100,18.5,0.9,0.2,0,1.2,3.9,x,285,25.00,https://productimages.hepsiburada.net/s/26/1500/10140322988082.jpg
+kuru nane,x,100,405.2,0,0,0,0,98.6,x,286,139.00,https://witcdn.marasmarket.com/ev-yapimi-kuru-nane-nane-maras-market-4895-44-B.jpg
+kirmizi kapya biber,x,100,248.5,10.5,3,1.3,25.4,63.1,x,287,32.00,https://www.ayaydingrossmarket.com/uploads/productsimages/MANAV-006.jpg
+tavuk baget,x,100,222.6,23.7,12.9,3.7,0,0,x,288,65.00,https://cdn.ye-mek.net/App_UI/Img/out/650/2021/02/firinda-tavuk-baget-resimli-yemek-tarifi(2).jpg
+taze biberiye,x,100,335.6,5,14.8,7.5,42,64.1,x,289,25.00,https://cdn.cimri.io/market/260x260/taze-biberiye-_210311.jpg
+sandvic ekmegi,x,100,259.2,8.9,3.4,0.7,2.6,48.7,x,290,15.00,https://cdn.yemek.com/mnresize/1250/833/uploads/2021/05/sandvic-ekmegi-tarifi.jpg
+tavuk bonfile,x,100,144.8,29.8,3.3,1,0,0,x,291,72.00,https://wwwi.globalpiyasa.com/lib/Urun/670/2e23ecf8d40ede87ac66380c8c1f8c69_1.png
+kapya biber,x,100,248.5,10.5,3,1.3,25.4,63.1,x,292,25.00,https://reimg-carrefour.mncdn.com/mnresize/600/600/productimage/30096974/30096974_0_MC/8796979855410_1528879619389.jpg
+sari dolmalik biber,x,100,27.6,0.9,0.2,0,1.2,6.8,x,293,24.00,https://st3.myideasoft.com/shop/ir/87/myassets/products/856/sari-dolmalik-biber-tohumu-kaliforniya-1.jpg?revision=1646217666
+soya sosu,x,100,0,0,0,0,0,0,x,294,57.00,https://i.nefisyemektarifleri.com/2023/01/24/soya-sosu-nedir-nasil-yapilir.jpg
+toz kirmizi biber,x,100,27.8,0.9,0.2,0,1.2,6.8,x,295,30.00,https://cdn.dsmcdn.com/ty315/product/media/images/20220202/8/41317691/378150468/1/1_org_zoom.jpg
+beyaz biber,x,100,248.5,10.5,3,1.3,25.4,63.1,x,296,130.00,https://www.arifoglu.com/beyaz-biber-tane-1000g-766281-11-O.jpg
+kirmizi ya da sari mercimek,x,100,112.4,9.1,0.4,0.1,7.9,19.3,x,297,24.00,https://i20.haber7.net/resize/1300x788//haber/haber7/photos/2019/26/kirmizi_ve_mercimek_arasindaki_farklar_1561470237_6269.jpg
+kirmizi toz biber,x,100,248.5,10.5,3,1.3,25.4,63.1,x,298,9.00,https://st1.myideasoft.com/idea/fo/65/myassets/products/478/aci-toz-biber-aydinli-amca-aci-toz-biber-fiyatlari-toz-aci-biber-aci-biber-tozu-aci-kirmizi-toz-biber-kirmizi-aci-toz-biber-kirmizi-aci-toz-biber-kirmizi-biber-tozu-kirmizi-toz-biber-toz-biber-fiyatlari-toz-biber-kg.jpg?revision=1674520020
+kuru kekik,x,100,102.7,5,1.2,0,13.6,25.1,x,299,144.00,https://productimages.hepsiburada.net/s/1/375/9537276674098.jpg
+dogranmis dereotu,x,100,44.3,3,1,0,2,7.1,x,300,5.00,https://images.migrosone.com/sanalmarket/product/28069017/28069017-6b6754-1650x1650.jpg
+eritilmis bitter cikolata,x,100,542,4.8,31.9,18.7,7,60.9,x,301,105.00,https://productimages.hepsiburada.net/s/29/375/10255754821682.jpg
+suzme yogurt,x,100,64.2,5.3,1.6,1,0,7.2,x,302,43.00,https://images.migrosone.com/sanalmarket/product/12500386/sutas-suzme-yogurt-750-gr-859bd6-1650x1650.jpg
+chia tohumu,x,100,475.3,16.6,30.9,3.4,34,42.3,x,303,48.00,https://productimages.hepsiburada.net/s/26/1500/10165984362546.jpg
+cig badem,x,100,592.9,20.8,49,4.1,12.5,21.3,x,304,190.00,https://st2.myideasoft.com/idea/dr/29/myassets/products/503/badem-ici-cig_min.jpg?revision=1598105735
+tam bugday unu,x,100,332.1,13.3,2.5,0.4,10.9,71.5,x,305,16.00,https://productimages.hepsiburada.net/s/52/500/11122716672050.jpg
+lor peyniri,x,100,100.1,11,4.3,1.7,0,3.4,x,306,42.00,https://cdn.dsmcdn.com/ty140/product/media/images/20210701/9/106021475/154831479/1/1_org_zoom.jpg
+nisasta,x,100,0,0,0,0,0,0,x,307,54.00,https://images.migrosone.com/sanalmarket/product/46022182/46022182-2bf3cc-1650x1650.jpg
+hindistan cevizi rendesi,x,100,455.3,3.2,28.3,26.3,9.9,52.3,x,308,68.00,https://productimages.hepsiburada.net/s/35/500/10471135150130.jpg
+ezilmis sarimsak,x,100,144.8,6.4,0.7,0,2,32.5,x,309,12.00,https://productimages.hepsiburada.net/s/42/375/10742559244338.jpg
+rendelenmis mozarella,x,100,295.5,22.1,22.6,13.1,0,2.2,x,310,125.00,https://images.migrosone.com/sanalmarket/product/10403063/10403063-eb3d5e-1650x1650.jpg
+yulaf,x,100,368.3,13.2,6.4,1.1,10.3,67,x,311,51.00,https://ozkarslioglu.com.tr/images/product/2229503230191-243-yulaf.jpg
+hindistan cevizi yagi,x,100,881.6,0,98.8,83.1,0,0,x,312,65.00,https://www.gratis.com/ccstore/v1/images/?source=/file/v4901216926988382390/products/10034429_10.jpg
+bitter cikolata,x,100,542,4.8,31.9,18.7,7,60.9,x,313,105.00,https://productimages.hepsiburada.net/s/29/375/10255754821682.jpg
+yulaf sutu,x,100,368.3,13.2,6.4,1.1,10.3,67,x,314,52.00,https://cdn.cimri.io/market/260x260/alpro-1-lt-yulaf-sutu-_246858.jpg
+cherry domates,x,100,17.8,0.9,0.2,0,1.2,3.9,x,315,37.00,https://d1mm3tuyihn37h.cloudfront.net/wp-content/uploads/Domates-Salkim-Cherry.jpg
+biberiye,x,100,335.6,5,14.8,7.5,42,64.1,x,316,83.00,https://productimages.hepsiburada.net/s/1/375/9537269858354.jpg
+cig sut,x,100,51.3,3.5,1.9,1.2,0,4.9,x,317,15.00,https://st3.myideasoft.com/idea/ga/88/myassets/products/297/cig-inek-sutu-1080x1080.jpg?revision=1603722750
+buyuk mantar,x,100,28,2.1,0.5,0.1,2.1,5.3,x,318,35.00,https://cdn1.ntv.com.tr/gorsel/V9ST8ZHJXky1OKtTxWP8vQ.jpg?width=1000&mode=crop&scale=both
+dolmalik yesil biber,x,100,27.5,0.9,0.2,0,1.2,6.8,x,319,17.00,https://productimages.hepsiburada.net/s/20/375/9883560411186.jpg
+dolmalik sari biber,x,100,27.6,1,0.2,0,0.9,6.2,x,320,24.00,https://st3.myideasoft.com/shop/ir/87/myassets/products/856/sari-dolmalik-biber-tohumu-kaliforniya-1.jpg?revision=1646217666
+kucuk boy karnabahar,x,100,22.4,1.8,0.5,0.1,2.3,4.1,x,321,30.00,https://reimg-carrefour.mncdn.com/mnresize/600/600/productimage/30017748/30017748_0_MC/8796406546482_1528879452971.jpg
+orta boy patates,x,100,92.7,2.5,0.1,0,2.2,21,x,322,10.00,https://cdn.cimri.io/market/260x260/patates-_185266.jpg
+kereviz sapi,x,100,17.9,0.8,0.2,0.1,1.6,4,x,323,50.00,https://static.ticimax.cloud/30597/uploads/urunresimleri/buyuk/greenadasap-kereviz-adet--66489.jpg
+sicak et suyu,x,100,37.1,2.5,1.2,0.3,0,3.5,x,324,51,
+kruton,x,100,0,0,0,0,0,0,x,325,6.00,https://images.migrosone.com/sanalmarket/product/05023005/panealba-akdeniz-usulu-kruton-100-gr-8cb4b9.jpg
+olgun muz,x,100,89.4,1.1,0.3,0.1,2.6,23.2,x,326,29.00,https://www.iyas.com.tr/images/thumbs/0004385_muz-olgun-2-kilo_510.jpg
+ceviz ici,x,100,635.9,15.2,65,5.9,6.9,13.8,x,327,185.00,https://cdn.cimri.io/market/260x260/1-kg-ceviz-ici-_448990.jpg
+yer fistigi ezmesi,x,100,579.7,22.1,49.6,9.6,5.6,24,x,328,124.00,https://cdn.akakce.com/z/adress-findik/adressfindik-parcacikli-sekersiz-fistik-ezmesi-yer-fistigi-1-kg.jpg
+arpa sehriye,x,100,124.8,2.2,0.4,0.1,3.9,28.6,x,329,26.00,https://cdn.akakce.com/nuh-un-ankara/nuh-un-ankara-500-gr-arpa-sehriye-z.jpg
+kozlenmis kirmizi biber tursusu,x,100,148.7,0.8,14.1,1.9,1.8,5.4,x,330,60.00,https://cdn.dsmcdn.com/ty2/product/media/images/20200408/11/1372346/68000617/1/1_org_zoom.jpg
+kornison tursu,x,100,89.4,0.6,0.4,0.1,1,20.8,x,331,47.00,https://cdn.akakce.com/tat/tat-680-gr-kornison-su-z.jpg
+haslanmis misir,x,100,93.9,3.4,1.5,0.2,2.4,21,x,332,33.00,https://cdn.cimri.io/market/260x260/yoremce-500-gr-cin-misir-_250370.jpg
+nar eksisi,x,100,84.2,1.7,1.2,0.1,4.1,18.5,x,333,50.00,https://cdn.dsmcdn.com/ty410/product/media/images/20220426/10/98265602/70360693/1/1_org_zoom.jpg
+taze bakla,x,100,109.7,7.7,0.4,0.1,5.5,19.3,x,334,16.00,https://d1mm3tuyihn37h.cloudfront.net/wp-content/uploads/Bakla.jpg
+buyuk boy kuru sogan,x,100,44.7,1.4,0.2,0,1.4,10.1,x,335,13.00,https://www.tarimdunyasi.net/wp-content/uploads/2023/04/Kuru-sogan-30-TL-1200x675.jpg
+limonun suyu,x,100,53.7,0.1,0,0,0.1,13.3,x,336,10.00,https://cdn.dsmcdn.com/ty181/product/media/images/20210922/17/135328587/86297250/1/1_org_zoom.jpg
+salatalik tursusu,x,100,12.2,0.5,0.3,0.1,1,2.4,x,337,32.00,https://ayb.akinoncdn.com/products/2019/01/18/5373/70eb91d4-fa7e-4c04-aaf4-b545caf5520e_size780x780_quality60_cropCenter.jpg
+misir konservesi,x,100,93.9,3.4,1.5,0.2,2.4,21,x,338,64.00,https://cdn.dsmcdn.com/ty2/product/media/images/20200427/15/293709/69553893/1/1_org_zoom.jpg
+kozlenmis kirmizi biber,x,100,52.6,0.9,3.1,0.4,1.2,6.5,x,339,60.00,https://cdn.dsmcdn.com/ty2/product/media/images/20200408/11/1372346/68000617/1/1_org_zoom.jpg
+balsamik sirke,x,100,90.1,0.5,0,0,0,16.7,x,340,59.00,https://productimages.hepsiburada.net/s/32/375/10377356345394.jpg
+toz badem,x,100,603.7,21,52.7,3.9,11.1,21.3,x,341,125.00,https://images.migrosone.com/sanalmarket/product/08089976/08089976-ce26a8-1650x1650.jpg
+labne,x,100,203.6,6.3,18.8,11.4,0,3.5,x,342,59.00,https://images.migrosone.com/sanalmarket/product/10350036/10350036-6b03ce-1650x1650.jpg
+zencefil,x,100,78.3,2,1,0,2,18.3,x,343,140.00,https://productimages.hepsiburada.net/s/22/375/9964350734386.jpg
+lime,x,100,29.6,0.7,0.2,0,2.9,10.6,x,344,45.00,https://d1mm3tuyihn37h.cloudfront.net/wp-content/uploads/Lime.jpg
+karbonat,x,100,0,0,0,0,0,0,x,345,50.00,https://cdn.akakce.com/bagdat/bagdat-1000-gr-z.jpg
+bebek patates,x,100,92.7,2.5,0.1,0,2.2,21,x,346,17.00,https://images.migrosone.com/sanalmarket/product/28292000/28292000-5a834c-1650x1650.jpg
+haslanmis tavuk gogsu,x,100,166.2,31,3.5,1,0,0,x,347,58.00,https://reimg-carrefour.mncdn.com/mnresize/600/600/productimage/30098645/30098645_0_MC/8797011673138_1528879630461.jpg
+koy biberi,x,100,248.5,10.5,3,1.3,25.4,63.1,x,348,20.00,https://productimages.hepsiburada.net/s/20/375/9883562213426.jpg
+kirmizi sogan,x,100,43.7,1.4,0.2,0,1.4,10.1,x,349,40.00,https://cdn.cimri.io/market/260x260/kirmizi-sogan-_97731.jpg
+tavuk suyu,x,100,6.2,0.6,0.2,0,0,0.4,x,350,43, 
+taze kekik,x,100,102.7,5,1.2,0,13.6,25.1,x,351,144.00,https://cdn.cimri.io/market/260x260/taze-kekik-_210702.jpg
+misket limonu rendesi,x,100,29.6,0.7,0.2,0,2.9,10.6,x,352,18, 
+yarim yagli beyaz peynir,x,100,264.9,14.2,21.2,15,0,4.2,x,353,72.00,https://productimages.hepsiburada.net/s/38/375/10586051215410.jpg
+orta boy kabak,x,100,15.4,1.1,0.4,0.1,1,2.7,x,354,10.00,https://productimages.hepsiburada.net/s/141/375/110000093748493.jpg
+toz parmesan peyniri,x,100,424.6,28.4,27.3,15.4,0,14,x,355,38.00,https://images.migrosone.com/sanalmarket/product/10401600/10401600-7e0e04-1650x1650.jpg
+deniz tuzu,x,100,0,0,0,0,0,0,x,356,30.00,https://productimages.hepsiburada.net/s/35/375/10495495634994.jpg
+buyuk boy domates,x,100,18.2,0.9,0.2,0,1.2,3.9,x,357,12.00,https://adrossen.com/wp-content/uploads/2022/12/adrossen-katalog-fotolar_raptor-scaled.jpg
+kirmizi lahana tursusu,x,100,29.1,1.5,0.1,0,2.6,6.9,x,358,64.00,https://www.toptankoyurunleri.com//Uploads/Products/299/kirmizi-lahana-tursusu-5-kg-8725538164-thumb-w-600.JPG
+bostan patlicani,x,100,34.7,0.8,0.2,0,2.5,8.7,x,359,20.00,https://cdn.cimri.io/market/260x260/bostan-patlican-_55385.jpg
+sivri biber,x,100,245.3,10.5,3,1.3,24.8,64.1,x,360,9.00,https://images.migrosone.com/sanalmarket/product/28054000/biber-sivri-kg-2ab518-1650x1650.jpg
+badem sutu,x,100,22,0.4,1,0.1,0.3,3.2,x,361,143.00,https://productimages.hepsiburada.net/s/1/375/9535317049394.jpg
+vanilya ozutu,x,100,292.9,0,0,0,0,12.7,x,362,300.00,https://productimages.hepsiburada.net/s/3/1500/9584722935858.jpg
+taze nane,x,100,43.9,3.4,0.7,0.2,6.9,8.3,x,363,12.00,https://images.migrosone.com/sanalmarket/product/28280009/28280009-5c4e11-1650x1650.jpg
+roka,x,100,0,0,0,0,0,0,x,364,12.00,https://cdn.cimri.io/market/260x260/roka-_215799.jpg
+dolmalik fistik,x,100,0,0,0,0,0,0,x,365,220.00,https://productimages.hepsiburada.net/s/6/1500/9707868618802.jpg
+parmesan peyniri,x,100,424.6,28.4,27.3,15.4,0,14,x,366,38.00,https://productimages.hepsiburada.net/s/39/500/10642216419378.jpg
+balzamik sirke,x,100,0,0,0,0,0,0,x,367,59.00,https://productimages.hepsiburada.net/s/32/375/10377356345394.jpg
+tuz-karabiber,x,100,0,0,0,0,0,0,x,368,119.00,https://cdn.cimri.io/market/260x260/bagdat-baharat-1-kg-toz-karabiber-_393878.jpg
+dut kurusu,x,100,0,0,0,0,0,0,x,369,58.00,https://productimages.hepsiburada.net/s/1/500/9537271595058.jpg
+cig findik,x,100,623.8,14.8,61.2,4.5,9.8,16.7,x,370,324.00,https://st3.myideasoft.com/idea/fy/56/myassets/products/784/cig-findik.jpg?revision=1619596961
+yumurta aki,x,100,52.5,11,0.2,0,0,0.7,x,371,36, 
+yesil elma,x,100,50.8,0.3,0.2,0,2.4,13.9,x,372,28.00,https://i.cnnturk.com/i/cnnturk/75/740x416/5f5e2ca22af10716e40ce5af.jpg
+kirmizi elma,x,100,52.6,0.3,0.2,0,2.4,13.7,x,373,49.00,https://st3.myideasoft.com/idea/gc/43/myassets/products/093/aker-meyve-kirmizi-starking-elma-paket-2.jpg?revision=1589794932
+kirmizi dolmalik biber,x,100,27.7,0.9,0.2,0,1.2,6.8,x,374,43, 
+kesme seker,x,100,376.3,0,0,0,0,102,x,375,30.00,https://organikmarketten.com/148-extra_large_default/erzincan-kesme-seker-1-kg.jpg
+buyuk boy havuc,x,100,34,0.8,0.2,0,3,8.3,x,376,8.00,https://st1.myideasoft.com/idea/ei/35/myassets/products/088/mini-havuc.jpg?revision=1549006668
+ayiklanmis enginar,x,100,53.7,2.9,0.3,0.1,5.7,11.7,x,377,150.00,https://www.bisalkim.com/public/files/products/trenginar-ayiklanmis-7li-kavanoz_59.webp
+taze sikilmis limon suyu,x,100,16.5,0.4,0,0,0.8,5.5,x,378,23.00,https://static.ticimax.cloud/5216/uploads/urunresimleri/buyuk/limon-suyu--1lt-87b2-5.jpg
+yumurt sarisi,x,100,312.7,15.9,27,9.6,0,3.6,x,379,36, 
+iri cekilmis karabiber,x,100,253.3,10.4,3,1.3,24.9,64.7,x,380,50.00,https://productimages.hepsiburada.net/s/35/375/10496011960370.jpg
+sari mercimek,x,100,112.4,9.1,0.4,0.1,7.9,19.3,x,381,54.00,https://shop.gourmeturk.com.tr/wp-content/uploads/2019/08/gourmeturk-sari-mercimek-2.jpg
+kirik pirinc,x,100,127.4,2.7,0.3,0.1,0.4,28.4,x,382,18.00,https://st3.myideasoft.com/idea/gp/70/myassets/products/506/kirik-pirinc-bakkalhasan.jpg?revision=1638813899
+koftelik kiyma,x,100,278.6,27.2,17.1,6.5,0,0,x,383,290.00,https://karkasciftligi.com/wp-content/uploads/dana-koftelik-kiyma.jpg
+rendelenmis zencefil,x,100,78.3,2,1,0,2,18.3,x,384,20.00,https://images.migrosone.com/sanalmarket/product/06010046/06010046-382fb6-1650x1650.jpg
+zerdecal,x,100,309.4,9.6,3.4,2,22.6,68,x,385,85.00,https://im.haberturk.com/2022/06/22/ver1673620540/3471812_620x410.jpg
+limonun suyu ve kabugu,x,100,16.5,0.4,0,0,0.8,5.5,x,386,18,x
+kiyilmis maydanoz,x,100,36.1,2.9,0.8,0.3,3.4,6.3,x,387,100.00,https://images.migrosone.com/sanalmarket/product/28260009/maydanoz-adet-659b84-1650x1650.jpg
+kuzu gerdan eti,x,100,301.2,24.4,20.5,8.8,0,0,x,388,210.00,https://static.ticimax.cloud/43437/uploads/urunresimleri/buyuk/kuzu-gerdan--4541e.jpg
+kirmizi tatli toz kirmizi biber,x,100,276.7,14.5,13.3,2.2,34.7,53.2,x,389,16.00,https://productimages.hepsiburada.net/s/35/375/10470912720946.jpg
+toz tarhana,x,100,0,0,0,0,0,0,x,390,81.00,https://www.hataytadinda.com/wp-content/uploads/2017/09/5ae1510866a97c82afd5b2f3.jpg
+yesil mercimek,x,100,116.2,8.9,0.4,0.1,8,19.7,x,391,42.00,https://static.ticimax.cloud/33684/uploads/urunresimleri/buyuk/yesil-mercimek-1-kg--yeni-mahsulmalatya--daa3.jpg
+eriste,x,100,162.4,5.8,0.9,0.2,1.8,30.3,x,392,27.00,https://cdn.yemek.com/mnresize/1250/833/uploads/2019/10/tereyagli-eriste-yemekcom.jpg
+sicak tavuk suyu,x,100,6.2,0.6,0.2,0,0,0.4,x,393,38, 
+tereyagi veya sivi yag,x,100,721.5,0.8,79.6,51.1,0,0.1,x,394,49.00,https://www.birdetadinibilsen.com/upload/news/1200x768/tereyag_sivi_.jpg
+toz aci biber,x,100,39.4,1.9,0.4,0,1.5,8.8,x,395,19.00,https://st1.myideasoft.com/idea/fo/65/myassets/products/478/aci-toz-biber-aydinli-amca-aci-toz-biber-fiyatlari-toz-aci-biber-aci-biber-tozu-aci-kirmizi-toz-biber-kirmizi-aci-toz-biber-kirmizi-aci-toz-biber-kirmizi-biber-tozu-kirmizi-toz-biber-toz-biber-fiyatlari-toz-biber-kg.jpg?revision=1674520020
+kuzu paca,x,100,301.2,24.4,20.5,8.8,0,0,x,396,36.00,https://www.balikesireti.com/wp-content/uploads/2020/03/kuzu-paca.jpg
+domates konservesi,x,100,18.5,0.9,0.2,0,1.2,3.9,x,397,40.00,https://www.kevserinmutfagi.com/wp-content/uploads/2015/08/dogranmis_domates_konservesi1.jpg
+orta boy havuc,x,100,34,0.8,0.2,0,3,8.3,x,398,8.00,https://st1.myideasoft.com/idea/ei/35/myassets/products/088/mini-havuc.jpg?revision=1549006668
+dogranmis maydanoz,x,100,36.1,2.9,0.8,0.3,3.4,6.3,x,399,100.00,https://i.nefisyemektarifleri.com/2015/09/19/kislik-dogranmis-maydanoz-dereotu1-320x427.jpeg
+az yagli kiyma,x,100,278.6,27.2,17.1,6.5,0,0,x,400,195.00,https://static.ticimax.cloud/43437/uploads/urunresimleri/buyuk/kuzu-az-yagli-kiyma-1f-4f9.jpg
+kelle,x,100,0,0,0,0,0,0,x,401,45.00,https://st1.myideasoft.com/idea/kh/34/myassets/products/008/soyulmus-kuzu-kelle-5-jpg.jpeg?revision=1657799344
+ayak,x,100,0,0,0,0,0,0,x,402,0, 
+iskembe,x,100,94.1,11.7,4.1,1.4,0,2,x,403,117.00,https://cdn.yemek.com/mncrop/940/625/uploads/2014/07/iskembe-corbasi-yemekcom.jpg
+kucuk butun tavuk,x,100,246.1,27.1,13.4,3.8,0,0,x,404,95.00,https://gedikpilic.com/dosya/kucuktabaklipilicbaget.jpg
+beyaz un,x,100,363.2,10.3,1,0.2,2.7,75.9,x,405,20.00,https://cdn.dsmcdn.com/mnresize/500/-/ty4/product/media/images/20200528/11/1809126/72057878/1/1_org.jpg
+aci biber salcasi,x,100,11,0.4,0.4,0,0.2,1.7,x,406,62.00,https://static.ticimax.cloud/30771/uploads/urunresimleri/buyuk/burcu-ev-tipi-biber-salcasi-aci-1500-gr-ad82.jpg
+maydanoz sapi,x,100,36.1,2.9,0.8,0.3,3.5,6.2,x,407,60.00,https://www.tarifdefteri.org/wp-content/uploads/2022/01/bol-lezzetli-maydanoz-sapi-kavurmasi-tarifi.jpg
+kirmizi pul biber,x,100,27.8,0.9,0.2,0,1.2,6.8,x,408,100.00,https://cdn.dsmcdn.com/ty505/product/media/images/20220812/11/158437304/107246449/1/1_org_zoom.jpg
+soguk su,x,100,0,0,0,0,0,0,x,409,5.00,https://blog.ofix.com/wp-content/uploads/2021/07/soguk_su_icmenin_zararlari_ofix_blog.jpg
+bal kabagi,x,100,20.5,0.7,0.1,0,1.1,4.9,x,410,50.00,https://st3.myideasoft.com/idea/gr/96/myassets/products/365/arican-97-balkabagi.JPG?revision=1602669334
+et suyu,x,100,221.2,27.7,12.2,4.4,0,0,x,411,35.00,https://productimages.hepsiburada.net/s/38/1500/10597801918514.jpg
+tarhun otu,x,100,297.1,22.8,7.2,1.7,7.3,50.7,x,412,76.00,https://i.nefisyemektarifleri.com/2023/02/03/tarhun-otu-nedir-faydalari-yemeklerde-kullanimi-4.jpg
+etli kirmizi biber,x,100,27.8,0.9,0.2,0,1.2,6.8,x,413,0,https://cdn.ye-mek.net/App_UI/Img/out/650/2013/11/etli-kirmizi-biber-dolmasi-resimli-yemek-tarifi(11).jpg
+kaya tuzu,x,100,0,0,0,0,0,0,x,414,70.00,https://productimages.hepsiburada.net/s/10/375/9223261552690.jpg
+dondurulmus manti,x,100,174.1,9.3,6.8,4,1.1,19.4,x,415,30.00,https://images.migrosone.com/sanalmarket/product/17555941/17555941-ab4caa.jpg
+haslanmis bugday,x,100,333.4,15.4,1.9,0.3,12.3,69.2,x,416,28.00,https://st1.myideasoft.com/idea/bo/67/myassets/products/452/yayla-haslanmis-asurelik-bugday-439x640.jpg?revision=1600779106
+haslanmis yesil mercimek,x,100,116.2,8.9,0.4,0.1,8,19.7,x,417,28.00,https://i.nefisyemektarifleri.com/2019/06/25/haslanmis-yesil-mercimek-1.jpg
+et suyu veya tavuk suyu,x,100,37.1,2.5,1.2,0.3,0,3.5,x,418,30.00,https://productimages.hepsiburada.net/s/192/1500/110000159865417.jpg
+orta boy beyaz lahana,x,100,23.4,1.3,0.1,0,1.9,5.5,x,419,7.00,https://awetarim.com.tr/wp-content/uploads/2022/02/lahana-beyaz-kg-ort-1750-g-9f6e4c-1650x1650-1.jpg
+kurutulmus cicek bamya,x,100,22.5,1.9,0.2,0,2.5,4.6,x,420,62.00,https://urlz.fr/m3t8
+manti,x,100,261,7.8,15.5,6,1.3,23.5,x,421,80.00,https://cdn.ye-mek.net/App_UI/Img/out/650/2022/07/hazir-manti-resimli-yemek-tarifi(15).jpg
+sebze suyu,x,100,21.9,0.9,0.3,0.1,0.5,3.8,x,422,65.00,https://i.nefisyemektarifleri.com/2017/12/26/sebze-suyu-2.jpeg
+orta boy kirmizi biber,x,100,27.8,0.9,0.2,0,1.2,6.8,x,423,53.00,https://i.nefisyemektarifleri.com/2018/09/04/kirmizi-biber-dolmasi-7.jpg
+orta boy yesil biber,x,100,27.5,0.9,0.2,0,1.2,6.8,x,424,12.00,https://www.diyetkolik.com/site_media/media/nutrition_images/tatli-biber-yesil.jpg
+rendelenmis eski kasar peyniri,x,100,405.3,22.9,32.7,18.8,0,3.2,x,425,110.00,https://cdn.metro-group.com/tr/tr_pim_533848001001_01.png?format=jpg&quality=50&w=594&h=594&bgcolor=white
+kucuk boy havuc,x,100,34,0.8,0.2,0,3,8.3,x,426,27.00,https://static.ticimax.cloud/30597/uploads/urunresimleri/buyuk/mini-renkli-havuc-mix-mixed-colorful-car-0312.jpg
+haslanmis kuru fasulye,x,100,91.3,4.7,0.4,0.1,4.1,21.3,x,427,57.00,https://images.migrosone.com/sanalmarket/product/09112127/9112127-f79ab6-1650x1650.jpg
+yarma,x,100,0,0,0,0,0,0,x,428,50.00,https://cdn.shopify.com/s/files/1/0222/3102/3716/files/yarma-nedir.jpg?v=1595405319
+orta boy sogan,x,100,44.7,1.4,0.2,0,1.4,10.1,x,429,17.00,https://productimages.hepsiburada.net/s/44/375/10818919890994.jpg
+pilavlik bulgur,x,100,84.3,3.1,0.2,0,4.6,18.8,x,430,17.00,https://www.hataytadinda.com/wp-content/uploads/2019/12/iri-bulgur-3.jpg
+sumak eksisi,x,100,276.8,13.3,14.5,2.6,34.6,49.2,x,431,40.00,https://images.arifoglu.com/sumakeksisi250ml-766816-10-O.jpg
+rendelenmis domates,x,100,18.5,0.9,0.2,0,1.2,3.9,x,432,73.00,https://cdn.dsmcdn.com/ty36/product/media/images/20201218/6/39440669/77565167/1/1_org_zoom.jpg
+kuskonmaz,x,100,21.4,2.4,0.2,0.1,2,4.2,x,433,500.00,https://cdn.dsmcdn.com/ty102/product/media/images/20210412/16/79513982/162996188/1/1_org_zoom.jpg
+kirmizi sarap,x,100,87.3,0.1,0,0,0,2.6,x,434,90.00,https://st2.myideasoft.com/idea/hx/67/myassets/products/682/valpolicella-doc-ripasso.png?revision=1620647972
+baget ekmek,x,100,275.7,10.7,2.4,0.5,2.2,52.5,x,435,20.00,https://i.lezzet.com.tr/images-xxlarge-recipe/baget_ekmek-58215c96-363d-4bd4-a71d-01d869c6c45e.jpg
+gruyere ya da emmental peyniri,x,100,415.5,29.8,32.7,18.9,0,0.4,x,436,95.00,https://urlz.fr/m3u4
+pazi yapragi,x,100,19.4,1.9,0.1,0,2.1,4,x,437,30.00,https://static.ticimax.cloud/30597/uploads/urunresimleri/buyuk/greenadarenkli-pazi-yapragi-swiss-chard-8b54.jpg
+buyuk boy patlican,x,100,34.7,0.8,0.2,0,2.5,8.7,x,438,25.00,https://i3.posta.com.tr/i/posta/75/750x0/61963b2d45d2a07ffcb05455.jpg
+bayat ekmek,x,100,261.6,8.8,3.4,0.7,2.7,50.2,x,439,4.00,https://www.tarifdefteri.org/wp-content/uploads/2022/08/Bayat-Ekmek-Ile-Pratik-Kahvaltilik-Tarifi-3.png
+sumak,x,100,276.8,13.3,14.5,2.6,34.6,49.2,x,440,90.00,https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/SumacFruit.JPG/220px-SumacFruit.JPG
+yagsiz beyaz peynir,x,100,124.9,24.2,0.1,0.1,0,6.8,x,441,50.00,https://images.migrosone.com/macrocenter/product/10019203/10019203-ad0484.jpg
+ilik sut,x,100,51.3,3.5,1.9,1.2,0,4.9,x,442,5.00,https://cdn.yemek.com/mnresize/940/940/uploads/2016/08/sutun-yararlari.jpg
+tuzsuz beyaz peynir,x,100,318.8,20.6,23.9,13.6,0,2.6,x,443,165.00,https://www.peynircibaba.com/image/catalog/urunler/1048.jpg
+susam ve corek otu karisimi,x,100,379.3,17.8,22.4,1.4,10.5,44.5,x,444,55.00,https://productimages.hepsiburada.net/s/33/375/10419283886130.jpg
+ezine peyniri,x,100,393.9,22.7,33,18.9,0,3.2,x,445,65.00,https://images.migrosone.com/sanalmarket/product/10019239/10019239-3776f0-1650x1650.jpg
+limon tuzu,x,100,29,1.1,0.3,0,2.7,9.3,x,446,79.00,https://cdn.dsmcdn.com/ty46/product/media/images/20210105/19/47397839/20239222/1/1_org_zoom.jpg
+kuzu kiyma,x,100,282.1,24.7,19.7,8.2,0,0,x,447,180.00,https://kofteciyusuf.com/uploads/pictures/kuzu-kiyma_21.05.2021_02_06_45.jpg
+aci kirmizi pul biber,x,100,40.8,1.9,0.4,0,1.5,8.7,x,448,35.00,https://st2.myideasoft.com/shop/cr/25/myassets/products/103/aci-kirmizi-pul-biber.png?revision=1580201979
+yenibahar,x,100,268.1,6.4,8.9,2.6,21.2,72.3,x,449,35.00,https://images.migrosone.com/sanalmarket/product/06011213/06011213-d97d6a-1650x1650.png
+kurutulmus dana bagirsagi,x,100,0,0,0,0,0,0,x,450,69.00,https://kadioglubaharat.com/wp-content/uploads/2014/04/sucak-ba%C4%9F%C4%B1rsak2.jpg
+oda sicakliginda margarin,x,100,700.5,0.1,80.7,15.4,0,0.7,x,451,9.00,https://urlz.fr/m3uN
+instant maya,x,100,0,0,0,0,0,0,x,452,10.00,https://www.droetker.com.tr/droetker.com.tr/packshot/image-thumb__117835__ImageSize/Instant%20Maya.jpg
+corek otu,x,100,379.3,17.8,22.4,1.4,10.5,44.5,x,453,75.00,https://www.acibadem.com.tr/hayat/Images/YayinMakaleler/corek-otunun-faydalari_588484_1.jpg
+maden suyu,x,100,0,0,0,0,0,0,x,454,10.00,https://cdnsta.avansas.com/mnresize/900/-/urun/107494/ozkaynak-maden-suyu-200-ml-6li-paket-zoom-1.jpg
+ufalanmis beyaz peynir,x,100,264.9,14.2,21.2,15,0,4.2,x,455,215.00,https://images.freeimages.com/images/premium/previews/1121/11212392-crumbled-feta-cheese.jpg
+mihalic peyniri,x,100,393.9,22.7,33,18.9,0,3.2,x,456,155.00,https://www.yilmazmandira.com/wp-content/uploads/2022/12/Mihalic-Peyniri.webp
+gunluk yufka,x,100,436.4,3,25.8,9.7,1.8,50.8,x,457,49.00,https://images.migrosone.com/sanalmarket/product/05079053/gunluk-yufka-500-gr-b54fae-1650x1650.jpg
+pratik macar salam,x,100,0,0,0,0,0,0,x,458,31.00,https://images.deliveryhero.io/image/product-information-management/626711f11513e94f248aa733.jpeg
+eritilmis tereyagi,x,100,721.5,0.8,79.6,51.1,0,0.1,x,459,208.00,https://www.akselimoglugida.com/wp-content/uploads/2021/09/eritilmis-tereyagi-600x600.png
+ince kiyilmis maydanoz,x,100,36.1,2.9,0.8,0.3,3.4,6.3,x,460,5,https://i.ytimg.com/vi/5j6JDt5Ju4s/maxresdefault.jpg
+uzum sirkesi,x,100,81.4,0.1,0,0,0,2.6,x,461,60,https://cdn.yemek.com/mnresize/940/940/uploads/2017/09/uzum-sirkesi.jpg
+ekmek kirintisi,x,100,385.8,13.4,5.4,1.2,4.6,72.8,x,462,4,https://www.muglagurme.com/image/cache/catalog/panko-ekmek-kirintisi-gorsel-seo-800x800w.jpg
+yas maya,x,100,321.7,40.4,7.5,1,26.5,41.9,x,463,4,https://urlz.fr/m3v0
+kavrulmus yer fistigi,x,100,589.7,23.8,50.5,8,8.1,20.9,x,464,50,https://st3.myideasoft.com/idea/au/35/myassets/products/930/dts2033-copy.jpg?revision=1586205868
+maydanoz yapragi,x,100,36.1,2.9,0.8,0.3,3.5,6.2,x,465,15,https://urlz.fr/m3va
+haslanmis patates,x,100,87.3,1.9,0.1,0,1.8,20.5,x,466,16,https://i.nefisyemektarifleri.com/2016/12/05/karabiberli-haslanmis-patates.jpg
+orta boy haslanmis patates,x,100,85.2,1.9,0.1,0,1.8,20.5,x,467,16,https://haslama.gen.tr/images/1-haslanmis-patates-kac-kalori-6368.jpg
+cok kucuk dogranmis maydanoz,x,100,36.1,2.9,0.8,0.3,3.4,6.3,x,468,15,https://cdn.ye-mek.net/App_UI/Img/out/420/2020/08/buzlukta-maydanoz-saklama-resimli-yemek-tarifi(5).jpg
+karabiber ve pulbiber,x,100,245.3,10.5,3,1.3,24.8,64.1,x,469,32,https://productimages.hepsiburada.net/s/36/500/10512550821938.jpg
+tahin,x,100,590.1,17.3,54,7.5,4.8,21.2,x,470,150,https://www.haciserif.com/tahin-500g-tahin-haci-serif-0-26804-24-B.jpg
+oda isisinda su,x,100,0,0,0,0,0,0,x,471,5,https://trthaberstatic.cdn.wp.trt.com.tr/resimler/1888000/su-tuketimi-depo-1889443.jpg
+toz kimyon,x,100,379.3,17.8,22.4,1.4,10.5,44.5,x,472,35,https://kadioglubaharat.com/wp-content/uploads/2014/04/kimyon-toz1.jpg
+tatli toz kirmizi biber,x,100,276.7,14.5,13.3,2.2,34.7,53.2,x,473,12.00,https://productimages.hepsiburada.net/s/6/1500/9707869274162.jpg
+toz karabiber,x,100,253.3,10.4,3,1.3,24.9,64.7,x,474,83,https://cdn.cimri.io/market/260x260/bagdat-baharat-1-kg-toz-karabiber-_393878.jpg
+olgunlasmamis ceviz,x,100,664.8,15.2,64.5,5.9,6.9,13.6,x,475,100,https://urlz.fr/m3vj
+kirec kaymagi,x,100,29.6,0.7,0.2,0,2.9,10.6,x,476,63,https://4.bp.blogspot.com/-ZIOgFj2irzA/U3-oZ5neTII/AAAAAAAARG8/iuxBZPilzIs/s1600/kirec_kaymagi.jpg
+karanfil,x,100,277.4,6.1,12.8,3.8,33.4,65.1,x,477,150,https://st2.myideasoft.com/idea/gs/40/myassets/products/244/ruz1253-2.jpg?revision=1661368448
+tatli kirmizi biber,x,100,276.7,14.5,13.3,2.2,34.7,53.2,x,478,70,https://kadioglubaharat.com/wp-content/uploads/2014/04/k%C4%B1rm%C4%B1z%C4%B1_biber_tatl%C4%B1.jpg
+cemen tozu,x,100,0,0,0,0,0,0,x,479,45,https://i0.wp.com/gurmeaktar.com.tr/wp-content/uploads/2022/09/Cemen-tozu.png?fit=1200%2C1218&ssl=1
+kisnis tozu,x,100,306.3,12.3,17.8,1.1,41,55.2,x,480,50,https://images.migrosone.com/sanalmarket/product/06016377/06016377-011ce8-1650x1650.jpg
+hardal tozu,x,100,513,26,36.2,2,12.2,28.1,x,481,122,https://st2.myideasoft.com/idea/au/35/myassets/products/639/hardal-tozu.jpg?revision=1586209084
+kereviz yapragi,x,100,17.9,0.8,0.2,0.1,1.6,4,x,482,52,https://i4.hurimg.com/i/hurriyet/75/750x422/5e552406c03c0e26dcac7c00.jpg
+milfoy hamuru,x,100,547.7,7.4,37.8,5.5,1.5,44.9,x,483,31,https://images.migrosone.com/sanalmarket/product/17551010/17551010-8f6d2e-1650x1650.jpg
+ezilmis hashas,x,100,0,0,0,0,0,0,x,484,80,https://productimages.hepsiburada.net/s/28/500/10237096067122.jpg
+ince dogranmis maydanoz,x,100,36.1,2.9,0.8,0.3,3.4,6.3,x,485,15,https://cdn.ye-mek.net/App_UI/Img/out/420/2020/08/buzlukta-maydanoz-saklama-resimli-yemek-tarifi(5).jpg
+kuru domates,x,100,18.2,0.9,0.2,0,1.2,3.9,x,486,130,https://kimkim.com.tr/wp-content/uploads/2019/10/kuru-domates.jpg
+surulebilir beyaz peynir,x,100,318.8,20.6,23.9,13.6,0,2.6,x,487,50,https://urlz.fr/m3vF
+kiraz domates,x,100,17.8,0.9,0.2,0,1.2,3.9,x,488,34,https://productimages.hepsiburada.net/s/55/375/11211045306418.jpg
+dag kekigi,x,100,102.7,5,1.2,0,13.6,25.1,x,489,34,https://i4.hurimg.com/i/hurriyet/75/750x422/61532c344e3fe016bc0690fc.jpg
+ayiklanmis maydanoz,x,100,36.1,2.9,0.8,0.3,3.4,6.3,x,490,15,https://images.migrosone.com/sanalmarket/product/28265045/28265045-0b495e-1650x1650.jpg
+suzme peynir,x,100,98.3,11.2,4.3,1.7,0,3.4,x,491,8,https://urlz.fr/m3vR
+dana jambon,x,100,141.6,22.2,5.1,0.9,0,1,x,492,414,https://images.migrosone.com/sanalmarket/product/14901502/polonez-dana-jambon-kg-b7bfb9-1650x1650.jpg
+hindi fume,x,100,113.5,13.4,3,0.1,0.4,7.8,x,493,38,https://online.danet.com.tr/tadimlik-dilimli-hindi-fume-60gr-fume-danet-50-53-O.jpg
+sosis,x,100,321.9,18.4,26.9,8.8,0,1.4,x,494,63,https://camlidag.com.tr/wp-content/uploads/2022/11/Kokteyl-Sosis-250-gr-resim-261-min.jpg
+carliston biber,x,100,248.5,10.5,3,1.3,25.4,63.1,x,495,25,https://cdn.cimri.io/market/260x260/carliston-biber-_213361.jpg
+maya,x,100,0,0,0,0,0,0,x,496,12,https://images.migrosone.com/sanalmarket/product/05041131/5041131-deabd8-1650x1650.jpg
+tost ekmegi,x,100,289,9.1,4,0.8,3,54.4,x,497,12,https://images.migrosone.com/sanalmarket/product/05120071/05120071-d07d13-1650x1650.jpg
+tatli yesil sivri biber,x,100,39.4,1.9,0.4,0,1.5,8.8,x,498,77,https://urlz.fr/m3w3
+kolot peyniri,x,100,98.3,11.2,4.3,1.7,0,3.4,x,499,118,https://urlz.fr/m3w5
+kaynar su,x,100,0,0,0,0,0,0,x,500,5, 
+vanilya cubugu,x,100,282.7,0,0,0,0,12.6,x,501,80,https://www.arifoglu.com/vanilya-cubuk-kutu-10lu-160-746006-15-O.jpg
+dovulmus limon tuzu,x,100,29,1.1,0.3,0,2.7,9.3,x,502,19,https://www.makbul.com/Content/global/images/products/2/257/ORG-tane-limon-tuzu-kg488.jpg
+trabzon peyniri,x,100,69.4,0.6,0.2,0,3.6,18.8,x,503,210,https://www.ofsut.com/Images/Urun/02122020220712.jpeg
+orta boy sulu ayva,x,100,58,0.4,0.1,0,1.9,15,x,504,40,https://productimages.hepsiburada.net/s/113/375/110000060435249.jpg
+yagsiz kiyma,x,100,231.1,28.2,12.1,4.7,0,0,x,505,289,https://static.ticimax.cloud/43437/uploads/urunresimleri/buyuk/dana-yagsiz-kiyma-7541cf.jpg
+tel peyniri,x,100,296.6,22.3,22.3,13.2,0,2.2,x,506,60,https://images.migrosone.com/sanalmarket/product/10403155/10403155-956464-1650x1650.png
+taze fasulye,x,100,34.8,1.9,0.3,0.1,3.2,7.7,x,507,40,https://d1mm3tuyihn37h.cloudfront.net/wp-content/uploads/Seker-Fasulye.jpg
+taze barbunya,x,100,128.1,8.8,0.5,0.1,6.3,22.4,x,508,15,https://im.haberturk.com/2020/11/02/ver1604323375/2856594_1200x627.jpg
+buyuk boy patates,x,100,92.9,2.5,0.1,0,2.2,21,x,509,16,https://cdn.cimri.io/market/260x260/patates-_185267.jpg
+kus uzumu,x,100,289.8,4.1,0.3,0,6.8,72.8,x,510,45,https://productimages.hepsiburada.net/s/28/500/10195597918258.jpg
+deniz borulcesi,x,100,128.1,8.8,0.5,0.1,6.3,22.4,x,511,21,https://i.cnnturk.com/i/cnnturk/75/740x416/5f2bffb779da3e16ac106de7.jpg
+kuru bakla,x,100,109.7,7.7,0.4,0.1,5.5,19.3,x,512,55,https://cdn03.ciceksepeti.com/cicek/kcm47131956-1/XL/kesir-ata-tohumu-kuru-bakla-ici-1-kg-kcm47131956-1-bc2d0074b57b49c8a4411a0a9b3d1704.jpg
+ic bakla,x,100,129.5,8.7,0.5,0.1,6.4,22.6,x,513,36,https://reimg-carrefour.mncdn.com/mnresize/600/600/productimage/30081936/30081936_0_MC/8796809560114_1612767008529.jpg
+girit kabagi,x,100,0,0,0,0,0,0,x,514,45,https://seferipazar.com/wp-content/uploads/2016/11/kabak-girit-scaled.jpg
+sari biber,x,100,27.6,1,0.2,0,0.9,6.2,x,515,45,https://www.bahcetohum.com/img/products/sari-sus-biberi--bahcetohum-_15.03.2021_3643ed2.jpg
+kabak cicegi,x,100,22.6,1,0.4,0.1,1.1,3.8,x,516,100,https://www.kulturportali.gov.tr/contents/images/20181031114409250_kabak%20cicegi%201.jpg
+orta boy dolmalik biber,x,100,27.6,0.9,0.2,0,1.2,6.8,x,517,28,https://images.migrosone.com/sanalmarket/product/28052000/biber-dolmalik-kg-0322a4-1650x1650.jpg
+portakal suyu,x,100,46.4,0.7,0.1,0,0.3,11.2,x,518,53,https://www.tasocakfirin.com/image/cache/catalog/products_2021/Taze-S%C4%B1k%C4%B1lm%C4%B1%C5%9F-Portakal-Suyu-1000x1000.jpg
+limon kabugu,x,100,47.9,1.5,0.3,0,10.8,15.7,x,519,19,https://im.haberturk.com/2022/02/18/ver1673354222/3349366_7168689bc43b3456ac0c1d5d9bf818c6.jpg
+haslanmis yumurta,x,100,150.4,12.6,10.5,3.2,0,1.1,x,520,36,https://im.haberturk.com/2020/10/30/ver1604019387/2852963_414x414.jpg
+orta boy limon,x,100,29,1.1,0.3,0,2.7,9.3,x,521,19,https://d1mm3tuyihn37h.cloudfront.net/wp-content/uploads/Limon.jpg
+rendelenmis parmesan peyniri,x,100,429.7,28.7,28.3,15.4,0,14.2,x,522,152,https://media.istockphoto.com/id/1177375235/tr/foto%C4%9Fraf/lezzetli-rendelenmi%C5%9F-peynir-parmesan-peyniri.jpg?s=1024x1024&w=is&k=20&c=AGKKpQ_dO9sRV7OSZqAg8XhWV51D9d08FL28UD4Mu_M=
+ayiklanmis sevketi bostan,x,100,0,0,0,0,0,0,x,523,74,https://i2.wp.com/www.hayatkolay.com/wp-content/uploads/2016/08/sevketi-bostan.gif?fit=702%2C336&ssl=1
+kuzu kusbasi eti,x,100,301.2,24.4,20.5,8.8,0,0,x,524,314,https://images.migrosone.com/sanalmarket/product/24010018/24010018-9b73d3-1650x1650.jpg
+arpacik sogan,x,100,73.6,2.5,0.1,0,3.2,16.9,x,525,67,https://productimages.hepsiburada.net/s/10/375/9222252429362.jpg
+baldo pirinc,x,100,127.4,2.7,0.3,0.1,0.4,28.4,x,526,140,https://www.manyaskoypazari.com/wp-content/uploads/2021/11/Gonen-Baldo-Pirinc-1.jpg
+tuzlu yogurt,x,100,64.2,5.3,1.6,1,0,7.2,x,527,96,https://st1.myideasoft.com/idea/ji/31/myassets/products/162/tuzlu-yogurt.jpg?revision=1672761392
+firinlanmis sarimsak,x,100,144.8,6.4,0.7,0,2,32.5,x,528,13,https://www.gurmebebek.com/images/tariffotos/resized/0x300/firinlanmissarimsak-crop.jpg
+dolmalik biber,x,100,27.5,0.9,0.2,0,1.2,6.8,x,529,23,https://images.migrosone.com/sanalmarket/product/28052000/biber-dolmalik-kg-0322a4-1650x1650.jpg
+candir fasulyesi,x,100,91.3,4.7,0.4,0.1,4.1,21.3,x,530,67,https://i4.hurimg.com/i/hurriyet/75/1200x675/5fa3faa02269a20d68b16b06.jpg
+visne suyu,x,100,52.5,0.1,0,0,0.1,13.3,x,531,19,https://productimages.hepsiburada.net/s/125/375/110000075539135.jpg
+portakal kabugu rendesi,x,100,97.3,1.5,0.2,0,10.7,25.1,x,532,78,https://www.diyetkolik.com/site_media/media/nutrition_images/Portakal_Kabugu_Rende.jpg
+limon kabugu rendesi,x,100,46.5,1.5,0.3,0,10.6,15.8,x,533,19,https://hthayat.haberturk.com/im/2019/08/05/ver1655012737/1071857_1920x1080.jpg
+toz zerdecal,x,100,309.4,9.6,3.4,2,22.6,68,x,534,51,https://www.makbul.com/Content/global/images/products/2/289/ORG-toz-zerdecal-kg352.jpg
+yesil sivri biber,x,100,39.4,1.9,0.4,0,1.5,8.8,x,535,55,https://images.migrosone.com/sanalmarket/product/28054000/biber-sivri-kg-2ab518-1650x1650.jpg
+kemer patlican,x,100,34.7,0.8,0.2,0,2.5,8.7,x,536,15,https://images.migrosone.com/sanalmarket/product/28303000/patlican-kemer-kg-2ac52c-1650x1650.jpg
+basbasi bulgur,x,100,85.4,3.1,0.2,0,4.5,18.9,x,537,31,https://st.myideasoft.com/idea/bi/33/myassets/products/014/basbasi-bulgur-1000g-630x800pxl.jpg?revision=1683891510
+kup seker,x,100,385.6,0,0,0,0,99.8,x,538,23,https://i0.shbdn.com/photos/12/95/10/x5_1080129510mwo.jpg
+dolma baharati,x,100,0,0,0,0,0,0,x,539,57,https://productimages.hepsiburada.net/s/26/375/10155779653682.jpg
+beyaz sarap,x,100,84.2,0.1,0,0,0,2.6,x,540,196,https://www.meyhane.cz/shop/69-large_default/kavaklidere-angora-beyaz.jpg
+shallot sogan,x,100,73.6,2.5,0.1,0,3.2,16.9,x,541,342,https://www.tarlasera.com/haber_gorselleri/her-arpacik-salot-degil2.jpg
+kavrulmus dolmalik fistik,x,100,589.7,23.8,50.5,8,8.1,20.9,x,542,36,https://productimages.hepsiburada.net/s/4/375/9655880548402.jpg
+haslanmis barbunya,x,100,128.1,8.8,0.5,0.1,6.3,22.4,x,543,18,https://productimages.hepsiburada.net/s/40/500/10661271175218.jpg
+cubuk tarcin,x,100,242.5,3.8,1.5,0,52.2,81,x,544,28,https://naturalkoyurunleri.com/wp-content/uploads/2021/10/cubuk-tarcin.jpg
+cicek enginar,x,100,0,0,0,0,0,0,x,545,200,https://kulturveyasam.com/wp-content/uploads/2018/04/enginar-01-min.jpg
+sarimsakli yogurt,x,100,144.8,6.4,0.7,0,2,32.5,x,546,40,https://st2.myideasoft.com/idea/if/83/myassets/products/158/sm-urun-gorselleri-meyveli-ve-cesnili-yogurt-619700-sarimsakli-ygr-500g.jpg?revision=1638259526
+cam fistigi,x,100,674.1,13.7,69.5,4.9,3.6,13.3,x,547,86,https://cdn.dsmcdn.com/ty25/product/media/images/20201122/22/30264267/56153201/1/1_org_zoom.jpg
+kurutulmus biber,x,100,248.5,10.5,3,1.3,25.4,63.1,x,548,50,https://cdn.dsmcdn.com/ty13/product/media/images/20200926/7/12026956/61650004/1/1_org_zoom.jpg
+mor havuc,x,100,34,0.8,0.2,0,3,8.3,x,549,34,https://productimages.hepsiburada.net/s/2/375/9549763510322.jpg
+sizma zeytinyagi,x,100,894.9,0,101.5,13.9,0,0,x,550,190.00,https://www.franeli.com.tr/image/cache/data/urunler/franeli-naturel-sizma-zeytinyagi-500ml-1280x1920.png
+nar,x,100,84.2,1.7,1.2,0.1,4.1,18.5,x,551,60.00,https://i.lezzet.com.tr/images-xxlarge-secondary/nar-nasil-temizlenir-23d225ce-02c1-4288-975e-2767ffd10ad3.jpg
+garnitur,x,100,0,0,0,0,0,0,x,552,30.00,https://images.migrosone.com/hemen/product/09035510/09035510-ddde8c-1650x1650.jpg
+taze borulce,x,100,129.5,8.7,0.5,0.1,6.4,22.6,x,553,50.00,https://images.migrosone.com/sanalmarket/product/28118003/28118003-2063d8.jpg
+reyhan,x,100,24.4,4,0,0,2,2,x,554,25.00,https://static.ticimax.cloud/35637/uploads/urunresimleri/buyuk/reyhan-30-gr-045-8e.jpg
+buyuk boy rendelenmis domates,x,100,15.5,0.8,0.3,0,1.9,3.5,x,555,33.00,https://productimages.hepsiburada.net/s/21/1500/9921535410226.jpg
+kucuk boy enginar,x,100,53.7,2.9,0.3,0.1,5.7,11.7,x,556,58.00,https://st2.myideasoft.com/idea/jh/46/myassets/products/311/taze30.jpeg?revision=1682248116
+kurutulmus domates,x,100,18.5,0.9,0.2,0,1.2,3.9,x,557,75.00,https://productimages.hepsiburada.net/s/19/500/9845634203698.jpg
+isirgan yapragi,x,100,0,0,0,0,0,0,x,558,111.00,https://productimages.hepsiburada.net/s/0/375/9452926861362.jpg
+top patlican,x,100,34.7,0.8,0.2,0,2.5,8.7,x,559,20.00,https://productimages.hepsiburada.net/s/65/375/110000006609806.jpg
+biberli domates konservesi,x,100,18.5,0.9,0.2,0,1.2,3.9,x,560,92.00,https://i.nefisyemektarifleri.com/2017/10/20/biberli-domates-konservesi.jpg
+cali fasulyesi,x,100,34.6,1.9,0.3,0,3.1,7.9,x,561,14.00,https://cdn.cimri.io/market/260x260/cali-fasulye-_97636.jpg
+taze bezelye,x,100,82.4,5.4,0.2,0,5.4,15.9,x,562,33.00,https://productimages.hepsiburada.net/s/28/375/10220449693746.jpg
+zeytinyag,x,100,869.2,0,101.2,13.9,0,0,x,563,155.00,https://sc04.alicdn.com/kf/HTB1wobjXG1s3KVjSZFtq6yLOpXab.jpg
+tatli kirmizi toz biber,x,100,118.7,7.5,7.2,2.3,0.5,6.2,x,564,80.00,https://images.migrosone.com/sanalmarket/product/06016371/06016371-497dd6-1650x1650.jpg
+pazi,x,100,19.4,1.9,0.1,0,2.1,4,x,565,17.00,https://images.migrosone.com/sanalmarket/product/28320005/pazi-demet-0225c8-1650x1650.jpg
+kuru feslegen,x,100,233.6,22.7,4.3,2.9,36.7,47.8,x,566,25.00,https://productimages.hepsiburada.net/s/290/375/110000279542705.jpg
+domates ici,x,100,18.2,0.9,0.2,0,1.2,3.9,x,567,20.00,https://images.migrosone.com/sanalmarket/product/28080000/domates-kg-c7462d-1650x1650.jpg
+taze sikilmis portakal suyu,x,100,46.4,0.7,0.1,0,0.3,11.2,x,568,36.00,https://www.elmacafe.com/upload/taze-sikilmis-portakal-suyu.jpg
+sivi krema,x,100,347.4,2.9,35.6,22.9,0,2.8,x,569,15.00,https://images.migrosone.com/sanalmarket/product/11552185/11552185-b4a398-1650x1650.jpg
+kuvertur cikolata,x,100,540.2,7.8,29.4,18.6,3.4,58.9,x,570,50.00,https://productimages.hepsiburada.net/s/1/1500/9515517018162.jpg
+beyaz cikolata,x,100,548.7,5.9,31.7,19.5,0.2,58.1,x,571,14.00,https://images.migrosone.com/sanalmarket/product/07030337/07030337-67296d-1650x1650.jpg
+pirinc findik,x,100,127.4,2.7,0.3,0.1,0.4,28.4,x,572,205.00,https://www.pastastore.com.tr/images/urunler/Pirinc-Findik-1000-gr-resim-2755.jpg
+krem santi,x,100,260.9,3.1,22,13.7,0,12.7,x,573,20.00,https://images.migrosone.com/sanalmarket/product/11552130/dr-oetker-krem-santi-150-gr-632d5c.jpg
+rendelenmis elma,x,100,53,0.3,0.2,0,2.4,14.1,x,574,97.00,https://thumbs.dreamstime.com/z/grated-apple-plate-wooden-table-40475067.jpg
+kakaolu petibor biskuvi,x,100,411.3,19.8,10.1,0,20.3,60.6,x,575,29.00,https://images.migrosone.com/sanalmarket/product/07010055/eti-petit-beurre-kakaolu-biskuvi-370-gr-e55b55-1650x1650.jpg
+toz findik,x,100,662.2,14.9,62.8,4.5,9.2,17.7,x,576,30.00,https://productimages.hepsiburada.net/s/38/500/10596558536754.jpg
+pismeyen vanilyali puding,x,100,126.6,1.5,3.7,1,0,22.2,x,577,14.00,https://productimages.hepsiburada.net/s/1/375/9541076910130.jpg
+toz krem santi,x,100,260.9,3.1,22,13.7,0,12.7,x,578,109.00,https://productimages.hepsiburada.net/s/19/375/9844194115634.jpg
+cikolata kremali biskuvi,x,100,540.2,7.8,29.4,18.6,3.4,58.9,x,579,8.00,https://images.migrosone.com/sanalmarket/product/07011125/7011125-8ec234-1650x1650.jpg
+hazir cikolata sosu,x,100,284,2.1,1.1,0.5,2.6,64.1,x,580,29.00,https://cdn.dsmcdn.com/ty353/product/media/images/20220309/0/65846127/390953428/1/1_org_zoom.jpg
+file badem,x,100,0,0,0,0,0,0,x,581,90.00,https://productimages.hepsiburada.net/s/25/500/10103981867058.jpg
+cikolatali puding,x,100,140.1,2.1,4.6,1.3,0,22.7,x,582,30.00,https://images.migrosone.com/hemen/product/12509352/12509352-24ac17-1650x1650.jpg
+sicak sut,x,100,51.3,3.5,1.9,1.2,0,4.9,x,583,40.00,https://static.ticimax.cloud/44240/uploads/urunresimleri/buyuk/gunluk-cig-sut-1-lt-cam-sise-e-9317.jpg
+toz jelatin,x,100,326.4,84.9,0.1,0,0,0,x,584,161.00,https://productimages.hepsiburada.net/s/2/375/9567700647986.jpg
+cirpilmis krema,x,100,260.9,3.1,22,13.7,0,12.7,x,585,32.00,https://images.migrosone.com/hemen/product/11552010/11552010-0ff557-1650x1650.jpg
+kayisi cekirdegi,x,100,48.3,1.4,0.4,0,2,11.1,x,586,185.00,https://productimages.hepsiburada.net/s/33/375/10414355644466.jpg
+potibor biskuvi,x,100,346.1,6.9,16.3,4.3,1.5,44.8,x,587,26.00,https://productimages.hepsiburada.net/s/176/375/110000140290986.jpg
+cikolatali findikli puding,x,100,540.2,7.8,29.4,18.6,3.4,58.9,x,588,14.00,https://d2uiaykj5yb3c0.cloudfront.net/aypam/img/p/6690b84e-019f-41bb-90ac-1bb424c997b2.jpg
+rendelenmis bitter cikolata,x,100,542,4.8,31.9,18.7,7,60.9,x,589,310.00,https://img.istegelsin.com/small/4a161fe7b7eb409e81134fdfbf75024e.jpg
+kakaolu hazir pandispanya keki,x,100,411.3,19.8,10.1,0,20.3,60.6,x,590,231.00,https://i.nefisyemektarifleri.com/2016/09/02/kakaolu-pandispanya-tarifi-600x400.jpeg
+damla cikolata,x,100,467.3,4.2,29.7,17.7,5.9,64.6,x,591,199.00,https://b2bf3c.cdn.akinoncloud.com/products/2021/08/31/7/51ac69bb-9788-4627-8c67-81c7f11c72dc_size470x705_cropTop.jpg
+orman meyveli sos,x,100,60.8,0.8,0.3,0,2,15.3,x,592,50.00,https://www.datocms-assets.com/62828/1667831445-l-y-t-pakmaya-78g-ormanmeyvelisos.jpg?auto=format&fit=max&w=1200
+hazir rulo pasta,x,100,313,9.6,6.5,1.6,3.7,52.9,x,593,24.00,https://productimages.hepsiburada.net/s/10/500/9224875114546.jpg
+cikolata kremasi,x,100,540.2,7.8,29.4,18.6,3.4,58.9,x,594,52.00,https://productimages.hepsiburada.net/s/48/375/10954166239282.jpg
+kakaolu puding,x,100,411.3,19.8,10.1,0,20.3,60.6,x,595,10.00,https://cdnprod.mopas.com.tr/sys-master-mopascdncontainer/h11/ha6/8876635750430/836707_0_521Wx521H
+antep fistigi,x,100,584,21.5,44.9,5.7,10,27.2,x,596,248.00,https://productimages.hepsiburada.net/s/28/500/10216313389106.jpg
+kakaolu biskuvi,x,100,411.3,19.8,10.1,0,20.3,60.6,x,597,9.00,https://images.migrosone.com/sanalmarket/product/07010107/07010107-c227fd-1650x1650.jpg
+ganaj,x,100,0,0,0,0,0,0,x,598,162.00,https://productimages.hepsiburada.net/s/28/375/10225604100146.jpg
+rendelenmis beyaz cikolata,x,100,548.7,5.9,31.7,19.5,0.2,58.1,x,599,114.00,https://cdn.akakce.com/z/nestle/nestle-classic-60-gr-beyaz-kare.jpg
+halley biskuvi,x,100,346.1,6.9,16.3,4.3,1.5,44.8,x,600,25.00,https://witcdn.sonsepet.com/ulker-halley-kaplamali-sandvic-biskuvi-8li-240-gr-kaplamali-biskuvi-ulker-19934-12-B.jpg
+kuru meyve parcacigi,x,100,243.5,2.4,0.5,0,7.8,65.2,x,601,130.00,https://productimages.hepsiburada.net/s/37/500/10540269469746.jpg
+ince cekilmis ceviz ici,x,100,635.9,15.2,65,5.9,6.9,13.8,x,602,63.00,https://www.diyetkolik.com/site_media/media/nutrition_images/cekilmis-ceviz.jpg
+toblerone cikolata,x,100,515.5,5.7,28.7,17.3,2.5,62,x,603,24.00,https://images.migrosone.com/sanalmarket/product/07040810/07040810-a3a338-1650x1650.jpg
+cubuk vanilya,x,100,282.7,0,0,0,0,12.6,x,604,24.00,https://cdn.cimri.io/market/260x260/arifoglu-1-kg-cubuk-vanilya-_307522.jpg
+kedidili biskuvi,x,100,358.9,7,16.5,4.3,1.5,44.6,x,605,23.00,https://d2uiaykj5yb3c0.cloudfront.net/yunus/img/p/ed9c4ae6-bbc1-4515-833d-41aad34688d3.jpg
+findik krokan,x,100,656.2,14.9,61.5,4.5,9.4,17.8,x,606,100.00,https://productimages.hepsiburada.net/s/70/375/110000011208683.jpg
+bitkisel sivi krem santi,x,100,260.9,3.1,22,13.7,0,12.7,x,607,150.00,https://productimages.hepsiburada.net/s/29/375/10276368252978.jpg
+yulafli biskuvi,x,100,69.6,2.5,1.5,0.3,1.7,11.8,x,608,10.00,https://images.migrosone.com/sanalmarket/product/7010103/7010103_yan-9e4ab8-1650x1650.jpg
+hindistan cevizi sutu,x,100,197.2,2,21.2,18.8,0,2.8,x,609,60.00,https://images.migrosone.com/sanalmarket/product/11019007/11019007-032065-1650x1650.jpg
+ince cekilmis antep fistigi,x,100,584,21.5,44.9,5.7,10,27.2,x,610,500.00,https://productimages.hepsiburada.net/s/49/375/10989394165810.jpg
+eritilmis ve oda isisinda bekletilmis tereyagi,x,100,721.5,0.8,79.6,51.1,0,0.1,x,611,265.00,https://cdn.yemek.com/uploads/2017/08/tereyagi-nasil-saklanir-shutter-8.jpg
+rendelenmis limon kabugu,x,100,47.9,1.5,0.3,0,10.8,15.7,x,612,0,https://cdn.shopify.com/s/files/1/0574/3129/4129/products/FinessegeriebeneZitronenschale.jpg?v=1634312655
+dondurulmus bogurtlen,x,100,41.8,1.4,0.5,0,5.3,9.6,x,613,90.00,https://cdn.dsmcdn.com/mrktng/seo/22eylul5fix/subat-4/dondurulmus-meyve-1.jpg
+buyuk boy yumurta aki,x,100,145.7,12.7,9.4,3.1,0,0.7,x,614,2.07,https://images.migrosone.com/sanalmarket/product/20000296/cp-l-buyuk-boy-yumurta-30-lu-63-72-gr-fe34ec.jpg
+sekersiz cig krema,x,100,347.4,2.9,35.6,22.9,0,2.8,x,615,32.00,https://productimages.hepsiburada.net/s/289/375/110000278712956.jpg
+yogunlastirilmis sut,x,100,328.5,8,8.8,5.5,0,54.5,x,616,44.00,https://productimages.hepsiburada.net/s/43/375/10784989741106.jpg
+findik ici,x,100,656.2,14.9,61.5,4.5,9.4,17.8,x,617,108.00,https://productimages.hepsiburada.net/s/42/375/10738228101170.jpg
+vanilyali puding,x,100,126.6,1.5,3.7,1,0,22.2,x,618,15.00,https://images.migrosone.com/sanalmarket/product/07100239/07100239-2f8a7e-1650x1650.jpg
+,x,100,0,0,0,0,0,0,x,619,0, 
+damla sakizli vanilin,x,100,398.1,0,0,0,0.1,98.4,x,620,74.00,https://cdn.akakce.com/dr-oetker/dr-oetker-damla-sakizli-sekerli-z.jpg
+pasta susu,x,100,393.6,3,17.6,2.9,0.3,57.2,x,621,25.00,https://www.aktuelexpress.com/content/images/thumbs/0053098_droetker-pasta-susu-10-gr-renkli_350.webp
+oda sicakliginda tereyag,x,100,721.5,0.8,79.6,51.1,0,0.1,x,622,100.00,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJC7j5jEUjcIDJvHGtlyMvJLGoKzM4wjv2uA&usqp=CAU
+vanilyali toz puding,x,100,282.7,0,0,0,0,12.6,x,623,15.00,https://www.guvendikmarket.com/wp-content/uploads/2020/07/bizim-puding-vanilyali.png
+kedi dili biskuvi,x,100,358.9,7,16.5,4.3,1.5,44.6,x,624,23.00,https://www.onurmarket.com/Uploads/UrunResimleri/buyuk/1136947--9968-.jpg
+kahve,x,100,1,0.1,0,0,0,0,x,625,125.00,https://i.nefisyemektarifleri.com/2023/03/13/nitelikli-kahve-cekirdegi-cesitleri-ozellikleri.jpg
+mascarpone peyniri,x,100,446.8,4.6,46.3,27.4,0,3.1,x,626,90.00,https://cdn.dsmcdn.com/ty140/product/media/images/20210701/9/106021475/113598449/1/1_org_zoom.jpg
+konyak,x,100,228.9,0,0,0,0,0,x,627,250.00,https://degustasyon.net/wp-content/uploads/2023/04/COURVOISIER-VSOP-FRANSA-e1681207039999.jpg
+turk kahvesi,x,100,1,0.1,0,0,0,0,x,628,190.00,https://www.tchibo.com.tr/newmedia/art_img/MAIN/1729b4efbb5f851d/.jpg
+kakaolu pirinc patlagi,x,100,373.9,5.6,5.1,1,5.8,82.1,x,629,55.00,https://canbisgida.com.tr/wp-content/uploads/2020/04/7-8-mm-kakaolu-pirin%C3%A7-patla%C4%9F%C4%B1-.png
+kirmizi meyveler,x,100,46.5,1,0.4,0,3.9,11.1,x,630,18.00,https://st1.myideasoft.com/idea/cb/11/myassets/products/103/kirmizi-meyveler.png?revision=1624952271
+kucuk muz,x,100,89.4,1.1,0.3,0.1,2.6,23.2,x,631,23.00,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYU-GFQ-v-j5VuImxComLni5U5oxTVjNjynA&usqp=CAU
+hazir puding,x,100,104.6,3.2,1.9,1.1,0.4,19,x,632,30.00,https://i.nefisyemektarifleri.com/2019/01/02/hazir-puding-cogaltma.jpg
+kakaolu krem santi,x,100,411.3,19.8,10.1,0,20.3,60.6,x,633,41.00,https://productimages.hepsiburada.net/s/4/375/9632927350834.jpg
+cekirdeksiz visne,x,100,63.8,1.1,0.2,0,2.1,15.9,x,634,75.00,https://www.altindoga.com/image/cache/catalog/kurumeyveler/visnecekirdeksiz-800x800.jpg
+yemek kasigi un,x,100,362.6,10.2,1,0.2,2.7,77,x,635,16.00,https://productimages.hepsiburada.net/s/38/375/10601002336306.jpg
+taze visne,x,100,63.5,1.1,0.2,0,2,15.9,x,636,75.00,https://fresh36.com/img/tr/min/urunler/taze-meyveler/visne/visne.jpg
+esmer seker,x,100,381.1,0,0,0,0,98.8,x,637,69.00,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpR4UWZUHi2WmOVoUW1DFt5o1zKK-cfa11hQ&usqp=CAU
+sut kremasi,x,100,51.3,3.5,1.9,1.2,0,4.9,x,638,185.00,https://images.migrosone.com/sanalmarket/product/11552010/11552010-5514a0.png
+hamsi,x,100,206.1,29.1,9.9,2.2,0,0,x,639,60.00,https://www.tazemasa.com/Uploads/UrunResimleri/buyuk/hamsi-500-gr-balik-ye-24cbc0.png
+orta boy palamut baligi,x,100,288.5,62.3,2.2,0.6,0,0,x,640,70.00,https://images.migrosone.com/sanalmarket/product/18992617/18992617-fbfd2f-1650x1650.jpg
+kizartma yagi,x,100,883,0,100.8,6.6,0,0,x,641,48.00,https://cdn.dsmcdn.com/ty4/product/media/images/20200527/11/1745678/71909615/1/1_org_zoom.jpg
+buyuk boy palamut baligi,x,100,288.5,62.3,2.2,0.6,0,0,x,642,70.00,https://i.nefisyemektarifleri.com/2022/09/22/palamut-baligi-nasil-pisirilir-faydalari-12-tarif.jpg
+istavrit,x,100,254.4,23.9,18,4.2,0,0,x,643,50.00,https://www.esk.gov.tr/upload/Node/10984/pics/images.jpg
+cinekop,x,100,0,0,0,0,0,0,x,644,90.00,https://www.kaloriver.com/uploads/nutrition/1790/cinekop-baligi.jpg
+sardalya baligi,x,100,212.7,24.6,11.4,1.5,0,0,x,645,60.00,https://www.esk.gov.tr/upload/Node/10977/pics/Sardalya.jpg
+ince cekilmis deniz tuzu,x,100,0,0,0,0,0,0,x,646,28.00,https://productimages.hepsiburada.net/s/10/500/9219965386802.jpg
+taze cekilmis renkli tane karabiber,x,100,254.5,10.5,3,1.3,25.2,63,x,647,13.00,https://st3.myideasoft.com/shop/lr/63/myassets/products/874/karabiber-tane.jpg?revision=1653565076
+orta boy marul,x,100,17,1.2,0.3,0,2.1,3.3,x,648,9.00,https://images.marul.com/thumbs/011/0112672_koroplast-orta-boy-cop-torbasi-15li-55x60-cm_320.jpeg
+orta boy uskumru,x,100,0,0,0,0,0,0,x,649,149.00,https://pic.culturefishtours.com/files/405/p8i0e66kdj.jpg
+kars gravyer peyniri,x,100,420.7,29.9,32.3,18.8,0,0.4,x,650,300.00,https://st1.myideasoft.com/idea/he/94/myassets/products/064/gravyer1.png?revision=1649170552
+barbun baligi,x,100,0,0,0,0,0,0,x,651,50.00,https://www.esk.gov.tr/upload/Node/10971/pics/Barbun.jpg
+toz sebze cesni,x,100,32.7,1.7,0.3,0.1,3,6.8,x,652,14.00,https://productimages.hepsiburada.net/s/10/500/9224704294962.jpg
+mezgit fileto,x,100,263.2,26.5,17,6.7,0,0,x,653,116.00,https://st.myideasoft.com/idea/hz/07/myassets/products/057/mezgit-fileto-450-900-2-kg-m.jpeg?revision=1616230237
+kori,x,100,101,12.1,4.7,0.6,0.6,3.2,x,654,39.00,https://productimages.hepsiburada.net/s/3/500/9611933483058.jpg
+cupra,x,100,0,0,0,0,0,0,x,655,200.00, 
+rezene tohumu,x,100,336.1,16.1,14.9,0.5,39.4,53,x,656,42.00,https://cdn.dsmcdn.com/ty95/product/media/images/20210404/01/84d8ffc3/21886449/1/1_org_zoom.jpg
+safran,x,100,301.8,11.5,5.8,1.4,4.3,65.5,x,657,80.00,https://www.hayfene.com/hayfene-safran-5-gr-1339699-36-K.jpg
+orta boy cipura,x,100,115,24.9,0.9,0.2,0,0,x,658,150.00,https://baliktarifi.com/wp-content/uploads/2016/01/dogal-deniz-cipurasi.jpg
+ince cekilmis renkli tane karabiber,x,100,253.3,10.4,3,1.3,24.9,64.7,x,659,39.00,https://productimages.hepsiburada.net/s/236/300-443/110000219576702.jpg
+iri palamut,x,100,0,0,0,0,0,0,x,660,200.00,https://www.aytekinbalikcilik.com/84-large_default/palamut-iri.jpg
+iri cekilmis deniz tuzu,x,100,0,0,0,0,0,0,x,661,85.00,https://productimages.hepsiburada.net/s/3/375/9596327428146.jpg
+deniz levregi,x,100,121.7,23.4,2.6,0.7,0,0,x,662,170.00,https://cdn.metro-group.com/tr/tr_pim_401810001001_01.png?format=jpg&quality=50&w=594&h=594&bgcolor=white
+kisnis tohumu,x,100,301.1,12.3,17.7,1.1,42,55.8,x,663,15.00,https://productimages.hepsiburada.net/s/54/375/11187502350386.jpg
+ince tuz,x,100,0,0,0,0,0,0,x,664,35.00,https://images.migrosone.com/tazedirekt/product/6023598/06023598-53ebe3-680x454.jpg
+fileto mezgit,x,100,263.2,26.5,17,6.7,0,0,x,665,197.00,https://i.nefisyemektarifleri.com/2019/05/26/5dk-da-mezgit-fileto-pane-5.jpg
+kapari cicegi,x,100,23.2,2.3,0.8,0.2,3.3,4.9,x,666,94.00,https://productimages.hepsiburada.net/s/8/375/9214390861874.jpg
+somon veya mezgit fileto,x,100,208.7,22,12.1,2.4,0,0,x,667,79.00,https://2.bp.blogspot.com/-VW8pUCMWU6g/UrtsTP_244I/AAAAAAAAAZY/MLe_N9g7NaY/s1600/fileto-balik.jpg
+frenk sogani,x,100,30,3.4,0.7,0,2.7,4.3,x,668,33.00,https://st.myideasoft.com/idea/ei/35/myassets/products/041/frenksogan2.JPG?revision=1597597798
+kisnis,x,100,306.3,12.3,17.8,1.1,41,55.2,x,669,92.00,https://cdn.yemek.com/uploads/2016/10/kisnis-nedir-ocak-2021.jpg
+butun kalamar,x,100,92.9,15.7,1.4,0.4,0,3,x,670,121.00,https://www.marinestoptan.com/images/urunler/Butun-Kalamar-3-6--KG--resim-312.jpg
+jumbo karides,x,100,120.9,22.6,1.7,0.5,0,1.5,x,671,50.00,https://st.myideasoft.com/idea/bo/67/myassets/products/731/marines-26-30-iri-karides-eti.jpg?revision=1477906817
+kirmizi jalapeno biberi,x,100,28.9,0.9,0.4,0.1,2.8,6.4,x,672,49.00,https://static.ticimax.cloud/30597/uploads/urunresimleri/buyuk/greenadakirmizi-jalapeno-7e02.jpg
+lemongrass,x,100,101.7,1.8,0.5,0.1,0,25.5,x,673,89.00,https://tildaricelive.s3.eu-central-1.amazonaws.com/wp-content/uploads/2022/04/22155056/Lemongrass.jpg
+kelebek makarna,x,100,156,5.7,0.9,0.2,1.8,31.3,x,674,12.00,https://www.marmara.de/Uploads/k/makarna-fiyonk.png
+ton baligi konservesi,x,100,133.3,29.4,0.6,0.2,0,0,x,675,80.00,https://www.profsaracoglu.com/tonbaligisiyahet-profsaracoglu-2060-89-B.jpg
+kapari,x,100,0,0,0,0,0,0,x,676,70.00,https://images.migrosone.com/sanalmarket/product/16200476/berrak-kapari-tursusu-180-gr-fcc66b-1650x1650.jpg
+fileto somon,x,100,208,22,12.4,2.4,0,0,x,677,75.00,https://images.migrosone.com/macrocenter/product/21000030/21000030-62f0f8.jpg
+bayat ekmek ici,x,100,261.6,8.8,3.4,0.7,2.7,50.2,x,678,10.00,https://icdn.ensonhaber.com/resize/703x0-85/resimler/diger/kok/2021/11/02/galeta_1018.jpg
+rendelenmis sarimsak,x,100,144.8,6.4,0.7,0,2,32.5,x,679,100.00,https://productimages.hepsiburada.net/s/41/375/10716610494514.jpg
+kabuklu midye,x,100,172.4,23.9,4.5,0.8,0,7.3,x,680,111.00,https://cdn.metro-group.com/tr/tr_pim_585401002001_01.png?format=jpg&quality=50&w=594&h=594&bgcolor=white
+orta boy levrek baligi,x,100,121.7,23.4,2.6,0.7,0,0,x,681,170.00,https://www.tazemasa.com/Uploads/UrunResimleri/buyuk/levrek-iri-boy-700-gr-balik-ye-a1e00d.png
+fileto levrek,x,100,263.2,26.5,17,6.7,0,0,x,682,270.00,https://images.migrosone.com/tazedirekt/product/21000255/21000255-ca4441-680x454.jpg
+cekirdeksiz yesil zeytin,x,100,148.8,1.1,15.3,1.9,3.3,3.7,x,683,51.00,https://st3.myideasoft.com/idea/gp/70/myassets/products/607/yesil-zeytin-tatlandirilmis-cekirdeksiz.jpg?revision=1669028715
+kapari tursusu,x,100,23.4,2.3,0.8,0.2,3.2,4.9,x,684,53.00,https://images.migrosone.com/sanalmarket/product/16200476/berrak-kapari-tursusu-180-gr-fcc66b-1650x1650.jpg
+kinoa,x,100,121.8,4.4,1.9,0.2,2.8,21,x,685,68.00,https://st1.myideasoft.com/idea/gf/27/myassets/products/001/4400000017284-1.JPG?revision=1590066558
+konserve ton baligi,x,100,133.3,29.4,0.6,0.2,0,0,x,686,70.00,https://imgrosetta.mynet.com.tr/file/16115245/16115245-1200x824.jpg
+somon fileto,x,100,208,22,12.4,2.4,0,0,x,687,425.00,https://balikdunyasi.com.tr/wp-content/uploads/2021/06/somon-fileto.jpg
+ince dogranmis dereotu,x,100,44.3,3,1,0,2,7.1,x,688,55.00,https://i.nefisyemektarifleri.com/2020/07/06/dereotunun-faydalari-nelerdir-hangi-hastaliklara-iyi-gelir.jpg
+ayiklanmis karides,x,100,119,22.6,1.8,0.6,0,1.6,x,689,135.00,https://karides.gen.tr/images/Karides-Ayiklama-76.jpg
+kultur mantari,x,100,28,2.1,0.5,0.1,2.1,5.3,x,690,35.00,https://productimages.hepsiburada.net/s/33/375/10389759393842.jpg
+taze cekilmis karabiber,x,100,253.3,10.4,3,1.3,24.9,64.7,x,691,150.00,https://productimages.hepsiburada.net/s/31/375/10319729328178.jpg
+levrek fileto,x,100,118.1,24.9,1.2,0.2,0,0,x,692,155.00,https://balikdunyasi.com.tr/wp-content/uploads/2021/06/levrek-fileto-400g-3-1.jpg
+beyaz sirke,x,100,18.4,0,0,0,0,0.1,x,693,40.00,https://images.migrosone.com/sanalmarket/product/06035133/06035133-b71cbb.jpg
+toz kisnis,x,100,306.3,12.3,17.8,1.1,41,55.2,x,694,30.00,https://productimages.hepsiburada.net/s/4/375/9626941128754.jpg
+beyaz seker,x,100,394.7,0,0,0,0,99.9,x,695,75.00,https://sekersepetim.com/userfiles/productimages/product_2679.jpg
+dijon hardali,x,100,57.5,3.6,3.1,0.2,3.9,5.6,x,696,122.00,https://productimages.hepsiburada.net/s/4/375/9634878980146.jpg
+tam tahilli ekmek,x,100,258.3,12.4,3.5,0.7,6.1,43.2,x,697,30.00,https://cdn.shopify.com/s/files/1/0574/3922/3944/products/tamtahilli2.jpg?v=1661760285
+somon fume,x,100,120.4,18.4,4.3,0.9,0,0,x,698,87.00,https://balikdunyasi.com.tr/wp-content/uploads/2021/06/somon-fume-2.jpg
+taze kuskonmaz,x,100,21.4,2.4,0.2,0.1,2,4.2,x,699,300.00,https://www.tazemasa.com/Uploads/UrunResimleri/buyuk/afc58242-e0aa-40f6-bcbb-d011ee3461a9.jpg
+sakiz kabagi,x,100,22.6,1,0.4,0.1,1.1,3.8,x,700,20.00,https://cdn.cimri.io/market/260x260/sakiz-kabak-_60920.jpg
+ince kiyilmis dereotu,x,100,44.3,3,1,0,2,7.1,x,701,41.00,https://i.ytimg.com/vi/c_eoV3TlYWA/maxresdefault.jpg
+fume somon,x,100,120.4,18.4,4.3,0.9,0,0,x,702,145.00,https://www.kapidabalik.com/wp-content/uploads/2021/08/SOMON-FUME-BIRINCI-KALITE-1.jpeg
+orta boy kirmizi sogan,x,100,43.7,1.4,0.2,0,1.4,10.1,x,703,50.00,https://cdn.cimri.io/market/260x260/kirmizi-sogan-_97731.jpg
+ancuez,x,100,0,0,0,0,0,0,x,704,66.00,https://i.nefisyemektarifleri.com/2022/09/22/ancuez-nedir-nasil-hangi-baliktan-yapilir-2.jpg
+kucuk boy aci kirmizi biber,x,100,40.8,1.9,0.4,0,1.5,8.7,x,705,55.00,https://www.turkascihaberleri.com/Resimler/turkiyede-bulunan-biber-cesitleri-nelerdir-09.jpg
+taze kisnis,x,100,23.6,2.3,0.5,0,2.8,3.7,x,706,31.00,https://www.damlicaciftligi.com/image/cache/catalog/100158-kisnis-taze-2-550x550.jpg
+beyaz karabiber,x,100,248.5,10.5,3,1.3,25.4,63.1,x,707,109.00,https://productimages.hepsiburada.net/s/20/375/9876735688754.jpg
+temizlenmis karadeniz hamsi,x,100,206.1,29.1,9.9,2.2,0,0,x,708,58.00,https://hamsi.gen.tr/images/Hamsi-Temizleme-83.jpg
+yagli kagit,x,100,0,0,0,0,0,0,x,709,140.00,https://www.yukselpastacilik.com/media/1280x1280/yagli-kagit-resim-14205.jpg
+fileto levrek baligi,x,100,263.2,26.5,17,6.7,0,0,x,710,62.00,https://static.ticimax.cloud/36350/uploads/urunresimleri/buyuk/taptaze-baliklevrek-fileto-8128bd.jpg
+"kucuk boy,korpe kalamar",x,100,92.9,15.7,1.4,0.4,0,3,x,711,85.00,https://cdn1.ntv.com.tr/gorsel/Budq5oztYU6dSjWFORe-Tg.jpg?width=588&height=441&mode=crop&scale=both&v=1604048997442
+kucuk boy domates,x,100,18.2,0.9,0.2,0,1.2,3.9,x,712,25.00,https://st2.myideasoft.com/shop/ir/87/myassets/products/348/domates-tohumu-riesentraube-1.jpg?revision=1644581672
+orta boy sivri biber,x,100,39.4,1.9,0.4,0,1.5,8.8,x,713,12.00,https://veganyemektarifleri.com/wp-content/uploads/2021/09/sivri-biber-faydalari-4.jpg
+kucuk boy karides,x,100,119,22.6,1.8,0.6,0,1.6,x,714,63.00,https://baliktarifi.com/wp-content/uploads/2016/01/izgarada-kekikli-jumbo-karides-tarifi.jpg
+buyuk boy yesil biber,x,100,27.5,0.9,0.2,0,1.2,6.8,x,715,30.00,https://www.turkascihaberleri.com/Resimler/turkiyede-bulunan-biber-cesitleri-nelerdir-04.jpg
+fileto mezgit baligi,x,100,263.2,26.5,17,6.7,0,0,x,716,100.00,https://cdn.ye-mek.net/App_UI/Img/out/650/2022/11/firinda-mezgit-fileto-resimli-yemek-tarifi(2).jpg
+sade eriste,x,100,161.8,5.8,0.9,0.2,1.8,31.2,x,717,60.00,https://st.myideasoft.com/idea/ca/73/myassets/products/174/sade-eriste.jpg?revision=1487682614
+burgu makarna,x,100,156,5.7,0.9,0.2,1.8,31.3,x,718,11.00,https://www.koydegirmeni.com.tr/wp-content/uploads/2021/03/6128.jpg
+dirsek makarna,x,100,156,5.7,0.9,0.2,1.8,31.3,x,719,12.00,https://images.migrosone.com/tazedirekt/product/9112168/09112168-5a701b-680x454.jpg
+haslanmis bezelye,x,100,82.4,5.4,0.2,0,5.4,15.9,x,720,20.00,https://cdn.yaylabakliyat.com/images/original/products/yayla-haslanmis-bezelye-700g-1-1656939382.jpg
+rendelenmis eski kasar,x,100,415.6,22.8,33.9,18.8,0,3.1,x,721,43.00,https://cdn.yemek.com/mncrop/940/625/uploads/2017/04/ev-yapimi-kasar-peyniri-tarifi.jpg
+cok kucuk dogranmis frenk sogani,x,100,30,3.4,0.7,0,2.7,4.3,x,722,25.00,https://i20.haber7.net/resize/1300x788//haber/haber7/photos/2021/37/frenk_sogani_nedir_ve_faydalari_nelerdir_frenk_sogani_hangi_yemeklerde_kullanilir_1631701232_2934.jpg
+fiyonk makarna,x,100,156,5.7,0.9,0.2,1.8,31.3,x,723,11.00,https://www.koydegirmeni.com.tr/wp-content/uploads/2021/03/6129.jpg
+uzum domates,x,100,18,0.9,0.3,0,1.1,3.8,x,724,50.00,https://st.myideasoft.com/shop/ir/87/myassets/products/924/domates-tohumu-baby-grape-1.jpg?revision=1638953104
+chili biberi,x,100,39.4,1.9,0.4,0,1.5,8.8,x,725,17.00,https://productimages.hepsiburada.net/s/55/375/11208001191986.jpg
+ogutulmus top karabiber,x,100,253.3,10.4,3,1.3,24.9,64.7,x,726,35.00,https://dizdarbaharat.com.tr/wp-content/uploads/2018/02/kara-biber-toz-1.jpg
+spagetti makarna,x,100,154.7,5.3,0.6,0.1,1.3,29.9,x,727,13.00,https://www.muglagurme.com/image/cache/catalog/Gorseller/spagetti-makarna-gorsel-seomg-800x800.jpg
+taze feslegen,x,100,23.4,4,0,0,2,2,x,728,15.00,https://static.ticimax.cloud/11919/uploads/urunresimleri/buyuk/taze-feslegen-demet-2608.png
+fileto tavuk gogsu,x,100,263.2,26.5,17,6.7,0,0,x,729,96.00,https://www.gedikpilic.com/dosya/Fileto_2301.jpg
+spaghetti makarna,x,100,154.7,5.3,0.6,0.1,1.3,29.9,x,730,12.00,https://www.kaloriver.com/uploads/nutrition/5016/spagetti.jpg
+manti makarna,x,100,174.1,9.3,6.8,4,1.1,19.4,x,731,12.00,https://productimages.hepsiburada.net/s/19/500/9844193394738.jpg
+domates rendesi,x,100,18.2,0.9,0.2,0,1.2,3.9,x,732,21.00,https://www.kevserinmutfagi.com/wp-content/uploads/2012/08/kislik_rende_domates1.jpg
+kalem makarna,x,100,156,5.7,0.9,0.2,1.8,31.3,x,733,11.00,https://www.beslerpasta.com/upload/urun/temp/penne-rigate-901843_w1000_h1000.jpg
+makarnanin haslama suyu,x,100,156,5.7,0.9,0.2,1.8,31.3,x,734,0,https://imgrosetta.mynet.com.tr/file/11579290/11579290-728xauto.jpg
+dana gerdan,x,100,0,0,0,0,0,0,x,735,285.00,https://taskasap.com.tr/wp-content/uploads/2016/05/ta%C5%9F_kasap_dana_gerdan.png
+fettucine makarna,x,100,146.8,5.3,0.6,0.1,1.3,30,x,736,43.00,https://images.migrosone.com/tazedirekt/product/05030314/05030314-909dfa-680x454.jpg
+parmesan,x,100,419.3,28.6,27.6,15.4,0,14.1,x,737,107.00,https://i.lezzet.com.tr/images-xxlarge-secondary/parmesan-peyniri-nedir-nasil-kullanilir-54032e38-ea7c-46e1-b280-eb6468f2fb96.jpg
+yuksuk makarna,x,100,156,5.7,0.9,0.2,1.8,31.3,x,738,13.00,https://cdn.cimri.io/market/260x260/makarna-lutfen-250-gr-yuksuk-makarna-_943069.jpg
+lazanya,x,100,0,0,0,0,0,0,x,739,61.00,https://productimages.hepsiburada.net/s/20/1500/9876579647538.jpg
+rendelenmis muskat cevizi,x,100,527.5,5.9,36.4,26.2,20.7,49,x,740,128.00,https://cdn.yemek.com/uploads/2018/12/muskat-zararlari-nelerdir-1.jpg
+firin makarna,x,100,156,5.7,0.9,0.2,1.8,31.3,x,741,12.00,https://cdn.yemek.com/mnresize/1250/833/uploads/2020/04/firin-makarna-yemekcom.jpg
+muskat cevizi,x,100,527.5,5.9,36.4,26.2,20.7,49,x,742,67.00,https://www.ezogelinyoresel.com/UserFiles/Fotograflar/org/445-muskat-hint-cevizi-ezo-gelin-yoresel-muskat-hint-cevizi-jpg-ezo-gelin-yoresel-muskat-hint-cevizi.jpg
+kurutulmus chili biberi,x,100,39.4,1.9,0.4,0,1.5,8.8,x,743,44.00,https://productimages.hepsiburada.net/s/50/1500/11025257594930.jpg
+feslegen yapragi,x,100,24.4,4,0,0,2,2,x,744,183.00,https://i.nefisyemektarifleri.com/2023/02/01/feslegen-nedir-faydalari-nelerdir.jpg
+cecil peyniri,x,100,393.9,22.7,33,18.9,0,3.2,x,745,100.00,https://www.yanatlisut.com/image/cache/catalog/urunler/cecil-peyniri-900x720.jpg
+rendelenmis kolot peyniri,x,100,393.9,22.7,33,18.9,0,3.2,x,746,150.00,https://i.nefisyemektarifleri.com/2023/05/05/kolot-peyniri-nedir-nasil-yapilir-kullanilir-6.jpg
+rendelenmis cheddar peyniri,x,100,405.3,22.9,32.7,18.8,0,3.2,x,747,65.00,https://i.nefisyemektarifleri.com/2023/02/02/cheddar-peyniri-nasil-yapilir-eritilir-1.jpg
+renkli dolmalik biber,x,100,27.6,0.9,0.2,0,1.2,6.8,x,748,15.00,https://st3.myideasoft.com/shop/ir/87/myassets/products/367/dolmalik-biber-tohumu-kaliforniya-1.jpg?revision=1646217476
+kemiksiz tavuk but,x,100,192.6,28.8,7.3,2,0,0,x,749,128.00,https://www.gedikpilic.com/dosya/DerisizKemiksizBut_2328.jpg
+sarimsak tozu,x,100,331.9,16.5,0.6,0.3,9.1,72.1,x,750,73.00,https://n11scdn.akamaized.net/a1/602_857/08/93/17/91/48623972.jpg
+semolina,x,100,360,12.7,1,0.1,4,73.9,x,751,64.00,https://productimages.hepsiburada.net/s/77/375/110000019056048.jpg
+ada cayi,x,100,313.2,10.1,13.1,7.1,39.9,60.5,x,752,13.00,https://st1.myideasoft.com/idea/kb/59/myassets/products/072/adacayi1-800x800.jpg?revision=1662970411
+rendelenmis tulum peyniri,x,100,393.9,22.7,33,18.9,0,3.2,x,753,295.00,https://ayginkapida.com/dimg/urun/74435aygin-rendelenmis-eritme-peyniri.jpg
+ufalanmis bayat ekmek kirintisi,x,100,391.7,13.2,5.4,1.2,4.5,73.1,x,754,110.00,https://baliktarifi.com/wp-content/uploads/2015/07/panko-ekmek-kirintisi-breadcrumbs-nasil-yapilir.jpg
+kucuk boy kuru sogan,x,100,44.7,1.4,0.2,0,1.4,10.1,x,755,10.00,https://static.ticimax.cloud/30597/uploads/urunresimleri/buyuk/greenadamini-kuru-sogan-500-g-55-471.png
+haslanmis havuc,x,100,35.1,0.8,0.2,0,3,8.1,x,756,49.90,https://farm3.static.flickr.com/2790/4418752777_6b42fa27e3.jpg
+patates puresi,x,100,114,2,4.2,0.7,1.5,16.8,x,757,43.00,https://cdn.yemek.com/mncrop/940/625/uploads/2021/11/patates-puresi-4-tarifi.jpg
+domates sosu,x,100,24.6,1.2,0.3,0,1.5,5.4,x,758,25.00,https://cdn.yemek.com/mncrop/940/625/uploads/2015/08/domates-sosu-tarifi-son.jpg
+dil peyniri,x,100,296.6,22.3,22.3,13.2,0,2.2,x,759,47.00,https://st2.myideasoft.com/idea/lc/40/myassets/products/068/61bf41ac9f4a5_min.png?revision=1671505430
+cirpilmis yogurt,x,100,64.2,5.3,1.6,1,0,7.2,x,760,25.4,https://img.lezzetler.com/yuklenen5/yogurt-15840.jpg
+rendelenmis kuru sogan,x,100,44.7,1.4,0.2,0,1.4,10.1,x,761,10.00,https://annemutfakperisi.com/wp-content/uploads/dondurucuda-sogan-saklama.jpg
+kofte bahari,x,100,289.5,14.3,22.4,7.7,2.3,8.2,x,762,23.00,https://antepyoreselurunler.com/wp-content/uploads/2020/05/k%C3%B6fte-baharat%C4%B1-kar%C4%B1%C5%9F%C4%B1m%C4%B1.jpg
+eksi mayali ekmek,x,100,278.6,10.8,2.4,0.5,2.2,52.1,x,763,49.00,https://cdn.yemek.com/mnresize/940/940/uploads/2016/04/eksi-mayali-ekmek.jpg
+kuzu dos kiyma,x,100,278.6,27.2,17.1,6.5,0,0,x,764,237.00,https://www.onurmarket.com/Uploads/UrunResimleri/buyuk/1124254-27-4f3.jpg
+dana dos kiyma,x,100,278.6,27.2,17.1,6.5,0,0,x,765,150.00,https://st3.myideasoft.com/idea/fz/64/myassets/products/841/dana-dos-kiyma-kg.jpg?revision=1588701463
+kemik suyu,x,100,16.4,3.7,0.1,0,0,0.2,x,766,36.00,https://cdn05.e-bebek.com/mnresize/1600/1600/media/p/dana-ilikli-kemik-suyu-480-ml_8681648005408_01.jpg
+kil biber,x,100,39.4,1.9,0.4,0,1.5,8.8,x,767,6.00,https://www.etgros.com/wp-content/uploads/2020/05/manav-kil-biber-kg-sebze-manav-18117-25-O.jpg
+yagli dana kiyma,x,100,291.9,26.6,19.7,7.8,0,0,x,768,290.00,https://images.migrosone.com/sanalmarket/product/25010412/dana-normal-yagli-kiyma-79436f-1650x1650.jpg
+galeta,x,100,506.2,5.1,25.1,8,2,65.3,x,769,8.00,https://nebilcdn.blob.core.windows.net/gimatlinux/0001794_galeta-cesitleri-kg_510.jpg
+iri dovulmus ceviz ici,x,100,643.2,15.2,65,6.1,6.6,13.7,x,770,70.00,https://st3.myideasoft.com/idea/ho/34/myassets/products/006/ceviz.jpg?revision=1610222799
+tirnak pide,x,100,282.8,9.1,1.2,0.2,2.2,54.9,x,771,90.00,https://cdn.yemek.com/mnresize/1250/833/uploads/2022/06/kebapci-usulu-tirnak-pide-one-cikan.jpg
+koftelik ince bulgur,x,100,85.4,3.1,0.2,0,4.5,18.9,x,772,40.00,https://st.myideasoft.com/idea/kb/59/myassets/products/365/kofteliksimit-800x800.jpg?revision=1667035048
+orta yagli dana kiyma,x,100,278.6,27.2,17.1,6.5,0,0,x,773,290.00,https://restorandepo.com/wp-content/uploads/2018/12/DANA-KIYMA.jpg
+ince koftelik bulgur,x,100,84.3,3.1,0.2,0,4.6,18.8,x,774,40.00,https://cdn03.ciceksepeti.com/cicek/kc2535247-1/L/pek-degirmen-kisirlik-koftelik-bulgur-nce-dogal-koy-bulguru-20-kg-kc2535247-1-a54cc36f2c104018ac9539a47fd5ba1a.jpg
+tereyagi veya margarin,x,100,730.8,0.8,80.7,51.4,0,0.1,x,775,60.00,https://soru.com.tr/wp-content/uploads/2022/12/kup-tereyagi.jpg
+domates- biber salcasi,x,100,0,0,0,0,0,0,x,776,81.00,https://cdn.dsmcdn.com/ty23/product/media/images/20201119/13/28985442/22353138/1/1_org_zoom.jpg
+dana nuar kiyma,x,100,278.6,27.2,17.1,6.5,0,0,x,777,220.00,https://www.besyol.com.tr/image/cache/catalog/urunler/image/data/resimler/dana-cig-koftelik-kiyma-kg-12590-1200x900.jpg
+bayat ekmek ici ya da galeta unu,x,100,391.7,13.2,5.4,1.2,4.5,73.1,x,778,80.00,https://cdn.ye-mek.net/App_UI/Img/out/650/2020/03/ev-yapimi-galeta-unu-resimli-yemek-tarifi(12).jpg
+koftelik bulgur,x,100,85.4,3.1,0.2,0,4.5,18.9,x,779,32.00,https://surmeliciftligi.com/wp-content/uploads/2019/08/Koftelik-Bulgur-Yozgat-Bakliyat-2.jpg
+yagli kuzu bosluk eti,x,100,301.2,24.4,20.5,8.8,0,0,x,780,234.00,https://www.cdnaws.com/i/brtetsancom/QvGYHLvkHpaZW3D2ZW3D2LvkHpaZW3D2ZW3D2/images/urunler/63316ad0f2748-27.png
+trabzon ekmegi kirintisi,x,100,391.7,13.2,5.4,1.2,4.5,73.1,x,781,36.00,https://ozhanozturk.com/wp-content/uploads/2017/08/karadeniz-ekmegi.jpg
+karisik kofte baharati,x,100,289.5,14.3,22.4,7.7,2.3,8.2,x,782,90.00,https://antepyoreselurunler.com/wp-content/uploads/2020/05/k%C3%B6fte-baharat%C4%B1-kar%C4%B1%C5%9F%C4%B1m%C4%B1.jpg
+az yagli dana kiyma,x,100,278.6,27.2,17.1,6.5,0,0,x,783,135.00,https://st2.myideasoft.com/idea/ek/88/myassets/products/044/kasap-az-yagli-kiyma-ce.jpg?revision=1596747950
+toz biber,x,100,248.5,10.5,3,1.3,25.4,63.1,x,784,24.00,https://murmes.com.tr/uploads/Biber/cok_aci_toz_biber-min_1972620a-fc4e-4c68-a715-07a3e605127e.jpg
+kuzu eti,x,100,287,24.7,20.7,8.9,0,0,x,785,183.00,https://taspigida.com.tr/wp-content/uploads/2022/11/kuzu_eti_fiyatlari.jpg
+kuru reyhan,x,100,24.4,4,0,0,2,2,x,786,20.00,https://static.ticimax.cloud/32189/uploads/urunresimleri/buyuk/reyhan-7e3a.jpg
+kurutulmus reyhan,x,100,233.6,22.7,4.3,2.9,36.7,47.8,x,787,50.00,https://st.myideasoft.com/shop/cr/25/myassets/products/739/reyhan.jpg?revision=1512721385
+toz defne yapragi,x,100,314.7,10,10.1,0,25.3,75.6,x,788,35.00,https://www.tosmagaza.com/image/cache/catalog/TOS%20GRUP/URUNLER/OTLAR/defne-yapragi-tozu-766x1000.jpg
+kuzu kol,x,100,301.2,24.4,20.5,8.8,0,0,x,789,252.00,https://reimg-carrefour.mncdn.com/mnresize/600/600/productimage/30069206/30069206_0_MC/8796739239986_1573808228162.jpg
+dana kusbasi eti,x,100,291.9,26.6,19.7,7.8,0,0,x,790,306.00,https://www.mismarsanalmarket.com/UserFiles/Fotograflar/4049-dana-kusbasi-et-dana-kusbasi-et-dana-kusbasi.jpg
+kusbasi dana eti,x,100,291.9,26.6,19.7,7.8,0,0,x,791,306.00,https://ulus-et.com/wp-content/uploads/2020/09/dana-kusbasi_27.07.2019_12_31_07.jpg
+kusbasi kuzu kol,x,100,301.2,24.4,20.5,8.8,0,0,x,792,200.00,https://cdn.cimri.io/market/260x260/1incininyeri-1-kg-kuzu-kol-kusbasi-_1181227.jpg
+kuyruk yagi,x,100,926,0,100.9,39.3,0,0,x,793,98.00,https://upload.wikimedia.org/wikipedia/commons/c/c6/Beef_suet-01.jpg
+iri dogranmis dana eti,x,100,291.9,26.6,19.7,7.8,0,0,x,794,175.00,https://www.duvee.com.tr/dana-kavurmalik-duvee-1456-16-B.jpg
+besamel sos,x,100,48.8,1.4,1.6,0.2,1.8,7.5,x,795,19.00,https://i0.wp.com/hadipisir.com/wp-content/uploads/2021/02/00-11.jpg?fit=750%2C525&ssl=1
+salcali su,x,100,81.3,4.3,0.5,0.1,4.1,18.8,x,796,109.00,https://salca.gen.tr/images/salcali-sos.jpg
+dana tranc eti,x,100,0,0,0,0,0,0,x,797,195.00,https://images.migrosone.com/sanalmarket/product/25010666/25010666-6d34c7-1650x1650.jpg
+dana firinlik kaburga,x,100,113.9,18.5,3.6,1.3,0,0.7,x,798,232.00,https://www.enflasyon.co/productimage/5fa0b1c2b85ea.jpg
+ciger,x,100,169.8,24.4,6.6,2.1,0,0.9,x,799,179.00,https://www.diyetkolik.com/site_media/media/nutrition_images/ciger.jpg
+kusbasi et,x,100,221.2,27.7,12.2,4.4,0,0,x,800,300.00,https://www.mismarsanalmarket.com/UserFiles/Fotograflar/4049-dana-kusbasi-et-dana-kusbasi-et-dana-kusbasi.jpg
+dana antrikot,x,100,0,0,0,0,0,0,x,801,397.00,https://www.balikesireti.com/wp-content/uploads/2018/09/antrikot-1.jpg
+kucuk biber tursusu,x,100,27.6,0.9,0.2,0,1.2,6.7,x,802,40.00,https://1.bp.blogspot.com/-6vxqG0zRFbQ/UITmSZGcUnI/AAAAAAAADDE/AHBNG7bDE-c/s1600/k%C3%BC%C3%A7%C3%BCk+biber+tur%C5%9Fusu.JPG
+kusbasi kuzu eti,x,100,224.9,33.7,8.7,3.2,0,0,x,803,344.00,https://tse3.mm.bing.net/th?id=OIP.fkhm3fwVOjgiTO3k-Xyi5wHaEK&pid=Api&P=0&h=180
+orta yagli kuzu kiyma,x,100,278.6,27.2,17.1,6.5,0,0,x,804,360.00,https://www.dogadolu.com.tr/Uploads/UrunResimleri/orta-yagli-kuzu-kiyma-500-gr.-79da87.jpg
+dana cigeri,x,100,226.3,30.3,11.5,4.2,0,0,x,805,245.00,https://tse4.mm.bing.net/th?id=OIP.cPvbKV8ZL84cYy1k4vOZAQHaEK&pid=Api&P=0&h=180
+dana nuar,x,100,0,0,0,0,0,0,x,806,377.00,http://www.kofteciyusuf.com/uploads/pictures/screen-shot-2015-05-18-at-175731_18.05.2015_02_55_52.jpg
+dana bonfile,x,100,0,0,0,0,0,0,x,807,600.00,https://yiletonline.com/image/cache/catalog/urunler/ef547dana%20bonfile_-1080x1080w.jpg
+tortilla ekmegi,x,100,318.7,8.8,7,1.7,3.3,55.6,x,808,145.00,https://www.muglagurme.com/image/cache/catalog/dfs-tortilla-ekmegi-15-cm-250-gr-seo-1600x1600w.jpg
+aci sos,x,100,48.8,1.4,1.6,0.2,1.8,7.5,x,809,30.00,https://tse2.mm.bing.net/th?id=OIP.K-nps6TaMWc1y-Du4lz41QHaHa&pid=Api&P=0&h=180
+kivircik marul,x,100,17,1.2,0.3,0,2.1,3.3,x,810,12.00,https://mutlusebzeler.com/wp-content/uploads/2017/01/marul-2.jpg
+eksi krema,x,100,192.5,2.4,19.6,10.1,0,4.7,x,811,120.00,https://tse3.mm.bing.net/th?id=OIP.kU5i5Vj9Ew4wCeegNNbhjQHaHa&pid=Api&P=0&h=180
+antrikot ya da but eti,x,100,0,0,0,0,0,0,x,812,397.00,https://tse1.explicit.bing.net/th?id=OIP.iEGmEDaPnPhZgchZf36BPAHaET&pid=Api&P=0&h=180
+rendelenmis orta boy kuru sogan,x,100,44.7,1.4,0.2,0,1.4,10.1,x,813,80.00,https://i.pinimg.com/736x/f1/67/66/f1676674e7547fce0d88daaa9e44335c--orta-boys.jpg
+cekilmis tane karabiber,x,100,253.3,10.4,3,1.3,24.9,64.7,x,814,192.00,https://www.anteppaketi.com/Uploads/UrunResimleri/buyuk/cekilmis-karabiber-e597.jpg
+islatilmis ekmek ici,x,100,391.7,13.2,5.4,1.2,4.5,73.1,x,815,35.00,https://i.nefisyemektarifleri.com/2018/01/17/ekmek-ici-kebabi-13.jpg
+mozzarella peyniri,x,100,300.8,22.4,22.7,13.2,0,2.2,x,816,10.00,https://ia.tmgrup.com.tr/498039/943/488/0/59/800/473?u=https://i.tmgrup.com.tr/sfr/2022/06/08/mozzarella-peyniri-1654676927143.jpg
+dana dos eti,x,100,226.3,30.3,11.5,4.2,0,0,x,817,295.00,https://res.cloudinary.com/demts01/image/upload/b/2701126.jpg
+ince cekilmis tuz,x,100,0,0,0,0,0,0,x,818,5.00,https://www.cankirituz.com/322-big_default/3-adet-5-kg-ince-cekilmis-cankiri-tuzu.jpg
+kuzu incik,x,100,301.2,24.4,20.5,8.8,0,0,x,819,245.00,https://tse2.mm.bing.net/th?id=OIP.FpKAtp9N7NWyudR1yQMuIwHaEK&pid=Api&P=0&h=180
+orta yagli kuzu eti,x,100,301.2,24.4,20.5,8.8,0,0,x,820,343.00,https://www.dogadolu.com.tr/Uploads/UrunResimleri/kuzu-orta-yagli-kusbasi-500-gr.-4f5-48.jpg
+kuzu cigeri,x,100,226.5,30.4,8.9,3.4,0,2.6,x,821,275.00,https://st1.myideasoft.com/idea/ez/94/myassets/products/058/2900114-4.jpg?revision=1592751563
+kokorec,x,100,0,0,0,0,0,0,x,822,40.00,https://i.ytimg.com/vi/seJ9bw6HgHQ/maxresdefault.jpg
+kuzu sis,x,100,301.2,24.4,20.5,8.8,0,0,x,823,300.00,https://tse1.mm.bing.net/th?id=OIP.V4nZ4gj-dbcnz6LQLxzjHwHaFj&pid=Api&P=0&h=180
+dolmalik kirmizi biber,x,100,27.6,0.9,0.2,0,1.2,6.8,x,824,50.00,https://www.obezitehaber.com/wp-content/uploads/2020/06/kirmizi-dolmalik-biber-faydalari-nelerdir-755x400.png
+sogan suyu,x,100,44.7,1.4,0.2,0,1.4,10.1,x,825,0,https://i2.milimaj.com/i/milliyet/75/0x410/5f777dfc55427f106c67c111.jpg
+bonfile,x,100,329.4,24,24.4,9.8,0,0,x,826,600.00,http://cdn.yemek.com/mnresize/1000/625/uploads/2015/04/bonfile.jpg
+kozlenmis patlican,x,100,34.7,0.8,0.2,0,2.5,8.7,x,827,63.00,https://cdn.shopify.com/s/files/1/0497/7377/2949/products/berrak-kozlenmis-patlican-salatasi-jar-20210422102905-74693_847x847.jpg?v=1619163997
+rendelenmis patates,x,100,92.9,2.5,0.1,0,2.2,21,x,828,16.00,https://i.nefisyemektarifleri.com/2016/04/03/rendelenmis-patates-1.jpg
+buyuk kuru sogan,x,100,44.7,1.4,0.2,0,1.4,10.1,x,829,3.00,https://www.tarimziraat.com/foto/rich_snippets/kuru_sogan.jpg
+lazanya yapragi,x,100,157.7,11.4,8.5,4,1,9.2,x,830,50.00,https://2.bp.blogspot.com/-HIh09UFc82c/XCSPpChMMfI/AAAAAAAAHjY/ou5H9mfVGKYyrYAU4Lej_v5AnWlBZ9rvACLcBGAs/s1600/Lasagne%2B1.jpg
+kuzu pirzola,x,100,312.2,28.6,20.9,10.7,0,0,x,831,423.00,https://www.gustoase.net/wp-content/uploads/2018/04/kuzu-pirzola-1.jpg
+kontrfile,x,100,0,0,0,0,0,0,x,832,380.00,https://cdn.yemek.com/mncrop/940/625/uploads/2015/04/kontrfile-1.jpg
+mercankosk,x,100,271.9,13.2,6.6,0,39.8,59.7,x,833,152.00,https://tse2.mm.bing.net/th?id=OIP.eiBLc9rb8WgtEW2ykBbJNQHaHa&pid=Api&P=0&h=180
+koyu kivamli yogurt,x,100,64.2,5.3,1.6,1,0,7.2,x,834,50.00,https://i.nefisyemektarifleri.com/2018/02/03/kivamli-yogurt.jpg
+ince dovulmus biftek,x,100,273.4,26,18.8,7.3,0,0,x,835,360.00,https://i.a2zhealthproducts.com/img/food-and-drink-2018/how-to-cook-thin-sliced-steak.jpg
+domates/aci biber salcasi karisimi,x,100,248.5,10.5,3,1.3,25.4,63.1,x,836,35.00,https://tse4.mm.bing.net/th?id=OIP.6GVLvU4CnNVumaqxDpgj0AAAAA&pid=Api&P=0&h=180
+limon rendesi,x,100,46.5,1.5,0.3,0,10.6,15.8,x,837,9.00,https://tse2.mm.bing.net/th?id=OIP.wmn26MR7iOMPndLHgVSyNgHaHc&pid=Api&P=0&h=180
+pastacilik kremasi,x,100,115.4,3.6,2.9,1.5,0,19.3,x,838,125.00,https://i.ytimg.com/vi/aFSPAAurpb0/maxresdefault.jpg
+marzipan,x,100,398.6,3.9,12,1.1,2.1,72.9,x,839,50.00,https://www.friars.co.uk/images/friars-marzipan-fruits-300g-p838-7820_image.jpg
+dovulmus badem ici,x,100,606.8,20.7,51.7,3.9,10.8,21.1,x,840,200.00,https://st1.myideasoft.com/idea/dr/29/myassets/products/500/badem-ici-kavrulmus.jpg?revision=1598104427
+dovulmus kakule,x,100,314.5,10.9,6.4,0.5,27.9,68.3,x,841,130.00,https://faydayarar.com/wp-content/uploads/2019/06/kakule-cignemek-fayda-zarar-dis-agiz-nasil-cignenir-cekirdek-kakule-nasil-kullanilir-.jpg
+soguk tereyagi,x,100,721.5,0.8,79.6,51.1,0,0.1,x,842,75.00,https://emregidarize.com/image/cache/catalog/urunler/tereyagi-800x640.jpg
+baklavalik yufka,x,100,294,7.1,6.1,1.5,1.9,53.6,x,843,5.00,https://3.bp.blogspot.com/-9j54FQajjDo/WTXEduyO5LI/AAAAAAAAJYI/yiN6nwRHgwc1NP_JPH2F8YIc1i5HfoXHACLcB/w1200-h630-p-k-no-nu/20170531_022302-01.jpeg
+tavuk kalca,x,100,214.7,23.6,13.6,4.2,0,0.1,x,844,43.00,https://i.nefisyemektarifleri.com/2018/04/08/tavuk-kalca.jpg
+kemiksiz tavuk kalca,x,100,192.6,28.8,7.3,2,0,0,x,845,73.00,https://i.nefisyemektarifleri.com/2020/04/06/kemiksiz-tavuk-kalca-copsis-1.jpg
+rendelenmis taze zencefil,x,100,79.5,2,1,0,2,17.9,x,846,10.00,https://st3.myideasoft.com/idea/gy/30/myassets/products/010/lezzet-i-nan-taze-zencafil.jpg?revision=1608148732
+keten tohumu,x,100,549.8,18.4,43,3.7,27.5,28.3,x,847,50.00,https://tse4.mm.bing.net/th?id=OIP.silN2AzpqwsqDdEPjFps-wHaE8&pid=Api&P=0&h=180
+kakule,x,100,314.5,10.9,6.4,0.5,27.9,68.3,x,848,130.00,https://hthayat.haberturk.com/im/2017/12/22/ver1563053349/1057692_1920x1080.jpg
+kimyon tohumu,x,100,374.9,17.7,22.3,1.4,10.6,44.2,x,849,120.00,https://st1.myideasoft.com/shop/du/95/myassets/products/943/kimyon-tohumu-cumin-seeds-1b65.jpg?revision=1577546967
+toz tarcin,x,100,247.4,3.9,1.1,0.4,53.8,80.4,x,850,105.00,https://st2.myideasoft.com/idea/ei/03/myassets/products/276/1553f4f1-c59f-4de3-b653-8797b97dd28d.png?revision=1593293703
+pirinc unu,x,100,362.9,6,1.4,0.4,2.4,80.9,x,851,7.00,https://d23ic3f0nw4szy.cloudfront.net/marketpaketi/products/543816/droetker-irmikli-pirinc-unu-35-gr-x-5-adet-135946001542285694.jpg
+gul suyu,x,100,85.4,0.4,0,0,0,3.8,x,852,81.00,https://tse1.mm.bing.net/th?id=OIP.D9OtMUvJIWeFssbQIfvUYgHaHa&pid=Api&P=0&h=180
+yagli tavuk eti,x,100,191.4,29.2,7.3,2,0,0,x,853,60.00,https://www.ucarecdn.com/93f84ea0-01b4-4dc9-b9e1-b6749b5f9398/-/resize/700x/
+buyuk boy yumurta,x,100,145.7,12.7,9.4,3.1,0,0.7,x,854,62.00,https://www.tasomarket.com/files/products/karaman-yumurta-30lu-buyuk-boy-l-06df.jpeg
+nutella,x,100,537.8,5.4,30.3,28.5,5.5,63,x,855,55.00,https://i5.walmartimages.com/asr/53d44111-d4e2-4b8b-a0dd-9834867bbe4c_1.54febea0b59d88e1eebdbb0e6866b495.jpeg
+findik kremasi,x,100,656.2,14.9,61.5,4.5,9.4,17.8,x,856,72.00,https://www.marmara.de/Uploads/4046/findik-kremasi.png
+dovulmus findik,x,100,662.2,14.9,62.8,4.5,9.2,17.7,x,857,50.00,https://saraygetirsin.com/image/cache/catalog/KALBEN/lOF8B9icY5ORC3lipaZxLXtRcqXz9R5nWfYRUsJ9-1000x1000w.jpg
+cig kaju fistigi,x,100,558.5,18.2,43.9,7.7,3.4,29.7,x,858,200.00,https://st1.myideasoft.com/idea/dr/29/myassets/products/558/kaju-fistigi-cig-vakumlu.jpg?revision=1598282632
+goji berry,x,100,356.2,14.2,0.4,0,12.9,78.5,x,859,90.00,https://lemoncitrustree.com/store/media/catalog/product/cache/1/image/1200x1200/9df78eab33525d08d6e5fb8d27136e95/g/o/goji_berry.jpg
+gunkurusu kayisi,x,100,242.9,3.4,0.6,0,7.5,63.7,x,860,55.00,https://tse3.mm.bing.net/th?id=OIP.BiIabGTvrd-mkBNs_04v5QHaD2&pid=Api&P=0&h=180
+kurutulmus erik,x,100,46.2,0.7,0.3,0,1.4,11.4,x,861,110.00,https://www.malatyapazaripalanci.com.tr/kurutulmus-cekirdeksiz-erik-erik-193-13-B.jpg
+bitter kuvertur cikolata,x,100,540.2,7.8,29.4,18.6,3.4,58.9,x,862,124.00,https://tse3.mm.bing.net/th?id=OIP.Zc6Hq1CGYOuyOXHp9lsl9wHaHa&pid=Api&P=0&h=180
+sutlu kuvertur cikolata,x,100,51.3,3.5,1.9,1.2,0,4.9,x,863,124.00,https://tse3.mm.bing.net/th?id=OIP.ZS4AhGpGru78woYOyln3cQHaHa&pid=Api&P=0&h=180
+beyaz kuvertur cikolata,x,100,540.2,7.8,29.4,18.6,3.4,58.9,x,864,124.00,https://tse4.mm.bing.net/th?id=OIP.WG4ds2qmLkO9wiHzZ-XzgAHaHa&pid=Api&P=0&h=180
+rendelenmis portakal kabugu,x,100,99.7,1.5,0.2,0,10.9,25.4,x,865,100.00,https://www.diyetkolik.com/site_media/media/nutrition_images/Portakal_Kabugu_Rende.jpg
+orta boy kapya biber,x,100,39.2,2,0.2,0,1.5,9.6,x,866,4.00,https://tse3.mm.bing.net/th?id=OIP._T7dZoNMQUfjWRBnw_6OAQHaIB&pid=Api&P=0&h=180
+orta boy yesil dolmalik biber,x,100,27.3,0.9,0.2,0,1.2,6.6,x,867,17.00,https://images.ruyandagor.com/2017/05/agacta-yesil-dolmalik-biber-gormek-0137.jpg
+sut kaymagi,x,100,51.3,3.5,1.9,1.2,0,4.9,x,868,160.00,https://www.torunoglu.com.tr/dimg/urunler/sut_kaymagi_5kg.jpg
+kucuk boy yumurta,x,100,147,12.5,9.7,3.1,0,0.7,x,869,40.00,https://storage.googleapis.com/indirimdemarket-cdn/products/2670/8553/37158.jpg
+misir irmigi,x,100,93.9,3.4,1.5,0.2,2.4,21,x,870,90.00,https://www.gazianteppazari.com.tr/image/cache/data/resimler/misir-irmigi-7-800x800.jpg
+rendelenmis mozzarella peyniri,x,100,300.8,22.4,22.7,13.2,0,2.2,x,871,10.00,https://cdnd-tr.ceptesok.com/product/1000x1000/b03dd_Rende_Mozzarella_Peyniri_150_Gr.jpg
+taze feslegen yapragi,x,100,23.4,4,0,0,2,2,x,872,20.00,https://www.feslegen.gen.tr/images/Taze-Feslegen-51.JPG
+yogurt kaymagi,x,100,64.2,5.3,1.6,1,0,7.2,x,873,24.90,https://i.nefisyemektarifleri.com/2020/04/26/evde-biriktirdigimiz-sut-kaymaginve-yogurt-kaymagi-ile-tereyagi-yapimi-3.jpeg
+ramen,x,100,0,0,0,0,0,0,x,874,55.00,https://tse3.mm.bing.net/th?id=OIP.zwTQy31y-stiHFBLJcdNwgHaHa&pid=Api&P=0&h=180
+susam yagi,x,100,858.8,0,100.6,14.1,0,0,x,875,150.00,https://cdn.dsmcdn.com/ty109/product/media/images/20210503/12/85034099/15731907/1/1_org_zoom.jpg
+soya filizi,x,100,0,0,0,0,0,0,x,876,60.00,https://www.diyetkolik.com/site_media/media/nutrition_images/a06ba5accffb72937bdb21856cd70490.jpg
+kucuk boy patates,x,100,92.7,2.5,0.1,0,2.2,21,x,877,8.00,https://www.tazemasa.com/Uploads/UrunResimleri/buyuk/30f3db45-8170-48cf-983e-be5c798df412.jpg
+risotto pirinci,x,100,130.4,2.4,0.2,0,0,28.4,x,878,27.00,https://www.pirinc.gen.tr/images/risotto-pirinci.jpg
+tuzsuz lor peyniri,x,100,100.1,11,4.3,1.7,0,3.4,x,879,40.00,https://www.peynirler.gen.tr/images/Tuzsuz-Lor-Peyniri-83253.jpg
+elenmis un,x,100,362.6,10.2,1,0.2,2.7,77,x,880,100.00,https://tse3.mm.bing.net/th?id=OIP.o2FX7gKxZdcp7IZTHJnPfgHaHa&pid=Api&P=0&h=180
+orta boy kirmizi elma,x,100,52.6,0.3,0.2,0,2.4,13.7,x,881,17.00,https://tse3.explicit.bing.net/th?id=OIP.sdC9WXuDiSnAI9oBQv0KpAHaFO&pid=Api&P=0&h=180
+dovulmus sarimsak,x,100,144.8,6.4,0.7,0,2,32.5,x,882,2.50,https://images.ruyandagor.com/2017/06/sarimsak-kokusu-gormek-1446.jpg
+frenk kimyonu,x,100,0,0,0,0,0,0,x,883,25.00,https://st2.myideasoft.com/shop/cr/25/myassets/products/463/frenk-kimyonu.jpg?revision=1547636164
+nane yapragi,x,100,405.2,0,0,0,0,98.6,x,884,50.00,https://tse2.mm.bing.net/th?id=OIP.LJa2R9lsHb6EF_n2c_Sd5gHaHN&pid=Api&P=0&h=180
+tortilla,x,100,316,8.7,7.1,1.7,3.3,55.4,x,885,145.00,https://i0.wp.com/eatsdelightful.com/wp-content/uploads/2020/06/final-2-edited-better.jpg?fit=1024%2C978&ssl=1
+yagsiz biftek,x,100,273.4,26,18.8,7.3,0,0,x,886,379.90,https://thumbs.dreamstime.com/b/biftek-alimento-libanese-15649218.jpg
+konserve meksika fasulyesi,x,100,91.3,4.7,0.4,0.1,4.1,21.3,x,887,20.00,https://tse3.mm.bing.net/th?id=OIP.154hmCca31G8Xz7qiESKrAHaHa&pid=Api&P=0&h=180
+cig krema,x,100,347.4,2.9,35.6,22.9,0,2.8,x,888,15.00,https://i.pinimg.com/originals/ca/ff/b5/caffb588496e966163f82cb1233e9a8b.jpg
+tavuk but,x,100,182.1,24.1,8.9,2.4,0,0,x,889,60.00,https://www.diyetkolik.com/site_media/media/nutrition_images/Untitled_design_27.jpg
+karabiber-tuz karisimi,x,100,0,0,0,0,0,0,x,890,35.00,https://st3.myideasoft.com/idea/au/35/myassets/products/671/karabiber-toz.jpg?revision=1586205429
+taneli hardal,x,100,58.3,3.8,3.4,0.2,4,5.7,x,891,66.00,https://reimg-carrefour.mncdn.com/mnresize/600/600/productimage/30069013/30069013_0_MC/8796738027570_1528879567789.jpg
+portakal kabugu,x,100,99.7,1.5,0.2,0,10.9,25.4,x,892,19.90,https://akyaziyemek.com/wp-content/uploads/2021/02/portakal-kabugu-shutterstock-1.jpg
+eski kasar peyniri,x,100,405.3,22.9,32.7,18.8,0,3.2,x,893,90.00,https://www.torunoglu.com.tr/dimg/urunler/eski_kasar_peyniri.jpg
+iri cekilmis antep fistigi,x,100,584,21.5,44.9,5.7,10,27.2,x,894,240.00,https://www.antepyoreselurunler.com/wp-content/uploads/2019/09/antep-fistigi-1.jpg
+pirinc sirkesi,x,100,18.1,0,0,0,0,0.1,x,895,80.00,https://www.muglagurme.com/image/cache/catalog/pirinc-sirkesi-gorsel-seo-800x800h.jpg
+taze zencefil,x,100,79.5,2,1,0,2,17.9,x,896,115.00,https://tse1.explicit.bing.net/th?id=OIP.Tet2rGfWm_ws6YXQD8IMHgHaE8&pid=Api&P=0&h=180
+kestane mantari,x,100,249.2,3.2,2.2,0.4,5.2,52.9,x,897,40.00,http://cdn.ye-mek.net/App_UI/Img/out/650/2013/10/kestane-mantari-resimli-yemek-tarifi(2).jpg?h=487&w=650
+bebe biskuvisi,x,100,358.9,7,16.5,4.3,1.5,44.6,x,898,55.00,https://d23ic3f0nw4szy.cloudfront.net/marketpaketi/products/986/ulker-bebe-biskuvisi-kutu-800-gr-859601001542792405.jpg
+basmati veya yasmin pirinci,x,100,131.2,2.7,0.3,0.1,0.4,28.5,x,899,30.00,https://i12.haber7.net/haber/haber7/photos/2020/39/basmati_pirinci_nedir_basimati_pirinc_pilavi_nasil_yapilir_adim_adim_basmati_pilavi_1601034979_9671.jpg
+ezilmis kakule,x,100,314.5,10.9,6.4,0.5,27.9,68.3,x,900,71.59,https://www.unileverfoodsolutions.com.tr/konsept-uygulamalarimiz/baharat-ve-cesniler/kakule-nedir-nasil-kullanilir/jcr:content/parsys/content/image_1450134482.img.png/1622058884413.png
+kuskus,x,100,114.1,3.8,0.2,0,1.4,23.4,x,901,13.00,http://4.bp.blogspot.com/-clmHWACUJg8/UJzWpPJG0dI/AAAAAAAABM8/kMTQXaWL7BM/w1200-h630-p-k-no-nu/kuskus.jpg
+tavuk fume,x,100,222.6,23.7,12.9,3.7,0,0,x,902,18.00,http://mybeautifulcookbook.com/wp-content/uploads/2011/03/fume-tavuk-bruschetta4_low.jpg
+margarin veya tuzsuz tereyagi,x,100,700.5,0.1,80.7,15.4,0,0.7,x,903,14.00,https://zekiler.com.tr/wp-content/uploads/2019/06/tereyagi-1.jpg
+pirinc yufkasi,x,100,127.4,2.7,0.3,0.1,0.4,28.4,x,904,60.00,https://st.myideasoft.com/idea/fe/35/myassets/products/634/spring-roll-min.jpg?revision=1613211053
+oyster,x,100,160.8,18.8,4.6,1,0,10,x,905,0,https://tse1.explicit.bing.net/th?id=OIP.XXvJFZjEmzh1q2V7-2ruIwHaFj&pid=Api&P=0&h=180

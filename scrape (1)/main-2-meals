@@ -1,0 +1,91 @@
+import json
+import psycopg2
+import psycopg2.extras
+
+DB_HOST = "localhost"
+DB_NAME = "turkishmeals"
+DB_USER = "postgres"
+DB_PASS = "3544241"
+
+conn = psycopg2.connect(dbname=DB_NAME, user=DB_USER, password=DB_PASS, host=DB_HOST, port=5432)
+cur = conn.cursor(cursor_factory=psycopg2.extras.DictCursor)
+
+existing_meals = []  #aynı isimdeki yemeklerin eklenmesini önlemek için yaptım
+
+cur.execute("SELECT name FROM meals")
+rows = cur.fetchall()
+for row in rows:
+    existing_meals.append(row['name'])
+
+with open("meals.json", encoding='utf-8') as f:
+    datas = json.load(f)
+
+cur.execute("SELECT MAX(id) FROM meals") 
+max_id = cur.fetchone()[0]
+next_id = max_id + 1 if max_id else 1 
+
+for meal_id, meal_data in datas.items():
+    meal_id = int(meal_data["id"])
+    meal_name = meal_data["Name"]
+    if meal_name not in existing_meals:  # Aynı isimde bir kayıt yoksa ekle
+        meal_recipe = meal_data["Recipe"]
+        
+        if meal_data["MainCategory"] == "Köfte":
+            meal_type_id = 1
+        elif meal_data["MainCategory"] == "Sebze":
+            meal_type_id = 2
+        elif meal_data["MainCategory"] == "Et":
+            meal_type_id = 3
+        elif meal_data["MainCategory"] == "Hamur İşi":
+            meal_type_id = 4
+        elif meal_data["MainCategory"] == "Kahvaltılık":
+            meal_type_id = 5
+        elif meal_data["MainCategory"] == "Tatlı":
+            meal_type_id = 6
+        elif meal_data["MainCategory"] == "Özel Beslenme":
+            meal_type_id = 7
+        elif meal_data["MainCategory"] == "Kurabiye":
+            meal_type_id = 8
+        elif meal_data["MainCategory"] == "Kek":
+            meal_type_id = 9
+        elif meal_data["MainCategory"] == "Pratik Tatlı":
+            meal_type_id = 10
+        elif meal_data["MainCategory"] == "Çorba":
+            meal_type_id = 11
+        elif meal_data["MainCategory"] == "Tavuk":
+            meal_type_id = 12
+        elif meal_data["MainCategory"] == "Diyet":
+            meal_type_id = 13
+        elif meal_data["MainCategory"] == "Vejeteryan":
+            meal_type_id = 14
+        elif meal_data["MainCategory"] == "Meze":
+            meal_type_id = 15
+        elif meal_data["MainCategory"] == "Pratik Hamur İşi":
+            meal_type_id = 16
+        elif meal_data["MainCategory"] == "Atıştırmalık":
+            meal_type_id = 17
+        elif meal_data["MainCategory"] == "Zeytinyağlı":
+            meal_type_id = 18
+        elif meal_data["MainCategory"] == "Pasta":
+            meal_type_id = 19
+        elif meal_data["MainCategory"] == "Balık":
+            meal_type_id = 20
+        elif meal_data["MainCategory"] == "Makarna":
+            meal_type_id = 21
+        elif meal_data["MainCategory"] == "Salata":
+            meal_type_id = 22
+        elif meal_data["MainCategory"] == "Dünya Mutfakları":
+            meal_type_id = 23
+        elif meal_data["MainCategory"] == "Pilav":
+            meal_type_id = 24
+        else:
+            meal_type_id = 23             
+        
+        image_url = meal_data["Image"]
+        insert = f"""INSERT INTO meals(id, name, recipe, meal_type_id, image_url) VALUES ({meal_id}, '{meal_name}', '{meal_recipe}', {meal_type_id}, '{image_url}')"""
+        cur.execute(insert)
+        existing_meals.append(meal_name)
+        next_id += 1 
+
+conn.commit()
+conn.close()

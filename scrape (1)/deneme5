@@ -1,0 +1,14 @@
+import json
+
+existing_meals = {}  # Mevcut yemekleri ve ID'lerini tutacak sözlük
+
+with open("food_in_the_meal.json", encoding='utf-8') as f:
+    data = json.load(f)
+
+for meal_id in data:
+    if meal_id not in existing_meals:
+        print(f"Meal_id {meal_id} does not exist in the meals table.")
+
+    for food_name, food_id in data[meal_id].items():
+       
+        pass
