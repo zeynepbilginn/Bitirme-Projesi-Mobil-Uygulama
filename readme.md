@@ -8,7 +8,7 @@ FitStorm, kilo vermek, kilo almak veya kiloyu korumak isteyen kullanıcılara y�
 
 ## Veri Tabanı Diyagramı (ERM Diyagramı)
 
-<img src="/img/resim%2024.jpg" alt="alt text" width="960" height="470">
+<img src="/img/resim%2024.jpg" alt="alt text" width="960" height="370">
 
 1.	Meals tablosu, bütün food tablosundaki malzemelerden oluşan farklı türdeki yemeklerin id’lerinin, isimlerinin (name), tariflerinin (recipe), yemeğinin tipinin id’sinin (meal_type_id) ve yemeklerin resim adreslerinini(img_url)  bulundurur.
 2.	Meal_type tablosunda bulunan yemeklerin bütün farklı olan tiplerinin id’lerini barındırır. Bu tablo meals tablosunda tekrar tekrar aynı isimleri yazmamak adına veri tasarrufu sağlanmak adına oluşturulmuştur.
@@ -23,7 +23,7 @@ FitStorm, kilo vermek, kilo almak veya kiloyu korumak isteyen kullanıcılara y�
 
 11.	Food_diet_types tablosunda her bir yiyeceğin numaraları (food_id) ve ve o yiyeceğin hangi diyet tipine göre olduğunu tutulması istenilmiştir. Bu yüzden de Diet_types tablosundaki diyet numaralarına (diet_type_id)  göre eklenmiştir.
 
-<img src="/img/resim%2025.jpg" alt="alt text" width="960" height="470">
+<img src="/img/resim%2025.jpg" alt="alt text" width="960" height="370">
 
 12.	Yukarıda yer alan food tablosu, bir gıda maddesini soyut bir şekilde temsil eder ve gıdanın tanımlayıcısı (id), adı (name), türü (type),proteini (protein), yağı (fat) ve karbonhidratları (carbohydrates) fiyatları (price), resimlerinin adresleri (img_url), ürünün miktarı(quantity)  ve miktarının cinsi (unit) gibi öz niteliklere sahiptir. 
 
